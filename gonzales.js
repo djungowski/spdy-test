@@ -21,16 +21,16 @@ var server = spdy.createServer(options, function(request, response) {
   if (urlInfo.pathname.search(imgRegex) && urlInfo.pathname != '/') {
 	response.writeHead(200);
 	try {
-		var responseource = fs.readFileSync(__dirname + '/www.chip.de/' + urlInfo.path);
+		var resource = fs.readFileSync(__dirname + '/www.chip.de/' + urlInfo.path);
 	} catch (e) {
-		var responseource = '';
+		var resource = '';
 	}
-	response.end(responseource);
+	response.end(resource);
   }	else {
 	  var content = fs.readFileSync(__dirname + '/www.chip.de/index.html', 'utf8');
+	  imagesJs.get(request, response, content);
 	  jsJs.get(request, response, content);
 	  cssJs.get(request, response, content);
-	  imagesJs.get(request, response, content);
 	  response.writeHead(200);
 	  response.end(content);
   }

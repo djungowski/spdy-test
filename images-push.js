@@ -9,7 +9,7 @@ exports.get = function(request, response, content) {
 
 		$('img', $(content)).each(function() {
 			var urlParts = url.parse($(this).attr('src'));
-			exports.header.push('https://me2-dev3.pocci.cxo.name' + urlParts.path);
+			exports.header.push('https://me2-dev3.pocci.cxo.name/' + urlParts.path);
 		});
 	}
 	
