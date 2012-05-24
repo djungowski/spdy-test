@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /preisvergleich/produktseite_load
+Disallow: /usercenter/
+Disallow: /artikel/CHIP-Online-Usercenter
+Disallow: /downloads/c1_downloads_auswahl
+Disallow: /preisvergleich/load_haendler_produkt_angebote.html
+Disallow: /preisvergleich/form.html
+Disallow: /preisvergleich/ajax.html
+Disallow: /preisvergleich/suchvorschlag.html
+Disallow: /misc/r.html
+Disallow: /newsticker/
+Disallow: /hphdas2/
+Disallow: /quiz/*/start
+
+
+Sitemap: http://www.chip.de/sitemap_news.xml
+Sitemap: http://www.chip.de/sitemap_index.xml
+Sitemap: http://www.chip.de/sitemap_c1_video.xml
+Sitemap: http://www.chip.de/preisvergleich/sitemap_index.xml

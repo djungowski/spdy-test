@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[CHIP Online TFT-Monitor]]></title>
+    <link>http://www.chip.de/Test-TFT-Monitor_13658199.html</link>
+    <description><![CDATA[TFT-Monitor: Tests und Infos bei CHIP Online]]></description>
+    <pubDate>Thu, 24 May 2012 15:45:28 +0000</pubDate>
+    <image>
+      <url>http://www.chip.de/i/chip_logo.gif</url>
+      <title>CHIP Online TFT-Monitor</title>
+      <link>http://www.chip.de/Test-TFT-Monitor_13658199.html</link>
+    </image>
+    <generator>CHIP Feed creator</generator>
+    <language>de</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Amazon Kindle 4: Im Praxis-Test mit Video]]></title>
+      <link>http://www.chip.de/news/Amazon-Kindle-4-Im-Praxis-Test-mit-Video_52374651.html</link>
+      <guid>http://www.chip.de/news/Amazon-Kindle-4-Im-Praxis-Test-mit-Video_52374651.html</guid>
+      <description><![CDATA[Geräte wie das iPad sollen die reinen E-Book-Reader überflüssig machen. Davon zeigt sich Amazon unbeeindruckt und präsentiert mit dem Kindle 4 nun die aktuelle Generation seines Lesegeräts für digitale Bücher. Wir haben uns den Reader genauer angesehen.]]></description>
+      <pubDate>Wed, 09 May 2012 12:18:10 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

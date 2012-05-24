@@ -1,0 +1,150 @@
+[
+    {
+        "name": "Handy Bestenliste",
+        "link": "http://www.chip.de/bestenlisten/Bestenliste-Handys--index/index/id/900/",
+        "separator": "false",
+        "orderId": "3",
+        "tableId": "0",
+        "active4Sitebar": true
+    },
+    {
+        "name": "App-Charts: Top 100",
+        "link": "http://www.chip.de/Handy-Downloads-Download-Charts_50159332.html",
+        "separator": "true",
+        "orderId": "0",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Top 100 iPhone-Apps",
+                "link": "http://www.chip.de/Handy-Downloads-Download-Charts-Top-100-der-Woche_50159909.html?xbl_category=59059",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Top 100 Android-Apps",
+                "link": "http://www.chip.de/Handy-Downloads-Download-Charts-Top-100-der-Woche_50159909.html?xbl_category=60988",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Top 100 iPad-Apps",
+                "link": "http://www.chip.de/Handy-Downloads-Download-Charts-Top-100-der-Woche_50159909.html?xbl_category=59111",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Apps & Downloads",
+        "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html",
+        "separator": "false",
+        "orderId": "1",
+        "tableId": "1",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Handy Download-Specials",
+                "link": "http://www.chip.de/handy/Handy-Downloads-Download-Specials_37130118.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "iPhone-Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59059&tid2=0 ",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "iPad-Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59111&tid2=0 ",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Android Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=60988&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Windows Phone Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=67928&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "bada OS",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59543&tid2=0 ",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Symbian-Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59446&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Handy-Software",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=61455&tid2=0 ",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Tests",
+        "link": "http://www.chip.de/handy/Handy-Test_37108733.html",
+        "separator": "false",
+        "orderId": "6",
+        "tableId": "0",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Tarife",
+        "link": "http://www.chip.de/handy/Handy-Tarife_37057521.html",
+        "separator": "false",
+        "orderId": "4",
+        "tableId": "2",
+        "active4Sitebar": true
+    },
+    {
+        "name": "News",
+        "link": "http://www.chip.de/handy/Handy-News_37170368.html",
+        "separator": "false",
+        "orderId": "5",
+        "tableId": "0",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Tipps & Tools",
+        "link": "http://www.chip.de/handy/Handy-Tipps-Tools_37057513.html",
+        "separator": "false",
+        "orderId": "2",
+        "tableId": "2",
+        "active4Sitebar": true
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[CHIP Online Navigationssystem]]></title>
+    <link>http://www.chip.de/Test-Navigation_13658165.html</link>
+    <description><![CDATA[Komplett-Navigationsysteme: Tests und Infos bei CHIP Online]]></description>
+    <pubDate>Sat, 05 May 2012 16:15:25 +0000</pubDate>
+    <image>
+      <url>http://www.chip.de/i/chip_logo.gif</url>
+      <title>CHIP Online Navigationssystem</title>
+      <link>http://www.chip.de/Test-Navigation_13658165.html</link>
+    </image>
+    <generator>CHIP Feed creator</generator>
+    <language>de</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Top 10 Spezial: Navigationssysteme mit den besten XXL-Touchscreens]]></title>
+      <link>http://www.chip.de/bildergalerie/Top-10-Spezial-Navigationssysteme-mit-den-besten-XXL-Touchscreens-Galerie_55232525.html</link>
+      <guid>http://www.chip.de/bildergalerie/Top-10-Spezial-Navigationssysteme-mit-den-besten-XXL-Touchscreens-Galerie_55232525.html</guid>
+      <description><![CDATA[<img style="border: 0px none; margin: 0px; padding: 0px;" align="right" alt="" width="60" height="49" src="http://www.chip.de/ii/492120197_fddf0830be.jpg" > ]]></description>
+      <pubDate>Thu, 05 Apr 2012 16:38:17 +0000</pubDate>
+      <enclosure url="http://www.chip.de/ii/492120197_fddf0830be.jpg" type="image/jpeg" length="1456"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[CHIP Online Business Hard- & Software]]></title>
+    <link>http://www.chip.de/Test-Business-Hard-Software_29340230.html</link>
+    <description><![CDATA[Produkte fürs Business: Tests und Infos bei CHIP Online]]></description>
+    <pubDate>Fri, 14 Jan 2011 10:15:24 +0000</pubDate>
+    <image>
+      <url>http://www.chip.de/i/chip_logo.gif</url>
+      <title>CHIP Online Business Hard- </title>
+      <link>http://www.chip.de/Test-Business-Hard-Software_29340230.html</link>
+    </image>
+    <generator>CHIP Feed creator</generator>
+    <language>de</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Test: Motorola Milestone (Handy)]]></title>
+      <link>http://www.chip.de/artikel/Motorola-Milestone-Handy-Test_39143627.html</link>
+      <guid>http://www.chip.de/artikel/Motorola-Milestone-Handy-Test_39143627.html</guid>
+      <description><![CDATA[<img style="border: 0px none; margin: 0px; padding: 0px;" align="right" alt="" width="60" height="72" src="http://www.chip.de/ii/7/4/8/8/2/5/3/82d3ec62c7a5a2f9.jpg" > Lange war es still um Motorola. Das ändert sich mit dem lange unter dem Namen Droid gehandelten Milestone. Motorola kann mit dem Android-Handy tatsächlich einen Meilenstein setzen und schafft den Sprung in die Top Ten der Handy-Bestenliste.]]></description>
+      <pubDate>Wed, 15 Dec 2010 10:15:39 +0000</pubDate>
+      <enclosure url="http://www.chip.de/ii/7/4/8/8/2/5/3/82d3ec62c7a5a2f9.jpg" type="image/jpeg" length="1510"/>
+    </item>
+  </channel>
+</rss>

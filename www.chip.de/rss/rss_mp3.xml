@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[CHIP Online MP3-Player]]></title>
+    <link>http://www.chip.de/Test-MP3-Player_13608499.html</link>
+    <description><![CDATA[MP3-Player: Tests und Infos bei CHIP Online]]></description>
+    <pubDate>Thu, 24 May 2012 15:45:28 +0000</pubDate>
+    <image>
+      <url>http://www.chip.de/i/chip_logo.gif</url>
+      <title>CHIP Online MP3-Player</title>
+      <link>http://www.chip.de/Test-MP3-Player_13608499.html</link>
+    </image>
+    <generator>CHIP Feed creator</generator>
+    <language>de</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Im Praxis-Test: Edel-Sounddock Sony XA-900IP]]></title>
+      <link>http://www.chip.de/news/Im-Praxis-Test-Edel-Sounddock-Sony-XA-900IP_55830183.html</link>
+      <guid>http://www.chip.de/news/Im-Praxis-Test-Edel-Sounddock-Sony-XA-900IP_55830183.html</guid>
+      <description><![CDATA[<img style="border: 0px none; margin: 0px; padding: 0px;" align="right" alt="" width="60" height="42" src="http://www.chip.de/ii/1/5/3/5/9/1/5/9/c9d948f79969832c.jpg" > Sony stellt mit dem XA-900IP ein hochwertiges Sounddock für iPod, iPhone und iPad vor, das neben seiner eleganten Optik auch viele Punkte auf der Ausstattungsliste abhakt und einen satten Klang liefert. Wir haben uns das edle Sounddock genauer angeschaut.]]></description>
+      <pubDate>Sat, 12 May 2012 12:46:32 +0000</pubDate>
+      <enclosure url="http://www.chip.de/ii/1/5/3/5/9/1/5/9/c9d948f79969832c.jpg" type="image/jpeg" length="2336"/>
+    </item>
+  </channel>
+</rss>

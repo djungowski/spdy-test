@@ -1,7 +1,10 @@
+var spdyMethod = 'hint';
+
 var spdy = require('spdy'),
     fs = require('fs'),
-	imagesJs = require('./images.js'),
-	cssJs = require('./css.js'),
+	imagesJs = require('./images-' + spdyMethod + '.js'),
+	cssJs = require('./css-' + spdyMethod + '.js'),
+	jsJs = require('./js-' + spdyMethod + '.js'),
 	url = require('url');
 	keysDir = '/root/node_modules/spdy/keys';
 
@@ -11,24 +14,25 @@ var options = {
   ca: fs.readFileSync(keysDir + '/spdy-csr.pem')
 };
 
-var server = spdy.createServer(options, function(req, res) {
-  var urlInfo = url.parse(req.url);
+var server = spdy.createServer(options, function(request, response) {
+  var urlInfo = url.parse(request.url);
 
   var imgRegex = /!(index\.html)$/;
   if (urlInfo.pathname.search(imgRegex) && urlInfo.pathname != '/') {
-	res.writeHead(200);
+	response.writeHead(200);
 	try {
-		var resource = fs.readFileSync(__dirname + '/www.chip.de/' + urlInfo.path);
+		var responseource = fs.readFileSync(__dirname + '/www.chip.de/' + urlInfo.path);
 	} catch (e) {
-		var resource = '';
+		var responseource = '';
 	}
-	res.end(resource);
+	response.end(responseource);
   }	else {
-	  res.writeHead(200);
-	  var content = fs.readFileSync(__dirname + '/www.chip.de/index.html');
-	  var css = cssJs.get(req, res, content);
-	  var images = imagesJs.get(req, res, content);
-	  res.end(content);
+	  var content = fs.readFileSync(__dirname + '/www.chip.de/index.html', 'utf8');
+	  jsJs.get(request, response, content);
+	  cssJs.get(request, response, content);
+	  imagesJs.get(request, response, content);
+	  response.writeHead(200);
+	  response.end(content);
   }
 });
 

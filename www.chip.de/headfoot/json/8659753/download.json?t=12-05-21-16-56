@@ -1,0 +1,1286 @@
+﻿[
+    {
+        "name": "Download-Charts",
+        "link": "http://www.chip.de/Downloads-Download-Charts_32427498.html",
+        "separator": "false",
+        "orderId": "14",
+        "tableId": "1",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Top 100 der Woche",
+                "link": "http://www.chip.de/Downloads-Download-Charts-Top-100-der-Woche_32368489.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Top 100 des Monats",
+                "link": "http://www.chip.de/Downloads-Download-Charts-Top-100-des-Monats_32417777.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Top 100 des Jahres",
+                "link": "http://www.chip.de/artikel/Die-beliebtesten-Downloads-des-Jahres_12836691.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Top 100 aller Zeiten",
+                "link": "http://www.chip.de/Downloads-Download-Charts-Top-100-aller-Zeiten_32417798.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Top 100 der Lesercharts",
+                "link": "http://www.chip.de/Downloads-Download-Charts-Top-100-aller-Zeiten-nach-Leserwertung_32637501.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Download-Special",
+        "link": "http://www.chip.de/Downloads-Download-Specials_14687716.html",
+        "separator": "false",
+        "orderId": "8",
+        "tableId": "2",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Download-Neuzugänge",
+        "link": "http://www.chip.de/Downloads_13649224.html?of=0",
+        "separator": "false",
+        "orderId": "5",
+        "tableId": "2",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Must-Have-Downloads",
+        "link": "http://www.chip.de/Downloads-Must-Have-Downloads_39127992.html",
+        "separator": "false",
+        "orderId": "12",
+        "tableId": "1",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Wallpaper.CHIP.de",
+        "link": "http://wallpaper.chip.de/",
+        "separator": "true",
+        "orderId": "0",
+        "tableId": "0",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Handy-Apps",
+        "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html",
+        "separator": "false",
+        "orderId": "0",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "App-Charts: Top 100",
+                "link": "http://www.chip.de/Handy-Downloads-Download-Charts_50159332.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Handy Download-Specials",
+                "link": "http://www.chip.de/handy/Handy-Downloads-Download-Specials_37130118.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "iPhone-Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59059&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "iPad-Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59111&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Android Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=60988&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Windows Phone Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=67928&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "bada OS",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59543&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Symbian-Apps",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=59446&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Handy-Software",
+                "link": "http://www.chip.de/handy/Handy-Downloads_37057523.html?tid1=61455&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Web-Apps",
+        "link": "http://www.chip.de/Web-Apps_38049259.html",
+        "separator": "false",
+        "orderId": "19",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Web-App-Charts: Top 100",
+                "link": "http://www.chip.de/Web-Apps-Charts_39384453.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Web-App-Specials",
+                "link": "http://www.chip.de/Downloads-Download-Specials_41835688.html",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "MacOS",
+        "link": "http://www.chip.de/Downloads-MacOS_51686905.html",
+        "separator": "false",
+        "orderId": "18",
+        "tableId": "0",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Linux",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=38916&tid2=0",
+        "separator": "true",
+        "orderId": "17",
+        "tableId": "0",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Audio & Video",
+        "link": "http://www.chip.de/Downloads-Audio-Video_51685470.html",
+        "separator": "false",
+        "orderId": "3",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "A&V-Bearbeitung",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38954&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Codecs",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38953&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Filmtrailer",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38957&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Converter",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38952&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Mediaplayer",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38950&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Mediaverwalter",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38956&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Recorder-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38951&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "TV-Karten-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38955&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Brennen & DVD",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=38910&tid2=0",
+        "separator": "false",
+        "orderId": "6",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Authoring-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38961&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Brenn-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38958&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "CD & DVD-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38962&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "DVD-Kopierer",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38959&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "DVD-Player",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38960&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Virtuelle Laufwerke",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38963&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Desktop & Modding",
+        "link": "http://www.chip.de/Downloads-Desktop-Modding_50760575.html",
+        "separator": "false",
+        "orderId": "9",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Boot-Screens",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38946&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Icon- & Cursor-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38943&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Multi-Desktops",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38948&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Schriftarten",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38949&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Screensaver",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38942&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Sidebars & Taskleisten",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38944&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Themes",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38947&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Widgets & Gadgets",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38945&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Wallpaper",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38940&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Foto & Grafik",
+        "link": "http://www.chip.de/Downloads-Foto-Grafik_51684538.html",
+        "separator": "false",
+        "orderId": "13",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "3D-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38936&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Bildbearbeiter",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38933&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Bildbetrachter",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38934&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Bildverwalter",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38935&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Filter & Effekte",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38938&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Malen & Zeichnen",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38937&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Screenshot-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38939&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Hobby & Unterhaltung",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=59328&tid2=0",
+        "separator": "false",
+        "orderId": "2",
+        "tableId": "2",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Auto & Sport",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59338&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Basteln & Heimwerken",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59340&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "eBooks & Handbücher",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59336&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Lernprogramme",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59329&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Musik & Videos",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59339&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Reisen & Freizeit",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59341&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Spaß- & Scherzprogramme",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59331&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Wissenschaft & Technik",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59335&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Wetter-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59337&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Internet, Online & Web",
+        "link": "http://www.chip.de/Downloads-Internet-Online-Web_50760464.html",
+        "separator": "false",
+        "orderId": "15",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Browser",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38918&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Browser-Erweiterungen",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38919&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Download Manager",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38922&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "E-Mail-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38923&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "eBay-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38925&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "FTP Clients",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38924&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Gebührenwächter",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38927&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Google Earth & Co",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38926&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Internet-Radio & TV",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38930&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Messenger & VoIP",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38921&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "RSS & Podcasts",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38929&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Server-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38931&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Tauschbörsen",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38920&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Web-Editoren",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38932&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Web-Dienste",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38928&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Office & Geld",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=38914&tid2=0",
+        "separator": "false",
+        "orderId": "1",
+        "tableId": "1",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Büro-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39020&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Datenbanken",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38982&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Fax- & Telefon-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38991&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Finanz- & Steuersoftware",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39023&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Lexika & Wörterbücher",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38984&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Management & Organisation",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38988&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Office-Erweiterungen",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39022&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "PDF-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38979&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Taschenrechner",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38995&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Vorlagen",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39021&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Handy & Mobile",
+        "link": "http://www.chip.de/Downloads-Handy-Mobile_51686933.html",
+        "separator": "false",
+        "orderId": "11",
+        "tableId": "0",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Handy-Software",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39000&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "iPod & MP3-Player",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39004&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "PDA-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39005&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Portable Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39002&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "PSP-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39006&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Sicherheit & Hilfe",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=38913&tid2=0",
+        "separator": "false",
+        "orderId": "4",
+        "tableId": "1",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Anonymisierung",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39014&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Anti-Dialer",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39015&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Anti-Spam",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39012&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Anti-Spyware",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39009&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Antiviren-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39008&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Backup-Programme",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39018&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Browser-Schutz",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39016&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Firewalls",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39010&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Handbücher",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39019&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Passwörter & Co",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39011&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Recovery-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39017&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Verschlüsselung",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39013&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Spiele",
+        "link": "http://www.chip.de/Downloads-Spiele_51686135.html",
+        "separator": "false",
+        "orderId": "7",
+        "tableId": "1",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Action & Shooters",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38971&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Adventures",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38968&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Aufbau & Wirtschaft",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59176&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Brettspiele & Kartenspiele",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38964&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Denk- & Rätselspiele",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38972&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Flash- & Browser-Spiele",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38965&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Fun- & Partyspiele",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59177&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Game Trailer",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38973&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Jump & Run",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38966&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Lernprogramme",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38975&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Patches & Treiber",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59174&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Retro Games",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38967&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Rollenspiele",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59170&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Scherzprogramme",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38976&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Spiele Demos",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59172&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Spiele Mods",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59495&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Spiele-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38974&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Spiele Wallpaper",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=59178&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Sport & Simulationen",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38970&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Strategie",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38969&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "Tuning & System",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=38912&tid2=0",
+        "separator": "true",
+        "orderId": "10",
+        "tableId": "1",
+        "active4Sitebar": true,
+        "subkat": [
+            {
+                "name": "Benchmarks",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38983&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Betriebssysteme",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38981&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Boot & Shutdown-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38990&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Drucker-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38996&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Festplatten-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38994&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Hardware-Tuning",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38978&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Installer & Uninstaller",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38992&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Internet-Tuning",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38980&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Maus & Tastatur-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38998&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Monitor-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38999&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Netzwerk-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39001&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Packer",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38986&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Programmieren",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=39003&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Registry-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38987&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Software-Tuning",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38977&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "System-Cleaner",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38985&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Treiber",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38993&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            },
+            {
+                "name": "Windows-Tools",
+                "link": "http://www.chip.de/Downloads_13649224.html?tid1=38989&tid2=0",
+                "separator": "false",
+                "orderId": null,
+                "tableId": "0",
+                "active4Sitebar": true
+            }
+        ]
+    },
+    {
+        "name": "BitTorrent-Download",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=34503&tid2=0",
+        "separator": "false",
+        "orderId": "16",
+        "tableId": "0",
+        "active4Sitebar": true
+    },
+    {
+        "name": "Beta-Downloads",
+        "link": "http://www.chip.de/Downloads_13649224.html?tid1=68105&tid2=0",
+        "separator": "false",
+        "orderId": "17",
+        "tableId": "0",
+        "active4Sitebar": true
+    }
+]

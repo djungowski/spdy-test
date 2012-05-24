@@ -1,0 +1,77 @@
+function CookieSave(name, value, days)
+	{
+		if (typeof days != 'undefined') {
+			var date = new Date();
+			date.setTime(date.getTime() + (days*24*60*60*1000));
+			var expires = "; expires=" + date.toGMTString();
+		} else {
+			var expires = "";
+		}
+		document.cookie = name + "=" + value + expires + "; path=/";
+	}
+
+	function CookieGet(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') {
+					c = c.substring(1,c.length);
+				}
+				if (c.indexOf(nameEQ) == 0) {
+					return c.substring(nameEQ.length,c.length);
+				}
+		}
+		return null;
+	}
+
+	function mredirect(){
+        var mconfirm = confirm('Wollen Sie das Angebot auf unserem mobilen Portal sehen?');
+        if(mconfirm == true){
+            window.location.href = mversion;
+        }else{
+            // Setze Cookie um spaetere Dialoge zu vermeiden
+            CookieSave('NoChipMobile', '1', '90');
+        }
+    }
+
+
+    function Client() {
+    }
+
+    Client.prototype.mobileClients = ["240x320","blackberry","netfront","nokia","panasonic","portalmmm","sharp","sie-","sonyericsson","symbian","windows ce","benq","mda","mot-","philips","pocket pc","sagem","samsung","sda","sgh-","vodafone","xda","iphone","android"];
+
+    Client.prototype.OperaMini = ["midp","opera mini"]
+
+    Client.prototype.isMobileClient = function(userAgent)
+    {
+        userAgent=userAgent.toLowerCase();
+        for (var i in this.mobileClients) {
+            if (userAgent.indexOf(this.mobileClients[i]) != -1) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+Client.prototype.isOperaMini = function(userAgent)
+    {
+        userAgent=userAgent.toLowerCase();
+        for (var i in this.OperaMini) {
+            if (userAgent.indexOf(this.OperaMini[i]) != -1) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    if(CookieGet('NoChipMobile') != 1) {
+	
+        var client = new Client();
+        if (client.isMobileClient(navigator.userAgent)) {
+				mredirect();
+            }
+        else if(client.isOperaMini(navigator.userAgent)){
+                document.observe('dom:loaded', mredirect);
+            } 
+        }

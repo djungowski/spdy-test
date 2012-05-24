@@ -1,0 +1,2876 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+<head>
+	<title>Preisvergleich - CHIP Online</title>
+<script type="text/javascript" src="/preisvergleich/js/Cookie.js?58363"></script>
+<script type="text/javascript" src="/preisvergleich/js/mobileredirect.js?58363"></script>
+<script type="text/javascript">
+	var chip_currpage_json = {"pagetitle":"PV_Index","container_id":"13636272","dachzeile":"PV_Index","abc":"Shopping","sales_belegungseinheit":"Preisvergleich","ivwkat":"359me2","bart_name":"PV_Homepage","me2_external_search":"","tree_nav_id":["9223","26784"],"tree_nav_name":["Navigation CHIP","Preisvergleich","none"],"tracking_mandant":"chip.de\/preisvergleich","js_interface":"tracking_obj"};
+</script>
+<meta name="robots" content="index,follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="canonical" href="/preisvergleich/" />
+<meta name="keywords" content="Preisvergleich, Produktvergleich, kaufen, g&uuml;nstig, preiswert, Vergleich, Test, Tests, CHIP Online, Schn&auml;ppchen, technische Daten, Datenblatt, Meinungen, Verbaucher, Produkttest, Mobile Ger&auml;te, Foto &amp; Zubeh&ouml;r, Computer &amp; Komponenten, Peripherieger&auml;te, Audio, Video, TV &amp; Kino, Software" />
+<meta name="description" content="Preisvergleich und Meinungen von Technik Produkten mit Test in den Kategorien Mobile Ger&auml;te, Foto &amp; Zubeh&ouml;r, Computer &amp; Komponenten, Peripherieger&auml;te, Audio, Video, TV &amp; Kino, Software von CHIP Online" />
+
+<!-- head_map v2 -->
+<link rel="stylesheet" type="text/css" href="/css/_merged/global.css" />
+<link rel="stylesheet" type="text/css" href="/css/_merged/adtech.css" />
+<script type="text/javascript" src="/js/_merged/efws.js"></script>
+<script type="text/javascript">
+EFWS.Script.loadScripts([
+'/js/_merged/jQuery.js',
+'/js/_merged/headfoot_pv.js',
+'/js/_merged/mvt.js'], '');
+</script>
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.chip.de/search.xml" title="CHIP Online Suche" />
+    
+
+<link rel="stylesheet" type="text/css" href="/preisvergleich/css/_merged/preisvergleich.css?t=58439">
+
+
+<script type="text/javascript" src="/preisvergleich/js/Me/Init.js?58363"></script>
+<script type="text/javascript">
+window.meUrlPath = '/preisvergleich';
+var meLoadScripts =
+	[
+        window.meUrlPath + '/js/prototype.js?58363',
+        window.meUrlPath + '/js/scriptaculous/effects.js?58363',
+        window.meUrlPath + '/js/chiplib/chiplib.js',
+        window.meUrlPath + '/js/Me/Page.js?58363',
+        window.meUrlPath + '/js/suchvorschlag.js?58363',
+        window.meUrlPath + '/js/me_showtab.js?58363',
+        'http://www.chip.de/js/_merged/jQuery.socialbar.js?58363'
+    ];
+</script>
+<!--[if lte IE 7]>
+  <link href="/preisvergleich/css/iehacks.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+      <link href="http://blog.chip.de/schnaeppchen-blog/feed/" rel="alternate" type="application/rss+xml" title="CHIP Online Schn&auml;ppchen Blog" />
+      <link href="http://www.chip.de/preisvergleich/rss.php?feed=beliebteste_produkte" rel="alternate" type="application/rss+xml" title="Beliebteste Produkte" />
+      <link href="http://www.chip.de/preisvergleich/rss.php?feed=top10_hersteller" rel="alternate" type="application/rss+xml" title="Top10 Hersteller" />
+      <link href="http://www.chip.de/preisvergleich/rss.php?feed=neueste_produkte" rel="alternate" type="application/rss+xml" title="Die neuesten Produkte" />
+      <link href="http://www.chip.de/preisvergleich/rss.php?feed=schnaeppchen" rel="alternate" type="application/rss+xml" title="Die besten SchnÃ¤ppchen" />
+  		<script type="text/javascript">
+	meLoadScripts.push(window.meUrlPath + '/js/mod_suchbox.js');
+	meLoadScripts.push(window.meUrlPath + '/js/Produktauswahl.js');
+	meLoadScripts.push(window.meUrlPath + '/js/Me/Page/Homepage.js');
+    EFWS.Script.loadScripts(meLoadScripts, '');
+	</script>
+</head>
+<body onload="docIsLoaded = true;">
+<style type="text/css">
+.cxo_tracking {
+  position: absolute; 
+  top: -100px;
+}
+</style><div class="cxo_tracking">
+<script type="text/javascript" language="JavaScript">
+// <![CDATA[    
+var szmvars="chip//CP//359me2";
+var escaped_referrer=escape(document.referrer);
+var random=Math.random();
+var img_tag = "<img id='ivw_651364849' src='http://chip.ivwbox.de/cgi-bin/ivw/CP/359me2;?r="+escaped_referrer+"&d="+random+"' width='1' height='1' alt='' />";
+document.write( img_tag );
+// ]]>
+</script>
+<noscript><img id='ivw_651364849_noscript' src='http://chip.ivwbox.de/cgi-bin/ivw/CP/359me2;?r=&amp;d=651364849' width="1" height="1" alt='' />
+</noscript><!-- SiteCatalyst code version: H.23.4.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com --><script src="http://www.chip.de/js/omniture_somtr_code_vH.23.4.js?version=H.23.4.20110808" type="text/javascript" ></script><script type="text/javascript">
+// <![CDATA[
+somtr.prop18="PV_Index";
+somtr.prop2="Shopping";
+somtr.prop48="Preisvergleich";
+somtr.prop49="359me2";
+somtr.prop3="PV_Homepage";
+somtr.channel="Preisvergleich";
+somtr.prop1="none";
+somtr.pageName="0013636272_PV_Index";
+somtr.server="www.chip.de";
+somtr.prop4="no";
+somtr.prop5="Donnerstag";
+somtr.prop14="yes";
+somtr.hier1="Shopping###Preisvergleich###none###PV_Homepage###no###0013636272_PV_Index";
+somtr.hier2="none###none###none###none###none###none";
+var gsr_ref=encodeURI(document.referrer); if ((gsr_ref.substring(0, 18) == 'http://www.google.') && (gsr_ref.split("cd=").length >= 2 )){var gsr_refx = gsr_ref.split("cd=")[1];if (gsr_refx.split("&").length >= 1) {var gsr = gsr_refx.split("&")[0]; somtr.prop29=gsr;}}
+function Client() {}
+Client.prototype.mobileClients = ["240x320","blackberry","netfront","nokia","panasonic","portalmmm","sharp","sie-","sonyericsson","symbian","windows ce","benq","mda","mot-","philips","pocket pc","sagem","samsung","sda","sgh-","vodafone","xda","iphone","android"];
+
+Client.prototype.OperaMini = ["midp","opera mini"]
+Client.prototype.isMobileClient = function(userAgent){
+    userAgent=userAgent.toLowerCase();
+    for (var i in this.mobileClients) {
+        if (userAgent.indexOf(this.mobileClients[i]) != -1) {
+            return true;
+        }
+    }
+    return false;
+}
+Client.prototype.isOperaMini = function(userAgent){
+    userAgent=userAgent.toLowerCase();
+    for (var i in this.OperaMini) {
+        if (userAgent.indexOf(this.OperaMini[i]) != -1) {
+            return true;
+        }
+   }
+   return false;
+}
+var client = new Client();
+if (client.isMobileClient(navigator.userAgent)) {somtr.prop36="1";} else if(client.isOperaMini(navigator.userAgent)){document.observe('dom:loaded', somtr.prop36="1");}var s_code=somtr.t();
+if(s_code)document.write(s_code);
+// ]]>
+</script><script language="JavaScript" type="text/javascript">
+<!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-'); //-->
+</script>
+<noscript>
+<a href="http://www.omniture.com" title="Web Analytics" rel="nofollow"><img src="http://omniture.chip.de/b/ss/cxochipde-prod/1/H.23.4.--NS/0?[AQB]&amp;pageName=0013636272_PV_Index[AQE]" height="1" width="1" border="0" alt="" /></a>
+</noscript>
+<!-- End SiteCatalyst code version: H.23.4. -->
+<script type="text/javascript" language="JavaScript">
+// <![CDATA[
+var r2sz=screen.width+'x'+screen.height+'x'+screen.colorDepth;
+var con=0;
+if (navigator.cookieEnabled) con=1;
+var random=Math.random();
+var img_tag = "<img id='rholive_467501343' src='http://r.chip.de/images/pic.gif?m=c1&amp;nc=0&amp;sep=%2C&amp;tce=1&amp;c=13636272&amp;b=&amp;l=&amp;tid=26784&amp;tp=9223&amp;tn=none&amp;tpn=Navigation+CHIP%2CPreisvergleich&amp;tc=9223%2C26784&amp;con="+con+"&amp;tit=PV_Homepage%3A+PV_Index&amp;url=http%3A%2F%2Fwww.chip.de%2Fpreisvergleich%2F&amp;json=0&amp;random="+Math.random()+"&amp;r="+escape(document.referrer)+"&amp;sz="+r2sz+"&amp;cs=1' width='1' height='1' alt='' />";
+document.write( img_tag );
+// ]]>
+</script>
+<noscript>
+<img id='rholive_467501343_noscript' src='http://r.chip.de/images/pic.gif?m=c1&amp;c=13636272&amp;sep=%2C&amp;tce=1&amp;b=&amp;l=&amp;tid=26784&amp;tp=9223&amp;tn=none&amp;tpn=Navigation+CHIP%2CPreisvergleich&amp;tc=9223%2C26784&amp;con="+con+"&amp;tit=PV_Homepage%3A+PV_Index&amp;url=http%3A%2F%2Fwww.chip.de%2Fpreisvergleich%2F&amp;json=0&amp;random=467501343&amp;r=&amp;cs=1' width='1' height='1' alt='' />
+</noscript>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['c._setAccount', 'UA-11018706-3']);
+  _gaq.push(['c._setDomainName', '.chip.de']);
+  _gaq.push(['c._setAllowHash', false]);
+  _gaq.push(['c._setCustomVar', 1, 'ABC', 'Shopping', 3]);
+  _gaq.push(['c._setCustomVar', 2, 'BArt', 'PV_Homepage', 3]);
+  _gaq.push(['c._setCustomVar', 3, 'IVW', '359me2', 3]);
+if (typeof(somtr) !== "undefined"){
+    if (typeof(somtr.prop36) !== "undefined") {
+        _gaq.push(['c._setCustomVar', 4, 'mobileDevice', somtr.prop36, 3]);}
+}
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['c._trackPageview']);
+  _gaq.push(['c._trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
+</script>
+<script type="text/javascript" language="JavaScript">
+// <![CDATA[
+
+function cxo_tracking (){
+    this.name = 'cxo_tracking';
+
+    this.subclasses = new Array();
+
+    this.anmelden = function ( superclass ) {
+        superclass.subclasses.push( this )
+    }
+
+    this.image_id = '';
+
+        this.refresh = function () {
+        //        console.log('hier meldet sich ' + this.image_id + ' mit einem refresh');
+                try {
+                        if(document.getElementById( this.image_id ) == null) {
+                             // console.error ('noImage');
+                        }
+
+                        // Randomwert von ivw wird neu gesetzt - Randomwert (&d=...) muss der letzte Parameter sein, da alles hinter &d= abgeschnitten wird!
+                        var pixelSrc = document.getElementById( this.image_id ).src;
+                        var dPos = pixelSrc.indexOf("&d=");
+                        if(dPos != -1) {
+                                pixelSrc = pixelSrc.substring(0, dPos) + "&d=" + Math.random();
+                        } else {
+                                pixelSrc = pixelSrc + "&d=" + Math.random();
+                        }
+                        var newPixel = document.createElement("img");
+                        newPixel.id = this.image_id;
+                        newPixel.src = pixelSrc;
+                        var oldPixel = document.getElementById( this.image_id );
+                        oldPixel.parentNode.replaceChild(newPixel, oldPixel);
+               } catch(e) {
+                         // console.error(e);
+               }
+        }
+}
+
+
+cxo_tracking_dispatcher = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'cxo_tracking_dispatcher';
+
+    this.refresh = function () {
+        for (var i in this.subclasses) {
+            try {
+                this.subclasses[i].refresh();
+            } catch (e) {
+//                console.error(e);
+            }
+        }
+    }
+}
+
+tracking_obj = new cxo_tracking_dispatcher();
+tracking_ivw = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'tracking_ivw';
+
+    this.image_id = 'ivw_651364849';
+}
+try {
+    tracking_ivw_obj = new tracking_ivw ();
+    tracking_ivw_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+tracking_omniture = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'tracking_omniture';
+
+    this.refresh = function () {
+//        console.log('hier meldet sich tracking_omniture.refresh');
+        var s_code="";
+        var s_code=somtr.t();
+    }
+}
+try {
+    tracking_omniture_obj = new tracking_omniture ();
+    tracking_omniture_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+tracking_rholive_level3 = function () {
+
+        this.inheritFrom = cxo_tracking;
+        this.inheritFrom();
+
+        this.name = 'tracking_rholive_level3';
+
+    this.image_id = 'rholive_467501343';
+}
+try {
+    tracking_rholive_level3_obj = new tracking_rholive_level3 ();
+    tracking_rholive_level3_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+tracking_google_analytics = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'tracking_google_analytics';
+
+    this.refresh = function () {
+        
+     window._gaq = _gaq || [];
+  _gaq.push(['c._setAccount', 'UA-11018706-3']);
+  _gaq.push(['c._setDomainName', '.chip.de']);
+  _gaq.push(['c._setAllowHash', false]);
+  _gaq.push(['c._setCustomVar', 1, 'ABC', 'Shopping', 3]);
+  _gaq.push(['c._setCustomVar', 2, 'BArt', 'PV_Homepage', 3]);
+  _gaq.push(['c._setCustomVar', 3, 'IVW', '359me2', 3]);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['c._trackPageview']);
+
+    }
+}
+try {
+    tracking_google_analytics_obj = new tracking_google_analytics ();
+    tracking_google_analytics_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+// ]]>
+</script>
+</div>
+
+
+<div id="header-global" >
+  <div id="header-wrapper">
+    <div id="header-v3">
+      <ul id="he-v1-nav">
+        <li class="firstNav dropDown currentChannel">
+          <a href='/headfoot/json/8659753/tk_.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Test &amp; Kaufberatung" href="http://www.chip.de/Test_12430122.html">Test &amp; Kaufberatung</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/Test_12430122.html?tid1=20432&amp;tid2=0" title="Aktuelle Hardware-Tests">Aktuelle Hardware-Tests</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/artikel/CHIP-Bestenlisten-Alle-Testsieger-im-ueberblick_12823667.html" title="Bestenlisten">Bestenlisten</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/" title="Handy">Handy</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Digitalkamera_13658113.html" title="Digitalkamera">Digitalkamera</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Notebook_13658055.html" title="Notebook">Notebook</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Home-Entertainment-Fernseher_24343261.html" title="Fernseher (LCD und Plasma)">Fernseher (LCD und Plasma)</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-PC-Hardware_24215565.html" title="PC Hardware">PC Hardware</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Software_13659530.html" title="Software">Software</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Software-Windows-7_38470426.html" title="Windows 7">Windows 7</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Tipps-Tools_13101526.html" title="Tipps &amp; Tools">Tipps &amp; Tools</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/DSL-Internet_13660046.html" title="DSL &amp; Internet">DSL &amp; Internet</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/CHIP-Video_17367032.html" title="CHIP-Video">CHIP-Video</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Spiele_13648840.html" title="Spiele">Spiele</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-TFT-Monitor_13658199.html" title="TFT-Monitor">TFT-Monitor</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-MP3-Player_13608499.html" title="MP3-Player">MP3-Player</a>
+              </li>
+            
+              <li>
+                <a href="http://free2play.chip.de/" title="free2play">free2play</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown ">
+          <a href='/headfoot/json/8659753/news.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="News" href="http://www.chip.de/News_29559209.html">News</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=9237&amp;tid2=0" title="Hardware">Hardware</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=42323&amp;tid2=0" title="Software">Software</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-News_37170368.html" title="Handy">Handy</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=20833&amp;tid2=0" title="Schn&auml;ppchen">Schn&auml;ppchen</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=38715&amp;tid2=0" title="Panorama">Panorama</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=9240&amp;tid2=0" title="Business">Business</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=9238&amp;tid2=0" title="DSL &amp; Tarife">DSL &amp; Tarife</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown ">
+          <a href='/headfoot/json/8659753/download.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Downloads" href="http://www.chip.de/Downloads_13649224.html">Downloads</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads-Download-Charts_32427498.html" title="Download-Charts">Download-Charts</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads-Download-Specials_14687716.html" title="Download-Specials">Download-Specials</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?of=0" title="Download-Neuzug&auml;nge">Download-Neuzug&auml;nge</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads-Must-Have-Downloads_39127992.html" title="Must-Have-Downloads">Must-Have-Downloads</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38909&amp;tid2=0" title="Audio &amp; Video">Audio &amp; Video</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=34503&amp;tid2=0" title="BitTorrent-Downloads">BitTorrent-Downloads</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38910&amp;tid2=0" title="Brennen &amp; DVD">Brennen &amp; DVD</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38908&amp;tid2=0" title="Desktop &amp; Modding">Desktop &amp; Modding</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38907&amp;tid2=0" title="Foto &amp; Grafik">Foto &amp; Grafik</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38915&amp;tid2=0" title="Handy &amp; Mobile">Handy &amp; Mobile</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38906&amp;tid2=0" title="Internet, Online &amp; Web">Internet, Online &amp; Web</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38916&amp;tid2=0" title="Linux">Linux</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38917&amp;tid2=0" title="MacOS">MacOS</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38914&amp;tid2=0" title="Office &amp; Geld">Office &amp; Geld</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38913&amp;tid2=0" title="Sicherheit &amp; Hilfe">Sicherheit &amp; Hilfe</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38911&amp;tid2=0" title="Spiele &amp; Unterhaltung">Spiele &amp; Unterhaltung</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38912&amp;tid2=0" title="Tuning &amp; System">Tuning &amp; System</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Web-Apps_38049259.html" title="Web-Apps">Web-Apps</a>
+              </li>
+            
+              <li>
+                <a href="http://wallpaper.chip.de/" title="Wallpaper.CHIP.de">Wallpaper.CHIP.de</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown left153 right-aligned ">
+          <a href='/headfoot/json/8659753/handy.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Handy" href="http://www.chip.de/handy/">Handy</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/bestenlisten/Bestenliste-Handys--index/index/id/598/" title="Bestenliste">Bestenliste</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Downloads_37057523.html" title="Apps &amp; Downloads">Apps &amp; Downloads</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Test_37108733.html" title="Tests">Tests</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Tarife_37057521.html" title="Tarife">Tarife</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-News_37170368.html" title="News">News</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Tipps-Tools_37057513.html" title="Tipps &amp; Tools">Tipps &amp; Tools</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown left137 right-aligned ">
+          <a href='/headfoot/json/8659753/business.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Business" href="http://business.chip.de/">Business</a>
+          <ul>
+            
+              <li>
+                <a href="http://business.chip.de/Business-News_41258338.html" title="News">News</a>
+              </li>
+            
+              <li>
+                <a href="http://business.chip.de/Business-Hardware_41258344.html" title="Hardware">Hardware</a>
+              </li>
+            
+              <li>
+                <a href="http://business.chip.de/Business-Mittelstand_41258311.html" title="Mittelstand">Mittelstand</a>
+              </li>
+            
+              <li>
+                <a href="http://business.chip.de/Business-Admin_41212810.html" title="Admin">Admin</a>
+              </li>
+            
+          </ul>
+       </li>
+       <li class="lastNav dropDown left122 right-aligned ">
+         <a href='/headfoot/json/8659753/community.json?t=12-05-21-16-56' class='attrHolder'></a>
+         <a title="Community" href="http://forum.chip.de">Community</a>
+         <ul class="lastNav">
+            
+              <li>
+                <a href="http://www.chip.de/quiz/" title="Quiz">Quiz</a>
+              </li>
+            
+              <li>
+                <a href="http://download.chip.eu/de/" title="Download CHIP.eu">Download CHIP.eu</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/" title="Foren-&Uuml;bersicht">Foren-&Uuml;bersicht</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/newestThreads.php" title="Forum: Neue Themen">Forum: Neue Themen</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/specials/" title="Specials">Specials</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/betriebssysteme/" title="Betriebssysteme">Betriebssysteme</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/spiele/" title="Spiele">Spiele</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/test-kaufberatung/" title="Test &amp; Kaufberatung">Test &amp; Kaufberatung</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/pc-komponenten/" title="PC-Komponenten">PC-Komponenten</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/hardware-praxis/" title="Hardware (Praxis)">Hardware (Praxis)</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/internet/" title="Internet">Internet</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/multimedia/" title="Multimedia">Multimedia</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/software/" title="Software">Software</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/handy-tipps-beratung/" title="Handy-Tipps und Beratung">Handy-Tipps und Beratung</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/handy-smartphone/" title="Handy &amp; Smartphone">Handy &amp; Smartphone</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/mobilfunk-netze/" title="Mobilfunk &amp; Netze">Mobilfunk &amp; Netze</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/entwicklung/" title="Entwicklung">Entwicklung</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/offtopic/" title="Offtopic">Offtopic</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/feedback/" title="Feedback">Feedback</a>
+              </li>
+            
+              <li>
+                <a href="http://blog.chip.de/" title="CHIP Produkttest Blogs">CHIP Produkttest Blogs</a>
+              </li>
+            
+         </ul>
+        </li>
+      </ul>
+
+	      <a href="http://www.chip.de" id="chip-logo" title="CHIP Online"><img id="chip-logo-img" src="http://chip01.chipimages.de/i/headfoot/chip-online-logo.gif" width="139" height="59" alt="CHIP Online"/></a>
+	      <div id="quickNav">
+        <table cellpadding="0" cellspacing="0" summary="quickNav">
+          <tr>
+            <td class="noBorder">&nbsp;<br />&nbsp;</td>
+            <td><a href="http://www.chip.de/preisvergleich/Die-beliebtesten-Produkte.html?se=top10&amp;type=produkte&amp;chk=MmMwZDYwMWQyMGVkMmE1YTNjZjY5NzBmMjBmOGIyODA." title="Top 500">Top 500</a></td>
+            <td class="noBorder">&nbsp;<br />&nbsp;</td>
+            <td><a href="http://www.chip.de/preisvergleich/haendleruebersicht.html" title="Shops">Shops</a></td>
+            <td class="noBorder">&nbsp;<br />&nbsp;</td>
+            <td><a href="http://www.chip.de/feedback/c1_feedback_preisvergleich.html" title="Fehler melden">Fehler melden</a></td>
+          </tr>
+        </table>
+      </div>
+
+
+<div id="suchform-wrapper">
+	<form action="/preisvergleich//form.html" method="get" id="suchform">
+					<input type="hidden" value="produktliste" name="se" />
+
+					<input type="hidden" value="1" name="xx_form" />
+					<input type="hidden" value="1" name="xx_or" />
+					<input type="hidden" value="13" name="xx_ref_id" />
+					<input type="hidden" value="ZGZkNWE3OWNiM2I5OTFmMGNlZDllMTcyZWFjZjhiN2Y." name="chk" />
+				<input type="hidden" value="Produktsuche" name="filter"/>
+		<input type="hidden" value="" name="external"/>
+		<input type="text" name="suchstring" id="me-suche-header-suchstring" value="" class="mod_suche_header_suchstring" />
+		<input name="submit" src="http://www.chip.de/c1_i/he-v1-suche-btn-autumn.gif" class="me-suche-header-submit" align="top" type="image">
+		<div id="me-suche-header-suchvorschlag" class="me-suchvorschlag" style="display: none"></div>			
+	</form>
+
+</div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Suchvorschlag //-->
+<script type="text/javascript">
+
+try {
+	window.meQuickSearch['header'] = initSuchvorschlag('me-suche-header-suchvorschlag', 'me-suche-header-suchstring', 'http://www.chip.de/preisvergleich/form.html?se=suchvorschlag&amp;xx_form=1&amp;xx_or=-1&amp;xx_ref_id=13&amp;chk=YjU1OWMwYzRkYjI3MjkwMTkyMGZlZDBhYWQ1NDUzMDI.');
+} catch (e) {
+	window.meQuickSearchData['header'] = {
+		divId: 'me-suche-header-suchvorschlag',
+		inputId: 'me-suche-header-suchstring',
+		url: 'http://www.chip.de/preisvergleich/form.html?se=suchvorschlag&amp;xx_form=1&amp;xx_or=-1&amp;xx_ref_id=13&amp;chk=YjU1OWMwYzRkYjI3MjkwMTkyMGZlZDBhYWQ1NDUzMDI.'
+        
+	};
+}
+
+</script>
+<!-- /Suchvorschlag //-->
+<div id="chip-wrapper">
+
+<script type='text/javascript'>  
+</script>
+
+            <script type="text/javascript" src="/cxo_adtech/js/cxo_adtech-57959-min.js"></script>
+         
+
+<script type="text/javascript">
+var cxo_adtech_publisher = 'chip';
+var cxo_adtech_language = '';
+var cxo_adtech_page_layout = '';
+var cxo_adtech_page_layout_id = '';
+var cxo_adtech_page_title = 'pv_index';
+var cxo_adtech_bart_name = 'pv_homepage';
+var cxo_adtech_channel = '26784';
+var cxo_adtech_subchannel = '26784';
+var cxo_adtech_gallery = false;
+</script>
+
+<script type='text/javascript'>
+</script>
+<span id="google_iframe_container_v3" style="display:none; visibility:hidden;"></span>
+<script type="text/javascript">
+    Cxo_Adtech.google = new Cxo_Adtech_Google();
+    Cxo_Adtech.google.setVariables({"usage":"afc","ad_client":"ca-chip-de_js","ad_output":"js","ad_type":"text","safe":"high","feedback":"on","adtest":"off","analytics_uacct":"UA-11018706-3","analytics_domain_name":"none","language":"de","ad_channel":"chip_shopping"});
+    google_analytics_uacct = "UA-11018706-3"; 
+    google_analytics_domain_name = "none";
+</script>
+<div id="top-banner-me" name="top" style="margin:0pt;visibility:visible;z-index:50;text-align:center;width:828px;" ></div>
+<div id="chip"> 
+<div class="me-center">
+	<div class="me-pfad">
+		<!-- pfad -->
+<div id="me2_pfad">
+    <div class="icon">&nbsp;</div>
+    <p>Sie sind hier:</p>
+    <p><a href="/">Home</a></p>
+    <p class="pfad_arrow">&nbsp;</p>
+    <p><a href="/preisvergleich/">Preisvergleich</a></p>
+    </div>
+<!-- /pfad -->
+	</div>
+	<div class="me-content">
+				<div class="linke_spalte">
+			<div class="me-suchbox">
+				<div class="me-tab-modules">
+	<ul id="me-tabliste-3" class="tab-ul module-count-3">
+				<li id="me_t3-1" class="tab me-tab-module-switch current_suche">
+			<a href="#" class="tab me-tab-module-switch me-prevent-default">suchen</a>
+		</li>
+				<li id="me_t3-2" class="tab me-tab-module-switch">
+			<a href="#" class="tab me-tab-module-switch me-prevent-default">vergleichen</a>
+		</li>
+				<li id="me_t3-3" class="tab me-tab-module-switch">
+			<a href="#" class="tab me-tab-module-switch me-prevent-default">ausw&auml;hlen</a>
+		</li>
+			</ul>
+		<div id="me_tab3-1" class="me-tabliste-content" style="display: block;">
+		<div id="mod_suchbox">
+    <div id="tabcontentcontainer_suche" class="boxmithintergrundbild">
+	<noscript><span class="c_red bold center suchbox_left_padded" >F&uuml;r die komplette Funktionalit&auml;t aktivieren Sie bitte Javascript.</span></noscript>
+	    <div id="me_tab11" class="tabcontent_suche">
+			<form id="foo1" method="get" action="/preisvergleich/form.html">
+			                <input type="hidden" value="produktliste" name="se" />
+	                        <input type="hidden" value="1" name="xx_form" />
+	                        <input type="hidden" value="-1" name="xx_or" />
+	                        <input type="hidden" value="ZDE1ZWE1NjY1NTYxZDkwZWQ5NTFjM2NmYTcxZTI2ZTg." name="chk" />
+	        			<input type="hidden" name="filter" value="Produktsuche" />
+			<input type="hidden" name="external" value="" />
+			<div>				<div class="suchbox_padded">						<h3 class="produkt_suche">Produktsuche im Preisvergleich</h3>
+				</div>
+				<div class="suchbox_padded">                    <input 	type="text" name="suchstring_box" value="Produktsuche" size="30" id="suchstring_box" />
+                    <input type="checkbox" id="aktuelle_angebote" name="aktuelle_angebote" value="1" checked="checked" />
+                     Nur Produkte mit Angeboten
+                    <div id="me-suchbox-suchvorschlag" class="me-suchvorschlag me-suchvorschlag-header-new" style="display: none"></div>
+				</div>
+				<div class="suchbox_padded">												<select name="kategorie_id" id="kategorie_id">
+							<option value="">Kategorien</option>
+															<option value="42">
+									All-In-One Drucker
+								</option>
+															<option value="44">
+									Anwendungs-Software
+								</option>
+															<option value="52">
+									Arbeitsspeicher / RAM
+								</option>
+															<option value="20">
+									Beamer / Projektor
+								</option>
+															<option value="25">
+									Betriebssystem
+								</option>
+															<option value="131">
+									Blu-Ray-Brenner
+								</option>
+															<option value="30">
+									Büro-Software
+								</option>
+															<option value="19">
+									Camcorder
+								</option>
+															<option value="130">
+									Desktop-Set / Maus & Tastatur
+								</option>
+															<option value="667">
+									Digital Receiver
+								</option>
+															<option value="674">
+									Digitaler Bilderrahmen
+								</option>
+															<option value="6">
+									Digitalkamera
+								</option>
+															<option value="17">
+									DVD- und Blu-Ray-Player
+								</option>
+															<option value="18">
+									DVD- und Blu-Ray-Rekorder
+								</option>
+															<option value="47">
+									DVD-Brenner
+								</option>
+															<option value="45">
+									Festplatte & Multimedia-Player
+								</option>
+															<option value="49">
+									Grafikkarte
+								</option>
+															<option value="2">
+									Handy & Smartphone
+								</option>
+															<option value="35">
+									Heimkino System
+								</option>
+															<option value="668">
+									Internetradio
+								</option>
+															<option value="677">
+									Kopfhörer & Headset
+								</option>
+															<option value="10">
+									Laserdrucker
+								</option>
+															<option value="33">
+									LCD- und LED-TV
+								</option>
+															<option value="15">
+									Maus
+								</option>
+															<option value="50">
+									Motherboard
+								</option>
+															<option value="4">
+									MP3-Player & Video-Player
+								</option>
+															<option value="129">
+									Navigationssystem / GPS
+								</option>
+															<option value="675">
+									Netzteil
+								</option>
+															<option value="5">
+									Notebook
+								</option>
+															<option value="246">
+									Objektiv
+								</option>
+															<option value="244">
+									PC-Gehäuse
+								</option>
+															<option value="7">
+									PC-System
+								</option>
+															<option value="34">
+									Plasma-TV
+								</option>
+															<option value="51">
+									Prozessor / CPU
+								</option>
+															<option value="676">
+									Prozessorkühler
+								</option>
+															<option value="12">
+									Scanner
+								</option>
+															<option value="43">
+									Sicherheit / Antivirus & Firewall
+								</option>
+															<option value="37">
+									Sonstiges
+								</option>
+															<option value="53">
+									Soundkarte
+								</option>
+															<option value="32">
+									Speicherkarte
+								</option>
+															<option value="125">
+									Spielkonsole & Zubehör
+								</option>
+															<option value="14">
+									Surround-Sound-System
+								</option>
+															<option value="672">
+									Tablet PC
+								</option>
+															<option value="671">
+									Tablets & E-Books
+								</option>
+															<option value="16">
+									Tastatur
+								</option>
+															<option value="8">
+									TFT-Monitor
+								</option>
+															<option value="11">
+									Tintenstrahldrucker & Fotodrucker
+								</option>
+															<option value="673">
+									Universalfernbedienung
+								</option>
+															<option value="41">
+									USB-Stick
+								</option>
+															<option value="13">
+									Webcam
+								</option>
+															<option value="57">
+									WLAN & Zubehör
+								</option>
+													</select>
+						<input type="submit" class="powersuche_submit" value="Anzeigen" />
+				</div>
+			</div>			</form>
+		</div>
+	</div>
+	<br />
+</div>
+<!-- Suchvorschlag //-->
+<script type="text/javascript">
+
+try {
+	window.meQuickSearch['searchbox'] = initSuchvorschlag('me-suchbox-suchvorschlag', 'suchstring_box', 'http://www.chip.de/preisvergleich/form.html?se=suchvorschlag&amp;xx_form=1&amp;chk=MTM2NjU3YjgzZWUxZTNlMTdiNTcyMDM0ZjUzM2JjNjM.', 'kategorie_id');
+} catch (e) {
+	window.meQuickSearchData['searchbox'] = {
+		divId: 'me-suchbox-suchvorschlag',
+		inputId: 'suchstring_box',
+		url: 'http://www.chip.de/preisvergleich/form.html?se=suchvorschlag&amp;xx_form=1&amp;chk=MTM2NjU3YjgzZWUxZTNlMTdiNTcyMDM0ZjUzM2JjNjM.',
+		categoryId: 'kategorie_id'
+	};
+}
+
+</script>
+<!-- /Suchvorschlag //-->
+	</div>
+		<div id="me_tab3-2" class="me-tabliste-content" style="">
+		<script type="text/javascript">
+window.meProduktvergleichReloadLink = '/preisvergleich/form.html?se=ajax&amp;xx_form=1&amp;xx_modul=suchbox&amp;xx_returntype=json&amp;chk=MmRmODZkMzZlZjIxZmU0NzQ4MDg1MzE4MTM4NjI2Mjc.';
+</script>
+<div id="me-produktvergleichsbox">
+	<div id="tabcontentcontainer_suche" class="boxmithintergrundbild">
+	<noscript><span class="c_red bold center">F&uuml;r die komplette Funktionalit&auml;t aktivieren Sie bitte Javascript.</span></noscript>
+	    <div id="me_tab12" class="tabcontent_suche">
+			<form action="/preisvergleich/form.html" method="get">
+			                <input type="hidden" value="produktvergleich" name="se" />
+	                        <input type="hidden" value="L3ByZWlzdmVyZ2xlaWNoLw.." name="xx_back_link" />
+	                        <input type="hidden" value="1" name="xx_form" />
+	                        <input type="hidden" value="NjJjODM1NjJhZjk4NzAzMDUyZmZkNTIyMzNiMjQwMDg." name="chk" />
+	        	        <input type="hidden" name="external" value="" />
+			<div>				<div>
+                    <h3 class="produkt_suche">Produktvergleich</h3>
+                    <img src="/preisvergleich/img/1.gif" title="erster Schritt" alt="erster Schritt" align="top" /> nach Kategorie,
+                    <img src="/preisvergleich/img/2.gif" title="zweiter Schritt" alt="zweiter Schritt" align="top" /> Hersteller,
+                    <img src="/preisvergleich/img/3.gif" title="dritter Schritt" alt="dritter Schritt"  align="top" /> Produkt
+				</div>
+				<div>
+					<span id="warning" class="c_red"></span>
+				</div>
+				<div>
+												<select name="kategorie_id" id="kategorien11">
+															<option value="0" selected="selected">Kategorien</option>
+																						<option value="42">
+									All-In-One Drucker
+								</option>
+															<option value="44">
+									Anwendungs-Software
+								</option>
+															<option value="52">
+									Arbeitsspeicher / RAM
+								</option>
+															<option value="20">
+									Beamer / Projektor
+								</option>
+															<option value="25">
+									Betriebssystem
+								</option>
+															<option value="131">
+									Blu-Ray-Brenner
+								</option>
+															<option value="30">
+									Büro-Software
+								</option>
+															<option value="19">
+									Camcorder
+								</option>
+															<option value="130">
+									Desktop-Set / Maus & Tastatur
+								</option>
+															<option value="667">
+									Digital Receiver
+								</option>
+															<option value="674">
+									Digitaler Bilderrahmen
+								</option>
+															<option value="6">
+									Digitalkamera
+								</option>
+															<option value="17">
+									DVD- und Blu-Ray-Player
+								</option>
+															<option value="18">
+									DVD- und Blu-Ray-Rekorder
+								</option>
+															<option value="47">
+									DVD-Brenner
+								</option>
+															<option value="45">
+									Festplatte & Multimedia-Player
+								</option>
+															<option value="49">
+									Grafikkarte
+								</option>
+															<option value="2">
+									Handy & Smartphone
+								</option>
+															<option value="35">
+									Heimkino System
+								</option>
+															<option value="668">
+									Internetradio
+								</option>
+															<option value="677">
+									Kopfhörer & Headset
+								</option>
+															<option value="10">
+									Laserdrucker
+								</option>
+															<option value="33">
+									LCD- und LED-TV
+								</option>
+															<option value="15">
+									Maus
+								</option>
+															<option value="50">
+									Motherboard
+								</option>
+															<option value="4">
+									MP3-Player & Video-Player
+								</option>
+															<option value="129">
+									Navigationssystem / GPS
+								</option>
+															<option value="675">
+									Netzteil
+								</option>
+															<option value="5">
+									Notebook
+								</option>
+															<option value="246">
+									Objektiv
+								</option>
+															<option value="244">
+									PC-Gehäuse
+								</option>
+															<option value="7">
+									PC-System
+								</option>
+															<option value="34">
+									Plasma-TV
+								</option>
+															<option value="51">
+									Prozessor / CPU
+								</option>
+															<option value="676">
+									Prozessorkühler
+								</option>
+															<option value="12">
+									Scanner
+								</option>
+															<option value="43">
+									Sicherheit / Antivirus & Firewall
+								</option>
+															<option value="37">
+									Sonstiges
+								</option>
+															<option value="53">
+									Soundkarte
+								</option>
+															<option value="32">
+									Speicherkarte
+								</option>
+															<option value="125">
+									Spielkonsole & Zubehör
+								</option>
+															<option value="14">
+									Surround-Sound-System
+								</option>
+															<option value="672">
+									Tablet PC
+								</option>
+															<option value="671">
+									Tablets & E-Books
+								</option>
+															<option value="16">
+									Tastatur
+								</option>
+															<option value="8">
+									TFT-Monitor
+								</option>
+															<option value="11">
+									Tintenstrahldrucker & Fotodrucker
+								</option>
+															<option value="673">
+									Universalfernbedienung
+								</option>
+															<option value="41">
+									USB-Stick
+								</option>
+															<option value="13">
+									Webcam
+								</option>
+															<option value="57">
+									WLAN & Zubehör
+								</option>
+													</select>
+												<select name="hersteller_id" id="hersteller11" disabled="disabled">
+							<option value="0" selected="selected">Hersteller</option>
+												</select>
+												<select name="produkte[0]" id="produkte11" disabled="disabled">
+                            <option value="0" selected="selected">Produkte</option>
+                        </select>
+				</div>
+				<div>
+												<select name="kategorie_id" id="kategorien12">
+															<option value="0" selected="selected">Kategorien</option>
+																						<option value="42">
+									All-In-One Drucker
+								</option>
+															<option value="44">
+									Anwendungs-Software
+								</option>
+															<option value="52">
+									Arbeitsspeicher / RAM
+								</option>
+															<option value="20">
+									Beamer / Projektor
+								</option>
+															<option value="25">
+									Betriebssystem
+								</option>
+															<option value="131">
+									Blu-Ray-Brenner
+								</option>
+															<option value="30">
+									Büro-Software
+								</option>
+															<option value="19">
+									Camcorder
+								</option>
+															<option value="130">
+									Desktop-Set / Maus & Tastatur
+								</option>
+															<option value="667">
+									Digital Receiver
+								</option>
+															<option value="674">
+									Digitaler Bilderrahmen
+								</option>
+															<option value="6">
+									Digitalkamera
+								</option>
+															<option value="17">
+									DVD- und Blu-Ray-Player
+								</option>
+															<option value="18">
+									DVD- und Blu-Ray-Rekorder
+								</option>
+															<option value="47">
+									DVD-Brenner
+								</option>
+															<option value="45">
+									Festplatte & Multimedia-Player
+								</option>
+															<option value="49">
+									Grafikkarte
+								</option>
+															<option value="2">
+									Handy & Smartphone
+								</option>
+															<option value="35">
+									Heimkino System
+								</option>
+															<option value="668">
+									Internetradio
+								</option>
+															<option value="677">
+									Kopfhörer & Headset
+								</option>
+															<option value="10">
+									Laserdrucker
+								</option>
+															<option value="33">
+									LCD- und LED-TV
+								</option>
+															<option value="15">
+									Maus
+								</option>
+															<option value="50">
+									Motherboard
+								</option>
+															<option value="4">
+									MP3-Player & Video-Player
+								</option>
+															<option value="129">
+									Navigationssystem / GPS
+								</option>
+															<option value="675">
+									Netzteil
+								</option>
+															<option value="5">
+									Notebook
+								</option>
+															<option value="246">
+									Objektiv
+								</option>
+															<option value="244">
+									PC-Gehäuse
+								</option>
+															<option value="7">
+									PC-System
+								</option>
+															<option value="34">
+									Plasma-TV
+								</option>
+															<option value="51">
+									Prozessor / CPU
+								</option>
+															<option value="676">
+									Prozessorkühler
+								</option>
+															<option value="12">
+									Scanner
+								</option>
+															<option value="43">
+									Sicherheit / Antivirus & Firewall
+								</option>
+															<option value="37">
+									Sonstiges
+								</option>
+															<option value="53">
+									Soundkarte
+								</option>
+															<option value="32">
+									Speicherkarte
+								</option>
+															<option value="125">
+									Spielkonsole & Zubehör
+								</option>
+															<option value="14">
+									Surround-Sound-System
+								</option>
+															<option value="672">
+									Tablet PC
+								</option>
+															<option value="671">
+									Tablets & E-Books
+								</option>
+															<option value="16">
+									Tastatur
+								</option>
+															<option value="8">
+									TFT-Monitor
+								</option>
+															<option value="11">
+									Tintenstrahldrucker & Fotodrucker
+								</option>
+															<option value="673">
+									Universalfernbedienung
+								</option>
+															<option value="41">
+									USB-Stick
+								</option>
+															<option value="13">
+									Webcam
+								</option>
+															<option value="57">
+									WLAN & Zubehör
+								</option>
+													</select>
+												<select name="hersteller_id" id="hersteller12" disabled="disabled">
+							<option value="0" selected="selected">Hersteller</option>
+													</select>
+												<select name="produkte[1]" id="produkte12" disabled="disabled">
+						 	<option value="0" selected="selected">Produkte</option>
+						</select>
+						<span id="submit1">
+							<input type="submit" class="powersuche_submit" id="produktvergleich-submit" value="Anzeigen" />
+						</span>
+				</div>
+				<div id="tr13">
+												<select name="kategorie_id" id="kategorien13">
+																			<option value="0" selected="selected">Kategorien</option>
+																												<option value="42">
+											All-In-One Drucker
+										</option>
+																			<option value="44">
+											Anwendungs-Software
+										</option>
+																			<option value="52">
+											Arbeitsspeicher / RAM
+										</option>
+																			<option value="20">
+											Beamer / Projektor
+										</option>
+																			<option value="25">
+											Betriebssystem
+										</option>
+																			<option value="131">
+											Blu-Ray-Brenner
+										</option>
+																			<option value="30">
+											Büro-Software
+										</option>
+																			<option value="19">
+											Camcorder
+										</option>
+																			<option value="130">
+											Desktop-Set / Maus & Tastatur
+										</option>
+																			<option value="667">
+											Digital Receiver
+										</option>
+																			<option value="674">
+											Digitaler Bilderrahmen
+										</option>
+																			<option value="6">
+											Digitalkamera
+										</option>
+																			<option value="17">
+											DVD- und Blu-Ray-Player
+										</option>
+																			<option value="18">
+											DVD- und Blu-Ray-Rekorder
+										</option>
+																			<option value="47">
+											DVD-Brenner
+										</option>
+																			<option value="45">
+											Festplatte & Multimedia-Player
+										</option>
+																			<option value="49">
+											Grafikkarte
+										</option>
+																			<option value="2">
+											Handy & Smartphone
+										</option>
+																			<option value="35">
+											Heimkino System
+										</option>
+																			<option value="668">
+											Internetradio
+										</option>
+																			<option value="677">
+											Kopfhörer & Headset
+										</option>
+																			<option value="10">
+											Laserdrucker
+										</option>
+																			<option value="33">
+											LCD- und LED-TV
+										</option>
+																			<option value="15">
+											Maus
+										</option>
+																			<option value="50">
+											Motherboard
+										</option>
+																			<option value="4">
+											MP3-Player & Video-Player
+										</option>
+																			<option value="129">
+											Navigationssystem / GPS
+										</option>
+																			<option value="675">
+											Netzteil
+										</option>
+																			<option value="5">
+											Notebook
+										</option>
+																			<option value="246">
+											Objektiv
+										</option>
+																			<option value="244">
+											PC-Gehäuse
+										</option>
+																			<option value="7">
+											PC-System
+										</option>
+																			<option value="34">
+											Plasma-TV
+										</option>
+																			<option value="51">
+											Prozessor / CPU
+										</option>
+																			<option value="676">
+											Prozessorkühler
+										</option>
+																			<option value="12">
+											Scanner
+										</option>
+																			<option value="43">
+											Sicherheit / Antivirus & Firewall
+										</option>
+																			<option value="37">
+											Sonstiges
+										</option>
+																			<option value="53">
+											Soundkarte
+										</option>
+																			<option value="32">
+											Speicherkarte
+										</option>
+																			<option value="125">
+											Spielkonsole & Zubehör
+										</option>
+																			<option value="14">
+											Surround-Sound-System
+										</option>
+																			<option value="672">
+											Tablet PC
+										</option>
+																			<option value="671">
+											Tablets & E-Books
+										</option>
+																			<option value="16">
+											Tastatur
+										</option>
+																			<option value="8">
+											TFT-Monitor
+										</option>
+																			<option value="11">
+											Tintenstrahldrucker & Fotodrucker
+										</option>
+																			<option value="673">
+											Universalfernbedienung
+										</option>
+																			<option value="41">
+											USB-Stick
+										</option>
+																			<option value="13">
+											Webcam
+										</option>
+																			<option value="57">
+											WLAN & Zubehör
+										</option>
+															</select>
+						<span id="minus" style="visibility: hidden;">
+						<a href="#" id="minus-href" class="me-prevent-default">
+										[x]
+						</a>
+						</span>
+						<span id="plus" style="display:none;">
+							<a href="#" id="plus-href" class="me-prevent-default">
+							[weiteres Produkt hinzuf&uuml;gen]
+							</a>
+						</span>
+						<span id="minus_hersteller13" style="display:none;">
+												<select name="hersteller_id" id="hersteller13" disabled="disabled">
+							<option value="0" selected="selected">Hersteller</option>
+    													</select>
+						</span>
+						<span id="minus_produkte13" style="display:none;">
+												<select name="produkte[2]" id="produkte13" disabled="disabled">
+					  	<option value="0" selected="selected">Produkte</option>
+					  	</select>
+					  	</span>
+						<span id="submit2" style="visibility:hidden;">
+							<input type="submit" class="powersuche_submit" value="Anzeigen" />
+						</span>
+					</div>
+				</div>			</form>
+	    </div>
+
+	</div>
+	<br />
+</div>
+	</div>
+		<div id="me_tab3-3" class="me-tabliste-content" style="">
+		<script type="text/javascript">
+window.meProduktvergleichReloadLink = '/preisvergleich/form.html?se=ajax&amp;xx_form=1&amp;xx_modul=suchbox&amp;xx_returntype=json&amp;chk=MmRmODZkMzZlZjIxZmU0NzQ4MDg1MzE4MTM4NjI2Mjc.';
+window.meProduktauswahlIndexUrl = '/preisvergleich/form.html';
+window.meProduktauswahlProduktseiteUrl = 'se=produktseite&amp;xx_form=1&amp;chk=ODY4NGJiZmI2ZGExNTUwNjFmNmIxOTgzYTFjMjg2MTE.';
+window.meProduktauswahlProduktlisteUrl = 'se=produktliste&amp;xx_form=1&amp;chk=OWJhNGFhYzc4ZjgwMWI0YjBlNDFjZDJiZGI5NzAzOGY.';
+</script>
+<div id="me-produktauswahl">
+	<div id="tabcontentcontainer_suche" class="boxmithintergrundbild">
+	<noscript><span class="c_red bold center produktauswahl_noscript">F&uuml;r die komplette Funktionalit&auml;t aktivieren Sie bitte Javascript.</span></noscript>
+	    <div id="me_tab13" class="tabcontent_suche">
+    	    <div>
+				<span id="warning_1" class="c_red"></span>
+			</div>
+			<form id="foo2" method="get" action="/preisvergleich/form.html">
+			<div class="me-dummy">                <div class="step">
+                    <p class="stepname">
+                        <img src="/preisvergleich/img/1.gif" title="erster Schritt" alt="erster Schritt" /> Kategorie w&auml;hlen<br />
+                    </p>
+                    <p class="stepvalue">
+                                                <select name="kategorie_id" id="kategorien2">
+													<option value="0" selected="selected">Kategorien</option>
+																			<option value="42">
+								All-In-One Drucker
+							</option>
+													<option value="44">
+								Anwendungs-Software
+							</option>
+													<option value="52">
+								Arbeitsspeicher / RAM
+							</option>
+													<option value="20">
+								Beamer / Projektor
+							</option>
+													<option value="25">
+								Betriebssystem
+							</option>
+													<option value="131">
+								Blu-Ray-Brenner
+							</option>
+													<option value="30">
+								Büro-Software
+							</option>
+													<option value="19">
+								Camcorder
+							</option>
+													<option value="130">
+								Desktop-Set / Maus & Tastatur
+							</option>
+													<option value="667">
+								Digital Receiver
+							</option>
+													<option value="674">
+								Digitaler Bilderrahmen
+							</option>
+													<option value="6">
+								Digitalkamera
+							</option>
+													<option value="17">
+								DVD- und Blu-Ray-Player
+							</option>
+													<option value="18">
+								DVD- und Blu-Ray-Rekorder
+							</option>
+													<option value="47">
+								DVD-Brenner
+							</option>
+													<option value="45">
+								Festplatte & Multimedia-Player
+							</option>
+													<option value="49">
+								Grafikkarte
+							</option>
+													<option value="2">
+								Handy & Smartphone
+							</option>
+													<option value="35">
+								Heimkino System
+							</option>
+													<option value="668">
+								Internetradio
+							</option>
+													<option value="677">
+								Kopfhörer & Headset
+							</option>
+													<option value="10">
+								Laserdrucker
+							</option>
+													<option value="33">
+								LCD- und LED-TV
+							</option>
+													<option value="15">
+								Maus
+							</option>
+													<option value="50">
+								Motherboard
+							</option>
+													<option value="4">
+								MP3-Player & Video-Player
+							</option>
+													<option value="129">
+								Navigationssystem / GPS
+							</option>
+													<option value="675">
+								Netzteil
+							</option>
+													<option value="5">
+								Notebook
+							</option>
+													<option value="246">
+								Objektiv
+							</option>
+													<option value="244">
+								PC-Gehäuse
+							</option>
+													<option value="7">
+								PC-System
+							</option>
+													<option value="34">
+								Plasma-TV
+							</option>
+													<option value="51">
+								Prozessor / CPU
+							</option>
+													<option value="676">
+								Prozessorkühler
+							</option>
+													<option value="12">
+								Scanner
+							</option>
+													<option value="43">
+								Sicherheit / Antivirus & Firewall
+							</option>
+													<option value="37">
+								Sonstiges
+							</option>
+													<option value="53">
+								Soundkarte
+							</option>
+													<option value="32">
+								Speicherkarte
+							</option>
+													<option value="125">
+								Spielkonsole & Zubehör
+							</option>
+													<option value="14">
+								Surround-Sound-System
+							</option>
+													<option value="672">
+								Tablet PC
+							</option>
+													<option value="671">
+								Tablets & E-Books
+							</option>
+													<option value="16">
+								Tastatur
+							</option>
+													<option value="8">
+								TFT-Monitor
+							</option>
+													<option value="11">
+								Tintenstrahldrucker & Fotodrucker
+							</option>
+													<option value="673">
+								Universalfernbedienung
+							</option>
+													<option value="41">
+								USB-Stick
+							</option>
+													<option value="13">
+								Webcam
+							</option>
+													<option value="57">
+								WLAN & Zubehör
+							</option>
+											</select>
+                    </p>
+                </div>
+                <div class="me-dummy"></div>
+                <div class="step">
+                    <p class="stepname">
+                        <img src="/preisvergleich/img/2.gif" title="zweiter Schritt" alt="zweiter Schritt" /> Hersteller w&auml;hlen<br />
+                    </p>
+                    <p class="stepvalue">
+                                                <select name="hersteller_id" disabled="disabled" id="hersteller2">
+						<option value="0" selected="selected">Hersteller</option>
+											</select>
+                    </p>
+                </div>
+                <div class="me-dummy"></div>
+				<div class="step">
+                    <p class="stepname">
+                        <img src="/preisvergleich/img/3.gif" title="dritter Schritt" alt="dritter Schritt" /> Produkt w&auml;hlen
+                    </p>
+                    <p class="stepvalue">
+                                                <select name="produkt_id" disabled="disabled" id="produkte2" onchange="reset_highlight_single();">
+                            <option value="0" selected="selected">Produkte</option>
+                        </select>
+                    </p>
+                </div>
+                <div class="me-dummy"></div>
+                <div class="step">
+                    <p class="stepname">&nbsp;</p>
+                    <p class="stepvalue"><input type="submit" class="powersuche_submit" id="produktauswahl-submit" value="Anzeigen" /></p>
+                </div>
+			</div>			</form>
+		</div>
+	</div>
+	<br />
+</div>
+	</div>
+	</div>
+			</div>
+		</div>
+		
+		<div class="rechte_spalte plzDiv">
+			<div id="outerPlzDiv"></div>
+		</div>
+		
+		<div class="me-dummy"></div>
+		<div class="me-top-produkte-box">
+	<table border="0" cellspacing="1" cellpadding="1" width="100%">
+	<tr>
+		<td colspan="6" class="post-topline"><h1 class="topline">Preisvergleich</h1>: Die beliebtesten Produkte</td>
+	</tr>
+		<tr><td colspan="6" height="5"></td></tr>
+		<tr>
+							<td width="66">
+					<a href="/preisvergleich/162058/Samsung-Galaxy-S2-i9100.html" title="Alle Angebote - Samsung Galaxy S2 i9100"><img src="/preisvergleich/img/product/100000/162000/162058_66x50_11.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/162058/Samsung-Galaxy-S2-i9100.html" title="Alle Angebote - Samsung Galaxy S2 i9100">
+							Samsung Galaxy S2 i9100
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 374,90 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/185169/Samsung-Galaxy-Nexus-I9250.html" title="Alle Angebote - Samsung Galaxy Nexus I9250"><img src="/preisvergleich/img/product/100000/185000/185169_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/185169/Samsung-Galaxy-Nexus-I9250.html" title="Alle Angebote - Samsung Galaxy Nexus I9250">
+							Samsung Galaxy Nexus I9250
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 338,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/140850/Samsung-I9000-Galaxy-S.html" title="Alle Angebote - Samsung I9000 Galaxy S"><img src="/preisvergleich/img/product/100000/140000/140850_66x50_4.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/140850/Samsung-I9000-Galaxy-S.html" title="Alle Angebote - Samsung I9000 Galaxy S">
+							Samsung I9000 Galaxy S
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 349,99 &euro;</span>
+													</a>
+					</div> 
+				</td>
+					</tr>
+    	<tr><td colspan="6" height="5"></td></tr>
+		<tr>
+							<td width="66">
+					<a href="/preisvergleich/177480/Samsung-Galaxy-S-Plus-I9001.html" title="Alle Angebote - Samsung Galaxy S Plus I9001"><img src="/preisvergleich/img/product/100000/177000/177480_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/177480/Samsung-Galaxy-S-Plus-I9001.html" title="Alle Angebote - Samsung Galaxy S Plus I9001">
+							Samsung Galaxy S Plus I9001
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 246,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/160586/Samsung-Galaxy-Ace-S5830.html" title="Alle Angebote - Samsung Galaxy Ace S5830"><img src="/preisvergleich/img/product/100000/160000/160586_66x50_2.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/160586/Samsung-Galaxy-Ace-S5830.html" title="Alle Angebote - Samsung Galaxy Ace S5830">
+							Samsung Galaxy Ace S5830
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 167,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/192866/HTC-One-S.html" title="Alle Angebote - HTC One S"><img src="/preisvergleich/img/product/100000/192000/192866_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/192866/HTC-One-S.html" title="Alle Angebote - HTC One S">
+							HTC One S
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 429,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+					</tr>
+    	<tr><td colspan="6" height="5"></td></tr>
+		<tr>
+							<td width="66">
+					<a href="/preisvergleich/193157/Sony-VPC-CB4Z1E-W.html" title="Alle Angebote - Sony VPC-CB4Z1E/W"><img src="/preisvergleich/img/product/100000/193000/193157_66x50_2.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k5/Notebook.html" title="Notebook">
+							<span class="hersteller">Notebook</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/193157/Sony-VPC-CB4Z1E-W.html" title="Alle Angebote - Sony VPC-CB4Z1E/W">
+							Sony VPC-CB4Z1E/W
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 874,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/193223/Sony-Cyber-shot-DSC-WX100.html" title="Alle Angebote - Sony Cyber-shot DSC-WX100"><img src="/preisvergleich/img/product/100000/193000/193223_66x50_2.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k6/Digitalkamera.html" title="Digitalkamera">
+							<span class="hersteller">Digitalkamera</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/193223/Sony-Cyber-shot-DSC-WX100.html" title="Alle Angebote - Sony Cyber-shot DSC-WX100">
+							Sony Cyber-shot DSC-WX100
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 238,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/193620/Sony-Alpha-57.html" title="Alle Angebote - Sony Alpha 57"><img src="/preisvergleich/img/product/100000/193000/193620_66x50_3.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k6/Digitalkamera.html" title="Digitalkamera">
+							<span class="hersteller">Digitalkamera</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/193620/Sony-Alpha-57.html" title="Alle Angebote - Sony Alpha 57">
+							Sony Alpha 57
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 749,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+					</tr>
+    	<tr><td colspan="6" height="5"></td></tr>
+		<tr>
+							<td width="66">
+					<a href="/preisvergleich/182369/Samsung-830-Series-SSD-256GB-MZ-7PC256D-EU.html" title="Alle Angebote - Samsung 830 Series SSD 256GB (MZ-7PC256D/EU)"><img src="/preisvergleich/img/product/100000/182000/182369_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k45/Festplatte-Multimedia-Player.html" title="Festplatte & Multimedia-Player">
+							<span class="hersteller">Festplatte & Multimedia-Player</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/182369/Samsung-830-Series-SSD-256GB-MZ-7PC256D-EU.html" title="Alle Angebote - Samsung 830 Series SSD 256GB (MZ-7PC256D/EU)">
+							Samsung 830 Series SSD 256GB (MZ-7PC256D/EU)
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 179,90 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/166315/LG-Electronics-42LK450.html" title="Alle Angebote - LG Electronics 42LK450 "><img src="/preisvergleich/img/product/100000/166000/166315_66x50_12.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k33/LCD-und-LED-TV.html" title="LCD- und LED-TV">
+							<span class="hersteller">LCD- und LED-TV</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/166315/LG-Electronics-42LK450.html" title="Alle Angebote - LG Electronics 42LK450 ">
+							LG Electronics 42LK450 
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 369,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/181973/Sony-Ericsson-Xperia-arc-S.html" title="Alle Angebote - Sony Ericsson Xperia arc S"><img src="/preisvergleich/img/product/100000/181000/181973_66x50_2.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/181973/Sony-Ericsson-Xperia-arc-S.html" title="Alle Angebote - Sony Ericsson Xperia arc S">
+							Sony Ericsson Xperia arc S
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 251,55 &euro;</span>
+													</a>
+					</div> 
+				</td>
+					</tr>
+    	<tr><td colspan="6" height="5"></td></tr>
+		<tr>
+							<td width="66">
+					<a href="/preisvergleich/182223/Samsung-Galaxy-Note-N7000.html" title="Alle Angebote - Samsung Galaxy Note N7000"><img src="/preisvergleich/img/product/100000/182000/182223_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/182223/Samsung-Galaxy-Note-N7000.html" title="Alle Angebote - Samsung Galaxy Note N7000">
+							Samsung Galaxy Note N7000
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 411,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/160991/Canon-EOS-1100D.html" title="Alle Angebote - Canon EOS 1100D "><img src="/preisvergleich/img/product/100000/160000/160991_66x50_4.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k6/Digitalkamera.html" title="Digitalkamera">
+							<span class="hersteller">Digitalkamera</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/160991/Canon-EOS-1100D.html" title="Alle Angebote - Canon EOS 1100D ">
+							Canon EOS 1100D 
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 319,99 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/172495/BlackBerry-Playbook-WiFi-16GB.html" title="Alle Angebote - BlackBerry Playbook WiFi 16GB "><img src="/preisvergleich/img/product/100000/172000/172495_66x50_7.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k671/Tablets-E-Books.html" title="Tablets & E-Books">
+							<span class="hersteller">Tablets & E-Books</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/172495/BlackBerry-Playbook-WiFi-16GB.html" title="Alle Angebote - BlackBerry Playbook WiFi 16GB ">
+							BlackBerry Playbook WiFi 16GB 
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 199,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+					</tr>
+    	<tr><td colspan="6" height="5"></td></tr>
+		<tr>
+							<td width="66">
+					<a href="/preisvergleich/36875/Microsoft-Windows-XP-Professional.html" title="Alle Angebote - Microsoft Windows XP Professional"><img src="/preisvergleich/img/product/1/36000/36875_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k25/Betriebssystem.html" title="Betriebssystem">
+							<span class="hersteller">Betriebssystem</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/36875/Microsoft-Windows-XP-Professional.html" title="Alle Angebote - Microsoft Windows XP Professional">
+							Microsoft Windows XP Professional
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 16,90 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/181026/Panasonic-Lumix-DMC-FZ150.html" title="Alle Angebote - Panasonic Lumix DMC-FZ150"><img src="/preisvergleich/img/product/100000/181000/181026_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k6/Digitalkamera.html" title="Digitalkamera">
+							<span class="hersteller">Digitalkamera</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/181026/Panasonic-Lumix-DMC-FZ150.html" title="Alle Angebote - Panasonic Lumix DMC-FZ150">
+							Panasonic Lumix DMC-FZ150
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 399,90 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/186700/Samsung-Galaxy-Tab-10.1N-P7501-WiFi-3G-16GB.html" title="Alle Angebote - Samsung Galaxy Tab 10.1N P7501 WiFi +3G 16GB"><img src="/preisvergleich/img/product/100000/186000/186700_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k671/Tablets-E-Books.html" title="Tablets & E-Books">
+							<span class="hersteller">Tablets & E-Books</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/186700/Samsung-Galaxy-Tab-10.1N-P7501-WiFi-3G-16GB.html" title="Alle Angebote - Samsung Galaxy Tab 10.1N P7501 WiFi +3G 16GB">
+							Samsung Galaxy Tab 10.1N P7501 WiFi +3G 16GB
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 420,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+					</tr>
+    	<tr><td colspan="6" height="5"></td></tr>
+		<tr>
+							<td width="66">
+					<a href="/preisvergleich/192818/Samsung-Galaxy-Tab-7.0-Plus-N-WiFi-3G-16GB.html" title="Alle Angebote - Samsung Galaxy Tab 7.0 Plus N WiFi + 3G 16GB"><img src="/preisvergleich/img/product/100000/192000/192818_66x50_1.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k671/Tablets-E-Books.html" title="Tablets & E-Books">
+							<span class="hersteller">Tablets & E-Books</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/192818/Samsung-Galaxy-Tab-7.0-Plus-N-WiFi-3G-16GB.html" title="Alle Angebote - Samsung Galaxy Tab 7.0 Plus N WiFi + 3G 16GB">
+							Samsung Galaxy Tab 7.0 Plus N WiFi + 3G 16GB
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 358,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/168450/Nikon-D5100.html" title="Alle Angebote - Nikon D5100"><img src="/preisvergleich/img/product/100000/168000/168450_66x50_7.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k6/Digitalkamera.html" title="Digitalkamera">
+							<span class="hersteller">Digitalkamera</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/168450/Nikon-D5100.html" title="Alle Angebote - Nikon D5100">
+							Nikon D5100
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 496,00 &euro;</span>
+													</a>
+					</div> 
+				</td>
+							<td width="66">
+					<a href="/preisvergleich/179682/Sony-Ericsson-Xperia-Mini-Pro.html" title="Alle Angebote - Sony Ericsson Xperia Mini Pro"><img src="/preisvergleich/img/product/100000/179000/179682_66x50_7.jpg" alt="" /></a>
+				</td>
+				<td width="208">
+					<div>
+						<a href="/preisvergleich/k2/Handy-Smartphone.html" title="Handy & Smartphone">
+							<span class="hersteller">Handy & Smartphone</span>
+						</a>
+						<br />
+						<a href="/preisvergleich/179682/Sony-Ericsson-Xperia-Mini-Pro.html" title="Alle Angebote - Sony Ericsson Xperia Mini Pro">
+							Sony Ericsson Xperia Mini Pro
+							<br />
+							<img src="/preisvergleich/img/arrow_red.gif" alt="" />
+															<span class="c_grey">Preis:</span> <span class="c_red">ab 158,39 &euro;</span>
+													</a>
+					</div> 
+				</td>
+					</tr>
+    	</table>
+</div>
+
+		<div class="me-dummy"></div>
+		<div class="me-kategorie-ueberblick">
+			<div class="table1 kategorie_table1">
+	<h2 class="f_size12 bold bg_silver_light kategorie_uberblick_heading">Preisvergleich: Kategorie-&Uuml;berblick</h2>
+	<div id="kategorie_teaser_container">
+							    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/kommunikation.gif" alt="" align="left"/>
+            		            		Mobile Ger&auml;te
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k2/Handy-Smartphone.html" class="">Handy &amp; Smartphone</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k129/Navigationssystem-GPS.html" class="">Navigationssystem / GPS</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k4/MP3-Player-Video-Player.html" class="">MP3-Player &amp; Video-Player</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k671/Tablets-E-Books.html" class="">Tablets &amp; E-Books</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/foto.gif" alt="" align="left"/>
+            		            		Foto &amp; Zubeh&ouml;r
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k6/Digitalkamera.html" class="">Digitalkamera</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k19/Camcorder.html" class="">Camcorder</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k32/Speicherkarte.html" class="">Speicherkarte</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k246/Objektiv.html" class="">Objektiv</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k674/Digitaler-Bilderrahmen.html" class="">Digitaler Bilderrahmen</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/computer.gif" alt="" align="left"/>
+            		            		Computer &amp; Komponenten
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k244/PC-Geh%C3%A4use.html" class="">PC-Geh&auml;use</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k45/Festplatte-Multimedia-Player.html" class="">Festplatte &amp; Multimedia-Player</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k50/Motherboard.html" class="">Motherboard</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k51/Prozessor-CPU.html" class="">Prozessor / CPU</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k49/Grafikkarte.html" class="">Grafikkarte</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k52/Arbeitsspeicher-RAM.html" class="">Arbeitsspeicher / RAM</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k675/Netzteil.html" class="">Netzteil</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k676/Prozessork%C3%BChler.html" class="">Prozessork&uuml;hler</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k53/Soundkarte.html" class="">Soundkarte</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k47/DVD-Brenner.html" class="">DVD-Brenner</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k131/Blu-Ray-Brenner.html" class="">Blu-Ray-Brenner</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k125/Spielkonsole-Zubeh%C3%B6r.html" class="">Spielkonsole &amp; Zubeh&ouml;r</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k5/Notebook.html" class="">Notebook</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k7/PC-System.html" class="">PC-System</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/eingabegeraete.gif" alt="" align="left"/>
+            		            		Peripherieger&auml;te
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k8/TFT-Monitor.html" class="">TFT-Monitor</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k130/Desktop-Set-Maus-Tastatur.html" class="">Desktop-Set / Maus &amp; Tastatur</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k15/Maus.html" class="">Maus</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k16/Tastatur.html" class="">Tastatur</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k57/WLAN-Zubeh%C3%B6r.html" class="">WLAN &amp; Zubeh&ouml;r</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k42/All-In-One-Drucker.html" class="">All-In-One Drucker</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k11/Tintenstrahldrucker-Fotodrucker.html" class="">Tintenstrahldrucker &amp; Fotodrucker</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k10/Laserdrucker.html" class="">Laserdrucker</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k12/Scanner.html" class="">Scanner</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k41/USB-Stick.html" class="">USB-Stick</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k13/Webcam.html" class="">Webcam</a>
+            		</div>
+            	                </div>
+            </div>
+	   						<div class="me-dummy"><hr color="#c0c0c0" size=1 /></div>
+					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/bildschirme.gif" alt="" align="left"/>
+            		            		Audio, Video, TV &amp; Kino
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k33/LCD-und-LED-TV.html" class="">LCD- und LED-TV</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k34/Plasma-TV.html" class="">Plasma-TV</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k667/Digital-Receiver.html" class="">Digital Receiver</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k17/DVD-und-Blu-Ray-Player.html" class="">DVD- und Blu-Ray-Player</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k18/DVD-und-Blu-Ray-Rekorder.html" class="">DVD- und Blu-Ray-Rekorder</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k20/Beamer-Projektor.html" class="">Beamer / Projektor</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k35/Heimkino-System.html" class="">Heimkino System</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k14/Surround-Sound-System.html" class="">Surround-Sound-System</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k668/Internetradio.html" class="">Internetradio</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k673/Universalfernbedienung.html" class="">Universalfernbedienung</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k677/Kopfh%C3%B6rer-Headset.html" class="">Kopfh&ouml;rer &amp; Headset</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/software.gif" alt="" align="left"/>
+            		            		Software
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k25/Betriebssystem.html" class="">Betriebssystem</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k43/Sicherheit-Antivirus-Firewall.html" class="">Sicherheit / Antivirus &amp; Firewall</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k30/B%C3%BCro-Software.html" class="">B&uuml;ro-Software</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/k44/Anwendungs-Software.html" class="">Anwendungs-Software</a>
+            		</div>
+            	                </div>
+            </div>
+	   	</div>
+</div>
+		</div>
+		<div class="me-dummy"></div>
+		
+		<div class="linke_spalte">
+			<div class="me-preisgrenzen-filter">
+	<h2 class="ueberschrift">Produkte im Preisvergleich nach Preisspanne suchen</h2>
+	<form action="/preisvergleich/form.html" id="me-preisgrenzen-form">
+		<input type="hidden" value="preisgrenzen" name="se" />
+		<input type="hidden" value="1" name="xx_form" />
+		<input type="hidden" value="13" name="xx_ref_id" />
+		<input type="hidden" value="ZTFmNTFjMzU2Yzg0OTcwMThmYjQ5MzY1N2ZmODU1ZTI." name="chk" />
+		<input type="hidden" name="bild" value="1" />
+	<div class="filter">
+	<p class="preis_min">
+		<span class="left">Ich suche ein Produkt ab</span>
+		<span class="right"><input class="preis_grenze" type="text" value="50" id="preis_min" name="preis_min" /> &euro;</span>
+	</p>
+	<p class="preis_max">
+		<span class="left">bis maximal</span>
+		<span class="right"><input class="preis_grenze" type="text" value="100" id="preis_max" name="preis_max" /> &euro;</span>
+	</p>
+	<p class="kategorie">
+		<span class="left">
+						In der Kategorie
+					</span>
+		<span class="right">
+			<select id="preisgrenze-kategorie_id" name="pg_kategorie_id[]">
+								<option value="0" selected="selected">- Alle Kategorien -</option>
+								<option value="42">All-In-One Drucker</option>
+								<option value="44">Anwendungs-Software</option>
+								<option value="52">Arbeitsspeicher / RAM</option>
+								<option value="20">Beamer / Projektor</option>
+								<option value="25">Betriebssystem</option>
+								<option value="131">Blu-Ray-Brenner</option>
+								<option value="30">Büro-Software</option>
+								<option value="19">Camcorder</option>
+								<option value="130">Desktop-Set / Maus & Tastatur</option>
+								<option value="667">Digital Receiver</option>
+								<option value="674">Digitaler Bilderrahmen</option>
+								<option value="6">Digitalkamera</option>
+								<option value="17">DVD- und Blu-Ray-Player</option>
+								<option value="18">DVD- und Blu-Ray-Rekorder</option>
+								<option value="47">DVD-Brenner</option>
+								<option value="45">Festplatte & Multimedia-Player</option>
+								<option value="49">Grafikkarte</option>
+								<option value="2">Handy & Smartphone</option>
+								<option value="35">Heimkino System</option>
+								<option value="668">Internetradio</option>
+								<option value="677">Kopfhörer & Headset</option>
+								<option value="10">Laserdrucker</option>
+								<option value="33">LCD- und LED-TV</option>
+								<option value="15">Maus</option>
+								<option value="50">Motherboard</option>
+								<option value="4">MP3-Player & Video-Player</option>
+								<option value="129">Navigationssystem / GPS</option>
+								<option value="675">Netzteil</option>
+								<option value="5">Notebook</option>
+								<option value="246">Objektiv</option>
+								<option value="244">PC-Gehäuse</option>
+								<option value="7">PC-System</option>
+								<option value="34">Plasma-TV</option>
+								<option value="51">Prozessor / CPU</option>
+								<option value="676">Prozessorkühler</option>
+								<option value="12">Scanner</option>
+								<option value="43">Sicherheit / Antivirus & Firewall</option>
+								<option value="37">Sonstiges</option>
+								<option value="53">Soundkarte</option>
+								<option value="32">Speicherkarte</option>
+								<option value="125">Spielkonsole & Zubehör</option>
+								<option value="14">Surround-Sound-System</option>
+								<option value="672">Tablet PC</option>
+								<option value="671">Tablets & E-Books</option>
+								<option value="16">Tastatur</option>
+								<option value="8">TFT-Monitor</option>
+								<option value="11">Tintenstrahldrucker & Fotodrucker</option>
+								<option value="673">Universalfernbedienung</option>
+								<option value="41">USB-Stick</option>
+								<option value="13">Webcam</option>
+								<option value="57">WLAN & Zubehör</option>
+							</select>
+		</span>
+	</p>
+	<p>
+		<span class="left">&nbsp;</span>
+		<span class="right">
+			<input type="submit" class="powersuche_submit" value="Anzeigen" id="me-preisgrenzen-filter-submit" />
+		</span>
+	</p>
+	</form>
+	</div>
+</div>
+<script type="text/javascript">window.mePreisgrenzenLink = '/preisvergleich/form.html?ajax=1&se=preisgrenzen&xx_form=1&xx_ref_id=13&chk=ZTFmNTFjMzU2Yzg0OTcwMThmYjQ5MzY1N2ZmODU1ZTI.';</script>
+			<div class="me-google-ad">
+				<div class="google_ads_v3 num_ads_3 google_ads_channel_preisvergleich" id="googlebox" name="trippleTipp" style="" ></div>
+			</div>
+		</div>
+		
+		<div class="rechte_spalte">
+			<div class="me-produktempfehlungen-box">
+								<div>
+					<div class="me-tab-modules">
+	<ul id="me-tabliste-2" class="tab-ul module-count-2">
+				<li id="me_t2-1" class="tab me-tab-module-switch current_suche">
+			<a href="#" class="tab me-tab-module-switch me-prevent-default">Premium Shops</a>
+		</li>
+				<li id="me_t2-2" class="tab me-tab-module-switch">
+			<a href="#" class="tab me-tab-module-switch me-prevent-default">Zertifizierte Shops</a>
+		</li>
+			</ul>
+		<div id="me_tab2-1" class="me-tabliste-content" style="display: block;">
+		<div class="me-shoplist">
+	<div class="images">
+							<a href="/preisvergleich/shopinfo/305/Apple-Store-Deutschland.html" title="Apple Store (Deutschland)">
+					<img src="/preisvergleich/bild/58363/305.html?bereich=haendlerlogo&amp;bild_id=305&amp;se=bild&amp;timestamp=2011-11-28%2017:40:08&amp;chk=MWZlZmFmZmNmMWNhODVlODFmMDllZDkxZDM4MDVhMWQ." alt="Apple Store (Deutschland)" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/233/WWWgroup-GbR-xtivate.html" title="WWWgroup GbR - xtivate">
+					<img src="/preisvergleich/bild/58363/233.html?bereich=haendlerlogo&amp;bild_id=233&amp;se=bild&amp;timestamp=2008-08-13%2015:02:25&amp;chk=M2U5YmRmM2Y3OTIwYjllYjllMmJlNWQ2MjAzNmIyMzQ." alt="WWWgroup GbR - xtivate" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/103/Built-Informationstechnologie-AG-built-direkt.html" title="Built Informationstechnologie AG (built-direkt)">
+					<img src="/preisvergleich/bild/58363/103.html?bereich=haendlerlogo&amp;bild_id=103&amp;se=bild&amp;timestamp=2006-06-21%2011:29:45&amp;chk=OGEyZGI3N2RkMmIwMjliOGZmZWJjZDE3N2Q3ZTBhYmI." alt="Built Informationstechnologie AG (built-direkt)" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/244/Printus24.de.html" title="Printus24.de">
+					<img src="/preisvergleich/bild/58363/244.html?bereich=haendlerlogo&amp;bild_id=244&amp;se=bild&amp;timestamp=2009-07-06%2010:55:25&amp;chk=ODJlZjlkZTU0ODIxMDBlOWI4NTEyZWI3NTBiZTQxMmQ." alt="Printus24.de" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/239/xenudo.de-Digital-Versand.de-Online-GmbH.html" title="xenudo.de - Digital-Versand.de Online GmbH">
+					<img src="/preisvergleich/bild/58363/239.html?bereich=haendlerlogo&amp;bild_id=239&amp;se=bild&amp;timestamp=2008-10-10%2014:04:38&amp;chk=OTcwNTRlZTJmYWNmM2NmMzA4MGI2ZDk0MzNlNTEwZjI." alt="xenudo.de - Digital-Versand.de Online GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/46/reichelt-elektronik-GmbH-Co.-KG.html" title="reichelt elektronik GmbH &amp; Co. KG">
+					<img src="/preisvergleich/bild/58363/46.html?bereich=haendlerlogo&amp;bild_id=46&amp;se=bild&amp;timestamp=2012-01-03%2010:23:36&amp;chk=MGNlZjBhODhmMTRlMmU1MzkzOTI2ZTBiYzY4YTY0MzU." alt="reichelt elektronik GmbH &amp; Co. KG" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/284/Formblitz-AG.html" title="Formblitz AG">
+					<img src="/preisvergleich/bild/58363/284.html?bereich=haendlerlogo&amp;bild_id=284&amp;se=bild&amp;timestamp=2010-11-09%2014:16:07&amp;chk=OTRlNzg4NDVmYjBjYjg0MTdlYTlmZGVhMDM3MjIzZjQ." alt="Formblitz AG" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/25/Otto-GmbH-Co-KG.html" title="Otto GmbH &amp; Co KG">
+					<img src="/preisvergleich/bild/58363/25.html?bereich=haendlerlogo&amp;bild_id=25&amp;se=bild&amp;timestamp=2009-07-31%2010:06:45&amp;chk=MmMxNTNmN2U5YWZhYTMwNWIxZTFlOGNiZmRjY2NmNmI." alt="Otto GmbH &amp; Co KG" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/153/Beamer-Discount.html" title="Beamer Discount">
+					<img src="/preisvergleich/bild/58363/153.html?bereich=haendlerlogo&amp;bild_id=153&amp;se=bild&amp;timestamp=2008-08-18%2014:23:44&amp;chk=MDRkNjA4NGNiODNmMDIxNjhmYmRkZDVlMzA0ZmZlYjI." alt="Beamer Discount" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/114/Future-X-Software-GmbH.html" title="Future-X-Software GmbH">
+					<img src="/preisvergleich/bild/58363/114.html?bereich=haendlerlogo&amp;bild_id=114&amp;se=bild&amp;timestamp=2006-06-21%2011:33:40&amp;chk=YzcwZTQzMGFjYWEzMDZkZmUxNGI2ZjE3YzdlOGQwMmI." alt="Future-X-Software GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/280/Softwarebilliger.de-TYR-Holding-GmbH.html" title="Softwarebilliger.de - TYR Holding GmbH">
+					<img src="/preisvergleich/bild/58363/280.html?bereich=haendlerlogo&amp;bild_id=280&amp;se=bild&amp;timestamp=2010-05-25%2011:15:01&amp;chk=Yjg0YzhlZDU3NjI1NzVjOTAwZGM4ZTQyODZjMDhhZGE." alt="Softwarebilliger.de - TYR Holding GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/231/neckermann.de-GmbH.html" title="neckermann.de GmbH">
+					<img src="/preisvergleich/bild/58363/231.html?bereich=haendlerlogo&amp;bild_id=231&amp;se=bild&amp;timestamp=2008-07-29%2015:00:04&amp;chk=OTk3NWFmMTg3MWE5Y2Q1MWYzNjRlMzUxZDg3ZjRhMzc." alt="neckermann.de GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/299/Lidl-Online-Shop-Schwarz-E-Commerce-GmbH-Co.-KG.html" title="Lidl Online-Shop - Schwarz E-Commerce GmbH &amp; Co. KG">
+					<img src="/preisvergleich/bild/58363/299.html?bereich=haendlerlogo&amp;bild_id=299&amp;se=bild&amp;timestamp=2012-01-12%2015:15:18&amp;chk=YjVlZWJiMDJhNjVhMDMxZjdjZThiZmZjMTczMWEyMzI." alt="Lidl Online-Shop - Schwarz E-Commerce GmbH &amp; Co. KG" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/300/SYNAXON-Online-GmbH-pcspezialist.de.html" title="SYNAXON Online GmbH - pcspezialist.de">
+					<img src="/preisvergleich/bild/58363/300.html?bereich=haendlerlogo&amp;bild_id=300&amp;se=bild&amp;timestamp=2011-08-10%2013:43:57&amp;chk=MTRiNzVjZjQwYzA5OTI3YTkxOTI5M2Q4YTZhMTMxY2E." alt="SYNAXON Online GmbH - pcspezialist.de" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/302/technikeinkaufen.de.html" title="technikeinkaufen.de">
+					<img src="/preisvergleich/bild/58363/302.html?bereich=haendlerlogo&amp;bild_id=302&amp;se=bild&amp;timestamp=2011-10-18%2014:35:52&amp;chk=MDI3MjMxZGNiNGE2NDM0ZGM1NWI3NzNiNzE0MDUwMDk." alt="technikeinkaufen.de" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/310/nullprozentshop.de-notebooksbilliger.de-AG.html" title="nullprozentshop.de - notebooksbilliger.de AG">
+					<img src="/preisvergleich/bild/58363/310.html?bereich=haendlerlogo&amp;bild_id=310&amp;se=bild&amp;timestamp=2012-04-05%2016:37:24&amp;chk=Mzc4YTk4YzAxNjMyNTQ0OTJlODNkNGJhODI4N2YyMGM." alt="nullprozentshop.de - notebooksbilliger.de AG" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/171/Unimall-GmbH.html" title="Unimall GmbH">
+					<img src="/preisvergleich/bild/58363/171.html?bereich=haendlerlogo&amp;bild_id=171&amp;se=bild&amp;timestamp=2011-08-29%2015:52:06&amp;chk=N2M5ZWVmYmU2NjRlNTZlNWU1YTFkZTc0ZWM5ZDhjYTM." alt="Unimall GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/309/stoffel.de-Manfred-Stoffel-B%C3%BCrotechnik.html" title="stoffel.de - Manfred Stoffel B&uuml;rotechnik">
+					<img src="/preisvergleich/bild/58363/309.html?bereich=haendlerlogo&amp;bild_id=309&amp;se=bild&amp;timestamp=2012-03-14%2013:03:09&amp;chk=Y2YyZWYzMDg4ZmU0YjYyNjU2M2Y3ZjY3ZGMwNjY3Mzc." alt="stoffel.de - Manfred Stoffel B&uuml;rotechnik" class="margin_2" />
+				</a>
+				</div>
+	<div class="text">
+		<p>
+			<img src="/preisvergleich/img/arrow_blue.gif" alt="" />
+			<a href="/preisvergleich/haendleruebersicht.html">Alle anzeigen</a>
+		</p>
+		<p>
+			<img src="/preisvergleich/img/arrow_blue.gif" alt="" />
+			<a href="http://www.chip.de/cxo/Der-Online-Preisvergleich_12435653.html" rel="nofollow">Informationen f&uuml;r H&auml;ndler</a>
+		</p>
+	</div>
+</div>
+	</div>
+		<div id="me_tab2-2" class="me-tabliste-content" style="">
+		<div class="me-shoplist">
+	<div class="images">
+							<a href="/preisvergleich/shopinfo/9/getmobile-GmbH.html" title="getmobile GmbH">
+					<img src="/preisvergleich/bild/58363/9.html?bereich=haendlerlogo&amp;bild_id=9&amp;se=bild&amp;timestamp=2009-04-06%2013:44:27&amp;chk=ZGZjMjY5YTYzZmFkYjIxYzAzZWEwZDg2ZDVmMjUwMjI." alt="getmobile GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/308/MRG-Computer-lapstars.de.html" title="MRG Computer - lapstars.de">
+					<img src="/preisvergleich/bild/58363/308.html?bereich=haendlerlogo&amp;bild_id=308&amp;se=bild&amp;timestamp=2012-02-01%2014:02:13&amp;chk=OTZiYjY3MGMyZTBiMWE3MDZkZGE3NjlkYmU3N2QxZTQ." alt="MRG Computer - lapstars.de" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/12/Cyberport-GmbH.html" title="Cyberport GmbH">
+					<img src="/preisvergleich/bild/58363/12.html?bereich=haendlerlogo&amp;bild_id=12&amp;se=bild&amp;timestamp=2009-02-20%2015:34:11&amp;chk=NmJjNTVjMDgwYjAxNzI3NjE5MWJjYjkyNTVjMWVmZTc." alt="Cyberport GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/185/Euronics-Deutschland-eG.html" title="Euronics Deutschland eG">
+					<img src="/preisvergleich/bild/58363/185.html?bereich=haendlerlogo&amp;bild_id=185&amp;se=bild&amp;timestamp=2011-04-19%2016:58:55&amp;chk=YTYyNzAzYWYwNWM5Y2YzZWQ1ZDM3MmExMDVhYzg2ZTM." alt="Euronics Deutschland eG" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/51/HOH-Home-of-Hardware.html" title="HOH Home of Hardware">
+					<img src="/preisvergleich/bild/58363/51.html?bereich=haendlerlogo&amp;bild_id=51&amp;se=bild&amp;timestamp=2011-10-10%2015:48:24&amp;chk=NTk3NWYxZWY3Njk0MjM0YTZkYTllZjMzOTZjNDBlMTk." alt="HOH Home of Hardware" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/268/getgoods.de-HTM-GmbH.html" title="getgoods.de - HTM GmbH">
+					<img src="/preisvergleich/bild/58363/268.html?bereich=haendlerlogo&amp;bild_id=268&amp;se=bild&amp;timestamp=2011-10-06%2011:10:51&amp;chk=ODBkMDYwYTRjZDNlMWRlNjhhZDY2ZWQ1MjEzYmFkMjI." alt="getgoods.de - HTM GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/110/Beamershop24-Celexon-GmbH-Co-KG.html" title="Beamershop24 - Celexon GmbH &amp; Co KG">
+					<img src="/preisvergleich/bild/58363/110.html?bereich=haendlerlogo&amp;bild_id=110&amp;se=bild&amp;timestamp=2010-12-08%2015:06:38&amp;chk=MTAyMDMxOTFmZDU1ZTg3Y2I3ZDEwZTFkOWU1OWQyMGU." alt="Beamershop24 - Celexon GmbH &amp; Co KG" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/287/HANDYAGENT24-GmbH.html" title="HANDYAGENT24 GmbH">
+					<img src="/preisvergleich/bild/58363/287.html?bereich=haendlerlogo&amp;bild_id=287&amp;se=bild&amp;timestamp=2010-11-30%2015:22:35&amp;chk=NDljNzA3NjllYzI5ZjE2ODE2NzI0YzBlOTA3MGEzYmI." alt="HANDYAGENT24 GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/186/Passiontec.de-Aibach-GmbH.html" title="Passiontec.de (Aibach GmbH)">
+					<img src="/preisvergleich/bild/58363/186.html?bereich=haendlerlogo&amp;bild_id=186&amp;se=bild&amp;timestamp=2011-05-06%2014:07:26&amp;chk=ODk3ZGNlYTAzMDk4ZjMyZDMwM2NhM2M2NGE3ODYxOWI." alt="Passiontec.de (Aibach GmbH)" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/237/IT-Supplies-GmbH-Campus-Point-Bremen.html" title="IT Supplies GmbH - Campus Point Bremen">
+					<img src="/preisvergleich/bild/58363/237.html?bereich=haendlerlogo&amp;bild_id=237&amp;se=bild&amp;timestamp=2010-05-06%2015:19:22&amp;chk=ZTEyOTg5YzA4OTM3ZDEyN2M1YTlkYjQ0OTRkMDJlNzE." alt="IT Supplies GmbH - Campus Point Bremen" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/114/Future-X-Software-GmbH.html" title="Future-X-Software GmbH">
+					<img src="/preisvergleich/bild/58363/114.html?bereich=haendlerlogo&amp;bild_id=114&amp;se=bild&amp;timestamp=2006-06-21%2011:33:40&amp;chk=YzcwZTQzMGFjYWEzMDZkZmUxNGI2ZjE3YzdlOGQwMmI." alt="Future-X-Software GmbH" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/244/Printus24.de.html" title="Printus24.de">
+					<img src="/preisvergleich/bild/58363/244.html?bereich=haendlerlogo&amp;bild_id=244&amp;se=bild&amp;timestamp=2009-07-06%2010:55:25&amp;chk=ODJlZjlkZTU0ODIxMDBlOWI4NTEyZWI3NTBiZTQxMmQ." alt="Printus24.de" class="margin_2" />
+				</a>
+							<a href="/preisvergleich/shopinfo/98/preiswerthandy-c-o.-getmobile-GmbH.html" title="preiswerthandy - c/o. getmobile GmbH">
+					<img src="/preisvergleich/bild/58363/98.html?bereich=haendlerlogo&amp;bild_id=98&amp;se=bild&amp;timestamp=2012-02-15%2015:39:19&amp;chk=YjAxMzQ0YzRkMmQ4M2JlNGFhYmFjYmM5MWNkZTlmNzc." alt="preiswerthandy - c/o. getmobile GmbH" class="margin_2" />
+				</a>
+				</div>
+	<div class="text">
+		<p>
+			<img src="/preisvergleich/img/arrow_blue.gif" alt="" />
+			<a href="/preisvergleich/haendleruebersicht.html">Alle anzeigen</a>
+		</p>
+		<p>
+			<img src="/preisvergleich/img/arrow_blue.gif" alt="" />
+			<a href="http://www.chip.de/cxo/Der-Online-Preisvergleich_12435653.html" rel="nofollow">Informationen f&uuml;r H&auml;ndler</a>
+		</p>
+	</div>
+</div>
+	</div>
+	</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="me-dummy"></div>
+	</div>
+</div>
+
+</div>
+<div id="skyscraper-me" name="skyscraper" style="position:absolute;left:832px;top:92px;z-index:990;" ></div>
+</div>
+
+<script type="text/javascript">
+var meGalleryInitScript = [
+    window.meUrlPath + '/js/galleryInit.js?58363'
+]
+EFWS.Script.loadScripts(meGalleryInitScript, '');
+</script><div id="footer-grey-global">
+  <div id="footer-grey-wrapper">
+    <div id="se-footer">
+      
+        <a href="http://www.chip.de/ueberblick.html" title="&Uuml;berblick">&Uuml;berblick</a>
+      &nbsp;|&nbsp;
+        <a href="http://www.chip.de/artikel/CHIP-Bestenlisten-Alle-Testsieger-im-ueberblick_12823667.html" title="Beliebteste Produkte">Beliebteste Produkte</a>
+      &nbsp;|&nbsp;
+        <a href="http://www.chip.de/artikel/m.CHIP.de-das-mobile-Portal-von-CHIP-Online_37656502.html" title="CHIP Online Mobil">Mobil</a>
+      &nbsp;|&nbsp;
+        <a href="http://archiv.chip.de/" title="Archiv">Archiv</a>
+      &nbsp;|&nbsp;
+        <a href="http://forum.chip.de/archiv/" title="Forum">Foren-Archiv</a>
+      &nbsp;|&nbsp;
+        <a href="http://thema.chip.de/" title="Beliebteste Themen">Beliebteste Themen</a>
+      &nbsp;|&nbsp;
+        <a href="http://thema.chip.de/neuestethemen.htm" title="Neueste Themen">Neueste Themen</a>
+      
+    </div>
+    <div id="footer">
+<div class="footer-links">
+<p><b><a href="http://www.chip.de/ueberblick.html" title="Beliebte Kategorien">Beliebte Kategorien</a></b></p>
+<div class="footer-kategorien">
+  <ul>
+      
+		<li class="c"><a href="http://www.chip.de/Testcenter-Home-Entertainment-Flachbild-TV_24343261.html" title="Fernseher">Fernseher</a></li>
+      
+		<li><a href="http://www.chip.de/Testcenter-Digitalkamera_13658113.html" title="Digitalkamera">Digitalkamera</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/Test-Notebook_13658055.html" title="Notebook">Notebook</a></li>
+      
+		<li><a href="http://www.chip.de/Test-Schnaeppchen-Tipps-der-Redaktion_37247855.html" title="Schn&auml;ppchen">Schn&auml;ppchen</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/handy/" title="Handy">Handy</a></li>
+      
+		<li><a href="http://www.chip.de/Test-Software_13659530.html" title="Software">Software</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/Tipps-Tools_13101526.html" title="Tipps &amp; Tools">Tipps &amp; Tools</a></li>
+      
+		<li><a href="http://www.chip.de/Tipps-Tools-Sicherheit-Viren_28532439.html" title="Sicherheit">Sicherheit</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/Testcenter-PC-Hardware_24215565.html" title="PC-Systeme">PC-Systeme</a></li>
+      
+		<li><a href="http://www.chip.de/ueberblick.html" title="Alle Kategorien">Alle Kategorien</a></li>
+      
+  </ul>
+</div>
+
+<div class="footer-globalelinks">
+  <ul>
+      
+        <li class="c"><a href="http://www.chip.de/usercenter/" title="Login" rel="nofollow">Login</a></li>
+      
+        <li><a href="http://www.chip.de/s_specials/CHIP-Online-Newsletter-Service_46023661.html" title="Newsletter" rel="nofollow">Newsletter</a></li>
+      
+        <li class="c"><a href="http://www.chip.de/cxo/Kontakt_10901850.html" title="Feedback" rel="nofollow">Feedback</a></li>
+      
+        <li class="separator-line">&nbsp;</li>
+      
+        <li class="c"><a href="http://www.chip.de/preisvergleich/" title="Preisvergleich" rel="nofollow">Preisvergleich</a></li>
+      
+        <li><a href="http://www.chip.de/cxo/Werbung_10897957.html" title="Werbung-Online" rel="nofollow">Werbung-Online</a></li>
+      
+        <li class="c"><a href="http://www.chip.de/cxo/E-Commerce_10897987.html" title="Shop-Partner" rel="nofollow">Shop-Partner</a></li>
+      
+  </ul>
+</div>
+
+<div class="c footer-am">
+  <div>
+  <p>CHIP Online bei:</p>
+
+  <ul class="am-links">
+	<li><a href="http://www.chip.de/s_specials/CHIP-Online-auf-YouTube_43580311.html" class="yt">YouTube</a></li>
+	<li><a href="http://www.chip.de/s_specials/CHIP-Online-auf-Twitter_43580308.html" class="tw">Twitter</a></li>
+	<li><a href="http://www.facebook.com/CHIPde" class="fb" target="_blank">Facebook</a></li>
+	<li><a href="https://plus.google.com/104490219549111229774" class="gp" target="_blank">Google+</a></li>
+  </ul>
+
+  <ul class="facebook-people">
+    <li class="p1">&nbsp;</li>
+    <li class="p2">&nbsp;</li>
+    <li class="p3">&nbsp;</li>
+    <li class="p4">&nbsp;</li>
+  </ul>
+  </div>
+</div>
+
+</div>
+
+<div class="footer-feature-box">
+<div class="chip-abo-box100519" id="chip-abo-box100519">
+  <a style="background-image: url(HTTP://www.chip.de/unabh_dateien/8234216/magazin-2012-06.gif);" class="magazin aboBoxClick" id="aboBox-magazin-aTag" href="http://www.chip-kiosk.de/chip100-612?utm_source=CHIPde&utm_medium=Banner&utm_campaign=InhaltTitel0612" rel="nofollow" title="CHIP Heft 06/2012"><span>CHIP Heft 06/2012</span></a>
+  <div class="abo-box-wrapper">
+    <p>
+      <span>Heft 06/2012:</span>
+      Die 5-Sterne <br />
+	  Mafia
+    </p>
+    <div class="bullet">
+      <ul>
+        <li><a class="aboBoxClick" href="http://www.chip-kiosk.de/chip100-612?utm_source=CHIPde&utm_medium=Banner&utm_campaign=InhaltTitel0612" rel="nofollow">Themen&uuml;bersicht</a></li>
+        <li><a class="aboBoxClick" href="http://www.chip-kiosk.de/?utm_source=CHIPde&utm_medium=Banner&utm_campaign=KioskOkt11">CHIP-Kiosk</a></li>
+        <li><a class="aboBoxClick" href="http://itunes.apple.com/de/app/chip/id414468283?mt=8&ign-mpt=uo%3D4">CHIP iPad Edition</a></li>
+        <li><a class="aboBoxClick" href="http://www.chip-media.de/chip-print/chip/titelportraet.html" rel="nofollow">Werbung-Print</a></li>
+      </ul>
+    </div>
+  </div>
+  <a class="magazin-angebot aboBoxClick" id="aboBox-magazin-angebot-aTag" href="http://www.chip-kiosk.de/chip100-612?utm_source=CHIPde&utm_medium=Banner&utm_campaign=InhaltTitel0612" rel="nofollow" title="Exklusives Angebot"><span>Exklusives Angebot</span></a>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+
+<div id="footer-black-global">
+  <div id="footer-black-wrapper">
+    <div id="footer-black">
+      <ul>
+        <li><a href="http://www.chip.de/c1_impressum/c1_impressum_13396219.html" rel="nofollow">Impressum</a></li>
+        <li><a href="http://www.chip.de/cxo/" rel="nofollow">Kontakt</a></li>
+        <li><a href="http://www.chip.de/s_specials/Nutzungshinweis-CHIP-Online_45829065.html" rel="nofollow">Nutzungshinweis</a></li>
+        <li><a href="http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html" rel="nofollow">Datenschutz</a></li>
+        <li><a href="http://www.chip.de/cxo/Presse-Service_10898017.html" rel="nofollow">Presse</a></li>
+        <li class="lastchild">
+          <ul>
+            <li><a href="http://www.chip.de/cxo/Stellenangebote-bei-CHIP-Xonio-Online_18442020.html" class="special"><span>Jobs bei CHIP Online</span></a></li>
+            <li><a href="http://clk.tradedoubler.com/click?p=23761&a=411323&url=http%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewPodcast%3Fid%3D302552786%26uo%3D6%26partnerId%3D2003" class="podcast" rel="nofollow"><span>Podcast</span></a></li>
+            <li><a href="http://www.chip.de/rss/rss_ueberblick.html" class="rss"><span>RSS</span></a></li>
+          </ul>
+        </li>
+      </ul>
+      <p class="cxo"><a href="http://www.chip.de/cxo/">&copy; CHIP Xonio Online GmbH 2012</a></p>
+    </div>
+  </div>
+</div>
+
+
+<div id="footer-white-global">
+  <div id="footer-white-wrapper">
+    <div id="footer-white"><a href="#" class="generator">Content Management by <b>Inter<span>Red</span></b></a></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+Cxo_Adtech.google.fillContainers();
+</script>
+<script type="text/javascript">
+var adsc_rubrik = "Preisvergleich";
+var adsc_sb = "100";
+var adsc_mr = "100";
+var adsc_sk = "100";
+var adsc_sc = "0";
+var adsc_agof = "";
+var adsc_keyword = "";
+var adsc_percentages = ["100","100","100"];
+var adsc_sadwidth = "728";
+var adsc_sadheight = "90";
+var adsc_cadwidth = "300";
+var adsc_cadheight = "250";
+var adsc_popupwidth = "1";
+var adsc_popupheight = "1";
+var adsc_skyscraperwidth = "160";
+var adsc_skyscraperheight = "600";
+var adsc_layout = null;
+var adsc_brand = "";
+var adsc_product = "";
+var adsc_ressort = "26784";
+var adsc_rubrik_int = "1";
+var adsc_document_uri = "\/preisvergleich";
+ 
+</script>
+
+<script type='text/javascript'>  
+ 
+</script>
+
+<script type="text/javascript" src="http://a.tfag.de/js_ng/js_ng_chip_0300.js"></script>
+
+<script type='text/javascript'>
+</script> 
+
+<script type="text/javascript">
+    function Cxo_Adtech_AdServer_TFS(config)
+    {
+               
+        if('undefined' != config.tfminstantiframe && config.tfminstantiframe == true){
+            return function() {  
+                createSrcLessIFrame = function(){ 
+                    var iframe = document.createElement('iframe');
+                    iframe.style.display = 'block';
+                    document.getElementsByTagName('head')[0]
+                    .appendChild(iframe);
+                    return iframe; 
+                }
+                var iframeToHead = createSrcLessIFrame();
+                iframeToHead.contentWindow.document.open();
+                iframeToHead.contentWindow.document
+                .write('<!doctype html><html><head>');
+                iframeToHead.contentWindow.document
+                .write('<script> function CxoAdtechAdServerTfsputOver(){(function(){var list, parent, cur;list = document.getElementsByTagName("script");while(typeof(list[0]) !== "undefined"){ cur = list[0];parent = cur.parentNode;parent.removeChild(cur);}}());var iframeContent = document.getElementsByTagName("body")[0].innerHTML;top.document.getElementById("top-banner").innerHTML+=iframeContent;}</scr'+'ipt>');
+                iframeToHead.contentWindow.document
+                .write('</head>');
+                iframeToHead.contentWindow.document
+                .write('<body onload="CxoAdtechAdServerTfsputOver(); ">');
+                iframeToHead.contentWindow.document 
+                .write('<script type="text/javascript">var adsc_rubrik = top.adsc_rubrik;var adsc_sb = top.adsc_sb;var adsc_mr = top.adsc_mr;var adsc_sk = top.adsc_sk;var adsc_sc = top.adsc_sc;var adsc_agof = top.adsc_agof;var adsc_keyword = top.adsc_keyword;var adsc_percentages = top.adsc_percentages;var adsc_sadwidth = top.adsc_sadwidth;var adsc_sadheight = top.adsc_sadheight;var adsc_cadwidth = top.adsc_cadwidth;var adsc_cadheight = top.adsc_cadheight;var adsc_popupwidth = top.adsc_popupwidth;var adsc_popupheight = top.adsc_popupheight;var adsc_skyscraperwidth = top.adsc_skyscraperwidth;var adsc_skyscraperheight = top.adsc_skyscraperheight;var adsc_layout = top.adsc_layout;var adsc_brand = top.adsc_brand;var adsc_product = top.adsc_product;var adsc_ressort = top.adsc_ressort;var adsc_rubrik_int = top.adsc_rubrik_int;var adsc_document_uri = top.adsc_document_uri;</scr'+'ipt>');
+                iframeToHead.contentWindow.document
+                .write('<script type="text/javascript" src="http://a.tfag.de/js_ng/js_ng_chip_0300.js"></scr'+'ipt>');
+                iframeToHead.contentWindow.document
+                .write('<script language="javascript"> document.write(ads_gettag("BANNER",728,90,100,"js")); </scr'+'ipt>');
+                iframeToHead.contentWindow.document 
+                .write('</bo'+'dy></html>');
+                iframeToHead.contentWindow.document.close();
+ 
+                                    if (typeof(console) == 'object') console.info("call TFMINSTANTIFRAME");
+                    return '';
+                  
+                
+            }
+        } else {
+
+            return function() {
+                var adsource = ads_gettag(config.zoneid, config.width, config.height, 100);
+                return adsource;
+            }
+ 
+        }
+    }
+    function CXO_WriteBanner(banner)
+    {
+    }
+</script>
+<div id="async-top-banner-me" name="top" style="visibility:hidden;margin:2px 0px;" ><script type='text/javascript'>
+var config = {
+    zoneid: 'BANNER',
+    language: 'de',
+    channel: '26784',
+    subchannel: '0',
+    layout: '',
+    width:'728',
+    height:'90'
+};
+</script>
+<script type='text/javascript'>
+ 
+</script>
+<script type='text/javascript'>    
+var cxo_tfs_adcall = new Cxo_Adtech_AdServer_TFS(config);
+Cxo_Adtech.callAdServer('top-banner-me', cxo_tfs_adcall, []);
+</script>
+<script type='text/javascript'>
+cxo_tfs_adcall = null;
+</script>
+</div><script type="text/javascript">
+Cxo_Adtech.registerRule(
+    'top-banner-me',
+    Cxo_Adtech_Rule_TfsPanoramaAd,
+    {"zoneId":"top-banner-me"});
+</script><script type="text/javascript">
+Cxo_Adtech.registerRule(
+    'top-banner-me',
+    Cxo_Adtech_Rule_TfsBannerHeight,
+    {"zoneId":"top-banner-me"});
+</script>    <script type="text/javascript">
+        Cxo_Adtech.placeAd('top-banner-me');
+    </script>
+<div id="async-skyscraper-me" name="skyscraper" style="display:none;" ><script type='text/javascript'>
+var config = {
+    zoneid: 'SKYSCRAPER',
+    language: 'de',
+    channel: '26784',
+    subchannel: '0',
+    layout: '',
+    width:'160',
+    height:'600'
+};
+</script>
+<script type='text/javascript'>
+ 
+</script>
+<script type='text/javascript'>    
+var cxo_tfs_adcall = new Cxo_Adtech_AdServer_TFS(config);
+Cxo_Adtech.callAdServer('skyscraper-me', cxo_tfs_adcall, []);
+</script>
+<script type='text/javascript'>
+cxo_tfs_adcall = null;
+</script>
+</div>    <script type="text/javascript">
+        Cxo_Adtech.placeAd('skyscraper-me');
+    </script>
+<div id="async-commercial_ad_rechts" style="display:none;" ><script type='text/javascript'>
+var config = {
+    zoneid: 'CONTENTAD',
+    language: 'de',
+    channel: '26784',
+    subchannel: '0',
+    layout: '',
+    width:'300',
+    height:'250'
+};
+</script>
+<script type='text/javascript'>
+ 
+</script>
+<script type='text/javascript'>    
+var cxo_tfs_adcall = new Cxo_Adtech_AdServer_TFS(config);
+Cxo_Adtech.callAdServer('commercial_ad_rechts', cxo_tfs_adcall, []);
+</script>
+<script type='text/javascript'>
+cxo_tfs_adcall = null;
+</script>
+</div>    <script type="text/javascript">
+        Cxo_Adtech.placeAd('commercial_ad_rechts');
+    </script>
+
+<script type="text/javascript" language="JavaScript" src="http://chip.ivwbox.de/2004/01/survey.js"></script> </body>
+</html>

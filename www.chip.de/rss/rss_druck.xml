@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title><![CDATA[CHIP Online Drucker]]></title>
+    <link>http://www.chip.de/Test-Drucker-Scanner_13658304.html</link>
+    <description><![CDATA[Laser-, Tintenstrahl - und Foto-Drucker bei CHIP Online]]></description>
+    <pubDate>Fri, 20 Apr 2012 14:15:23 +0000</pubDate>
+    <image>
+      <url>http://www.chip.de/i/chip_logo.gif</url>
+      <title>CHIP Online Drucker</title>
+      <link>http://www.chip.de/Test-Drucker-Scanner_13658304.html</link>
+    </image>
+    <generator>CHIP Feed creator</generator>
+    <language>de</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title><![CDATA[Praxis-Test: Reflecta DigitDia 5000 (Dia-Scanner)]]></title>
+      <link>http://www.chip.de/artikel/Reflecta-DigitDia-5000-Dia-Scanner-Praxis-Test_26626944.html</link>
+      <guid>http://www.chip.de/artikel/Reflecta-DigitDia-5000-Dia-Scanner-Praxis-Test_26626944.html</guid>
+      <description><![CDATA[<img style="border: 0px none; margin: 0px; padding: 0px;" align="right" alt="" width="60" height="43" src="http://www.chip.de/ii/3/8/2/6/4/2/7/a1cca6866f030518.jpg" > Mein Dia-Archiv stand bisher unbeachtet in einer Ecke des Arbeitszimmers, säuberlich in Kartons verpackt. Jetzt soll es der Reflecta DigitDia 5000 auf die Festplatte des PC schaffen.]]></description>
+      <pubDate>Wed, 21 Mar 2012 15:20:27 +0000</pubDate>
+      <enclosure url="http://www.chip.de/ii/3/8/2/6/4/2/7/a1cca6866f030518.jpg" type="image/jpeg" length="1611"/>
+    </item>
+  </channel>
+</rss>

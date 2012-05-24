@@ -1,0 +1,2251 @@
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+<head>
+    <title>Die beliebtesten Produkte Preisvergleich - CHIP Online</title>
+<script type="text/javascript" src="/preisvergleich/js/Cookie.js?58363"></script>
+<script type="text/javascript" src="/preisvergleich/js/mobileredirect.js?58363"></script>
+<script type="text/javascript">
+	var chip_currpage_json = {"pagetitle":"Die beliebtesten Produkte","container_id":"13636272","dachzeile":"Die beliebtesten Produkte","abc":"Shopping","sales_belegungseinheit":"Preisvergleich","ivwkat":"359me2","bart_name":"PV_Top10_listen","me2_external_search":"","tree_nav_id":["9223","26784"],"tree_nav_name":["Navigation CHIP","Preisvergleich","none"],"tracking_mandant":"chip.de\/preisvergleich","js_interface":"tracking_obj"};
+</script>
+<meta name="robots" content="index,follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="keywords" content="Die beliebtesten Produkte " />
+<meta name="description" content="Die beliebtesten Produkte " />
+
+<!-- head_map v2 -->
+<link rel="stylesheet" type="text/css" href="/css/_merged/global.css" />
+<link rel="stylesheet" type="text/css" href="/css/_merged/adtech.css" />
+<script type="text/javascript" src="/js/_merged/efws.js"></script>
+<script type="text/javascript">
+EFWS.Script.loadScripts([
+'/js/_merged/jQuery.js',
+'/js/_merged/headfoot_pv.js',
+'/js/_merged/mvt.js'], '');
+</script>
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.chip.de/search.xml" title="CHIP Online Suche" />
+    
+
+<link rel="stylesheet" type="text/css" href="/preisvergleich/css/_merged/preisvergleich.css?t=58439">
+
+
+<script type="text/javascript" src="/preisvergleich/js/Me/Init.js?58363"></script>
+<script type="text/javascript">
+window.meUrlPath = '/preisvergleich';
+var meLoadScripts =
+	[
+        window.meUrlPath + '/js/prototype.js?58363',
+        window.meUrlPath + '/js/scriptaculous/effects.js?58363',
+        window.meUrlPath + '/js/chiplib/chiplib.js',
+        window.meUrlPath + '/js/Me/Page.js?58363',
+        window.meUrlPath + '/js/suchvorschlag.js?58363',
+        window.meUrlPath + '/js/me_showtab.js?58363',
+        'http://www.chip.de/js/_merged/jQuery.socialbar.js?58363'
+    ];
+</script>
+<!--[if lte IE 7]>
+  <link href="/preisvergleich/css/iehacks.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+    	<script type="text/javascript">
+	meLoadScripts.push(window.meUrlPath + '/js/Me/Page/Top10.js');
+	EFWS.Script.loadScripts(meLoadScripts, '');
+	</script>
+</head>
+<body onload="docIsLoaded = true;">
+<style type="text/css">
+.cxo_tracking {
+  position: absolute; 
+  top: -100px;
+}
+</style><div class="cxo_tracking">
+<script type="text/javascript" language="JavaScript">
+// <![CDATA[    
+var szmvars="chip//CP//359me2";
+var escaped_referrer=escape(document.referrer);
+var random=Math.random();
+var img_tag = "<img id='ivw_241326701' src='http://chip.ivwbox.de/cgi-bin/ivw/CP/359me2;?r="+escaped_referrer+"&d="+random+"' width='1' height='1' alt='' />";
+document.write( img_tag );
+// ]]>
+</script>
+<noscript><img id='ivw_241326701_noscript' src='http://chip.ivwbox.de/cgi-bin/ivw/CP/359me2;?r=http%3A%2F%2Fwww.chip.de%2F&amp;d=241326701' width="1" height="1" alt='' />
+</noscript><!-- SiteCatalyst code version: H.23.4.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com --><script src="http://www.chip.de/js/omniture_somtr_code_vH.23.4.js?version=H.23.4.20110808" type="text/javascript" ></script><script type="text/javascript">
+// <![CDATA[
+somtr.prop18="Die beliebtesten Produkte";
+somtr.prop2="Shopping";
+somtr.prop48="Preisvergleich";
+somtr.prop49="359me2";
+somtr.prop3="PV_Top10_listen";
+somtr.channel="Preisvergleich";
+somtr.prop1="none";
+somtr.pageName="0013636272_Die beliebtesten Produkte";
+somtr.server="www.chip.de";
+somtr.prop4="no";
+somtr.prop5="Donnerstag";
+somtr.prop14="yes";
+somtr.hier1="Shopping###Preisvergleich###none###PV_Top10_listen###no###0013636272_Die beliebtesten Produkte";
+somtr.hier2="none###none###none###none###none###none";
+var gsr_ref=encodeURI(document.referrer); if ((gsr_ref.substring(0, 18) == 'http://www.google.') && (gsr_ref.split("cd=").length >= 2 )){var gsr_refx = gsr_ref.split("cd=")[1];if (gsr_refx.split("&").length >= 1) {var gsr = gsr_refx.split("&")[0]; somtr.prop29=gsr;}}
+function Client() {}
+Client.prototype.mobileClients = ["240x320","blackberry","netfront","nokia","panasonic","portalmmm","sharp","sie-","sonyericsson","symbian","windows ce","benq","mda","mot-","philips","pocket pc","sagem","samsung","sda","sgh-","vodafone","xda","iphone","android"];
+
+Client.prototype.OperaMini = ["midp","opera mini"]
+Client.prototype.isMobileClient = function(userAgent){
+    userAgent=userAgent.toLowerCase();
+    for (var i in this.mobileClients) {
+        if (userAgent.indexOf(this.mobileClients[i]) != -1) {
+            return true;
+        }
+    }
+    return false;
+}
+Client.prototype.isOperaMini = function(userAgent){
+    userAgent=userAgent.toLowerCase();
+    for (var i in this.OperaMini) {
+        if (userAgent.indexOf(this.OperaMini[i]) != -1) {
+            return true;
+        }
+   }
+   return false;
+}
+var client = new Client();
+if (client.isMobileClient(navigator.userAgent)) {somtr.prop36="1";} else if(client.isOperaMini(navigator.userAgent)){document.observe('dom:loaded', somtr.prop36="1");}var s_code=somtr.t();
+if(s_code)document.write(s_code);
+// ]]>
+</script><script language="JavaScript" type="text/javascript">
+<!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-'); //-->
+</script>
+<noscript>
+<a href="http://www.omniture.com" title="Web Analytics" rel="nofollow"><img src="http://omniture.chip.de/b/ss/cxochipde-prod/1/H.23.4.--NS/0?[AQB]&amp;pageName=0013636272_Die+beliebtesten+Produkte[AQE]" height="1" width="1" border="0" alt="" /></a>
+</noscript>
+<!-- End SiteCatalyst code version: H.23.4. -->
+<script type="text/javascript" language="JavaScript">
+// <![CDATA[
+var r2sz=screen.width+'x'+screen.height+'x'+screen.colorDepth;
+var con=0;
+if (navigator.cookieEnabled) con=1;
+var random=Math.random();
+var img_tag = "<img id='rholive_1915168493' src='http://r.chip.de/images/pic.gif?m=c1&amp;nc=0&amp;sep=%2C&amp;tce=1&amp;c=13636272&amp;b=&amp;l=&amp;tid=26784&amp;tp=9223&amp;tn=none&amp;tpn=Navigation+CHIP%2CPreisvergleich&amp;tc=9223%2C26784&amp;con="+con+"&amp;tit=PV_Top10_listen%3A+Die+beliebtesten+Produkte&amp;url=http%3A%2F%2Fwww.chip.de%2Fpreisvergleich%2FDie-beliebtesten-Produkte.html%3Fall%3D0%26se%3Dtop10%26type%3Dprodukte%26chk%3DM2JiNTZlOTU0NTc3YzlkZWQ2ZTgzNmZiNTFkODRmYjk.&amp;json=0&amp;random="+Math.random()+"&amp;r="+escape(document.referrer)+"&amp;sz="+r2sz+"&amp;cs=1' width='1' height='1' alt='' />";
+document.write( img_tag );
+// ]]>
+</script>
+<noscript>
+<img id='rholive_1915168493_noscript' src='http://r.chip.de/images/pic.gif?m=c1&amp;c=13636272&amp;sep=%2C&amp;tce=1&amp;b=&amp;l=&amp;tid=26784&amp;tp=9223&amp;tn=none&amp;tpn=Navigation+CHIP%2CPreisvergleich&amp;tc=9223%2C26784&amp;con="+con+"&amp;tit=PV_Top10_listen%3A+Die+beliebtesten+Produkte&amp;url=http%3A%2F%2Fwww.chip.de%2Fpreisvergleich%2FDie-beliebtesten-Produkte.html%3Fall%3D0%26se%3Dtop10%26type%3Dprodukte%26chk%3DM2JiNTZlOTU0NTc3YzlkZWQ2ZTgzNmZiNTFkODRmYjk.&amp;json=0&amp;random=1915168493&amp;r=http%3A%2F%2Fwww.chip.de%2F&amp;cs=1' width='1' height='1' alt='' />
+</noscript>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['c._setAccount', 'UA-11018706-3']);
+  _gaq.push(['c._setDomainName', '.chip.de']);
+  _gaq.push(['c._setAllowHash', false]);
+  _gaq.push(['c._setCustomVar', 1, 'ABC', 'Shopping', 3]);
+  _gaq.push(['c._setCustomVar', 2, 'BArt', 'PV_Top10_listen', 3]);
+  _gaq.push(['c._setCustomVar', 3, 'IVW', '359me2', 3]);
+if (typeof(somtr) !== "undefined"){
+    if (typeof(somtr.prop36) !== "undefined") {
+        _gaq.push(['c._setCustomVar', 4, 'mobileDevice', somtr.prop36, 3]);}
+}
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['c._trackPageview']);
+  _gaq.push(['c._trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+        'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
+</script>
+<script type="text/javascript" language="JavaScript">
+// <![CDATA[
+
+function cxo_tracking (){
+    this.name = 'cxo_tracking';
+
+    this.subclasses = new Array();
+
+    this.anmelden = function ( superclass ) {
+        superclass.subclasses.push( this )
+    }
+
+    this.image_id = '';
+
+        this.refresh = function () {
+        //        console.log('hier meldet sich ' + this.image_id + ' mit einem refresh');
+                try {
+                        if(document.getElementById( this.image_id ) == null) {
+                             // console.error ('noImage');
+                        }
+
+                        // Randomwert von ivw wird neu gesetzt - Randomwert (&d=...) muss der letzte Parameter sein, da alles hinter &d= abgeschnitten wird!
+                        var pixelSrc = document.getElementById( this.image_id ).src;
+                        var dPos = pixelSrc.indexOf("&d=");
+                        if(dPos != -1) {
+                                pixelSrc = pixelSrc.substring(0, dPos) + "&d=" + Math.random();
+                        } else {
+                                pixelSrc = pixelSrc + "&d=" + Math.random();
+                        }
+                        var newPixel = document.createElement("img");
+                        newPixel.id = this.image_id;
+                        newPixel.src = pixelSrc;
+                        var oldPixel = document.getElementById( this.image_id );
+                        oldPixel.parentNode.replaceChild(newPixel, oldPixel);
+               } catch(e) {
+                         // console.error(e);
+               }
+        }
+}
+
+
+cxo_tracking_dispatcher = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'cxo_tracking_dispatcher';
+
+    this.refresh = function () {
+        for (var i in this.subclasses) {
+            try {
+                this.subclasses[i].refresh();
+            } catch (e) {
+//                console.error(e);
+            }
+        }
+    }
+}
+
+tracking_obj = new cxo_tracking_dispatcher();
+tracking_ivw = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'tracking_ivw';
+
+    this.image_id = 'ivw_241326701';
+}
+try {
+    tracking_ivw_obj = new tracking_ivw ();
+    tracking_ivw_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+tracking_omniture = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'tracking_omniture';
+
+    this.refresh = function () {
+//        console.log('hier meldet sich tracking_omniture.refresh');
+        var s_code="";
+        var s_code=somtr.t();
+    }
+}
+try {
+    tracking_omniture_obj = new tracking_omniture ();
+    tracking_omniture_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+tracking_rholive_level3 = function () {
+
+        this.inheritFrom = cxo_tracking;
+        this.inheritFrom();
+
+        this.name = 'tracking_rholive_level3';
+
+    this.image_id = 'rholive_1915168493';
+}
+try {
+    tracking_rholive_level3_obj = new tracking_rholive_level3 ();
+    tracking_rholive_level3_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+tracking_google_analytics = function () {
+
+    this.inheritFrom = cxo_tracking;
+    this.inheritFrom();
+
+    this.name = 'tracking_google_analytics';
+
+    this.refresh = function () {
+        
+     window._gaq = _gaq || [];
+  _gaq.push(['c._setAccount', 'UA-11018706-3']);
+  _gaq.push(['c._setDomainName', '.chip.de']);
+  _gaq.push(['c._setAllowHash', false]);
+  _gaq.push(['c._setCustomVar', 1, 'ABC', 'Shopping', 3]);
+  _gaq.push(['c._setCustomVar', 2, 'BArt', 'PV_Top10_listen', 3]);
+  _gaq.push(['c._setCustomVar', 3, 'IVW', '359me2', 3]);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['c._trackPageview']);
+
+    }
+}
+try {
+    tracking_google_analytics_obj = new tracking_google_analytics ();
+    tracking_google_analytics_obj.anmelden( tracking_obj );
+} catch (e) {
+//    console.error(e);
+}
+// ]]>
+</script>
+</div>
+
+
+<div id="header-global" >
+  <div id="header-wrapper">
+    <div id="header-v3">
+      <ul id="he-v1-nav">
+        <li class="firstNav dropDown currentChannel">
+          <a href='/headfoot/json/8659753/tk_.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Test &amp; Kaufberatung" href="http://www.chip.de/Test_12430122.html">Test &amp; Kaufberatung</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/Test_12430122.html?tid1=20432&amp;tid2=0" title="Aktuelle Hardware-Tests">Aktuelle Hardware-Tests</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/artikel/CHIP-Bestenlisten-Alle-Testsieger-im-ueberblick_12823667.html" title="Bestenlisten">Bestenlisten</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/" title="Handy">Handy</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Digitalkamera_13658113.html" title="Digitalkamera">Digitalkamera</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Notebook_13658055.html" title="Notebook">Notebook</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Home-Entertainment-Fernseher_24343261.html" title="Fernseher (LCD und Plasma)">Fernseher (LCD und Plasma)</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-PC-Hardware_24215565.html" title="PC Hardware">PC Hardware</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Software_13659530.html" title="Software">Software</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-Software-Windows-7_38470426.html" title="Windows 7">Windows 7</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Tipps-Tools_13101526.html" title="Tipps &amp; Tools">Tipps &amp; Tools</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/DSL-Internet_13660046.html" title="DSL &amp; Internet">DSL &amp; Internet</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/CHIP-Video_17367032.html" title="CHIP-Video">CHIP-Video</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Spiele_13648840.html" title="Spiele">Spiele</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-TFT-Monitor_13658199.html" title="TFT-Monitor">TFT-Monitor</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Test-MP3-Player_13608499.html" title="MP3-Player">MP3-Player</a>
+              </li>
+            
+              <li>
+                <a href="http://free2play.chip.de/" title="free2play">free2play</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown ">
+          <a href='/headfoot/json/8659753/news.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="News" href="http://www.chip.de/News_29559209.html">News</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=9237&amp;tid2=0" title="Hardware">Hardware</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=42323&amp;tid2=0" title="Software">Software</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-News_37170368.html" title="Handy">Handy</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=20833&amp;tid2=0" title="Schn&auml;ppchen">Schn&auml;ppchen</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=38715&amp;tid2=0" title="Panorama">Panorama</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=9240&amp;tid2=0" title="Business">Business</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/News_29559209.html?tid1=9238&amp;tid2=0" title="DSL &amp; Tarife">DSL &amp; Tarife</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown ">
+          <a href='/headfoot/json/8659753/download.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Downloads" href="http://www.chip.de/Downloads_13649224.html">Downloads</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads-Download-Charts_32427498.html" title="Download-Charts">Download-Charts</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads-Download-Specials_14687716.html" title="Download-Specials">Download-Specials</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?of=0" title="Download-Neuzug&auml;nge">Download-Neuzug&auml;nge</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads-Must-Have-Downloads_39127992.html" title="Must-Have-Downloads">Must-Have-Downloads</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38909&amp;tid2=0" title="Audio &amp; Video">Audio &amp; Video</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=34503&amp;tid2=0" title="BitTorrent-Downloads">BitTorrent-Downloads</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38910&amp;tid2=0" title="Brennen &amp; DVD">Brennen &amp; DVD</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38908&amp;tid2=0" title="Desktop &amp; Modding">Desktop &amp; Modding</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38907&amp;tid2=0" title="Foto &amp; Grafik">Foto &amp; Grafik</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38915&amp;tid2=0" title="Handy &amp; Mobile">Handy &amp; Mobile</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38906&amp;tid2=0" title="Internet, Online &amp; Web">Internet, Online &amp; Web</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38916&amp;tid2=0" title="Linux">Linux</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38917&amp;tid2=0" title="MacOS">MacOS</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38914&amp;tid2=0" title="Office &amp; Geld">Office &amp; Geld</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38913&amp;tid2=0" title="Sicherheit &amp; Hilfe">Sicherheit &amp; Hilfe</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38911&amp;tid2=0" title="Spiele &amp; Unterhaltung">Spiele &amp; Unterhaltung</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Downloads_13649224.html?tid1=38912&amp;tid2=0" title="Tuning &amp; System">Tuning &amp; System</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/Web-Apps_38049259.html" title="Web-Apps">Web-Apps</a>
+              </li>
+            
+              <li>
+                <a href="http://wallpaper.chip.de/" title="Wallpaper.CHIP.de">Wallpaper.CHIP.de</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown left153 right-aligned ">
+          <a href='/headfoot/json/8659753/handy.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Handy" href="http://www.chip.de/handy/">Handy</a>
+          <ul>
+            
+              <li>
+                <a href="http://www.chip.de/bestenlisten/Bestenliste-Handys--index/index/id/598/" title="Bestenliste">Bestenliste</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Downloads_37057523.html" title="Apps &amp; Downloads">Apps &amp; Downloads</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Test_37108733.html" title="Tests">Tests</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Tarife_37057521.html" title="Tarife">Tarife</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-News_37170368.html" title="News">News</a>
+              </li>
+            
+              <li>
+                <a href="http://www.chip.de/handy/Handy-Tipps-Tools_37057513.html" title="Tipps &amp; Tools">Tipps &amp; Tools</a>
+              </li>
+            
+          </ul>
+        </li>
+        <li class="dropDown left137 right-aligned ">
+          <a href='/headfoot/json/8659753/business.json?t=12-05-21-16-56' class='attrHolder'></a>
+          <a title="Business" href="http://business.chip.de/">Business</a>
+          <ul>
+            
+              <li>
+                <a href="http://business.chip.de/Business-News_41258338.html" title="News">News</a>
+              </li>
+            
+              <li>
+                <a href="http://business.chip.de/Business-Hardware_41258344.html" title="Hardware">Hardware</a>
+              </li>
+            
+              <li>
+                <a href="http://business.chip.de/Business-Mittelstand_41258311.html" title="Mittelstand">Mittelstand</a>
+              </li>
+            
+              <li>
+                <a href="http://business.chip.de/Business-Admin_41212810.html" title="Admin">Admin</a>
+              </li>
+            
+          </ul>
+       </li>
+       <li class="lastNav dropDown left122 right-aligned ">
+         <a href='/headfoot/json/8659753/community.json?t=12-05-21-16-56' class='attrHolder'></a>
+         <a title="Community" href="http://forum.chip.de">Community</a>
+         <ul class="lastNav">
+            
+              <li>
+                <a href="http://www.chip.de/quiz/" title="Quiz">Quiz</a>
+              </li>
+            
+              <li>
+                <a href="http://download.chip.eu/de/" title="Download CHIP.eu">Download CHIP.eu</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/" title="Foren-&Uuml;bersicht">Foren-&Uuml;bersicht</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/newestThreads.php" title="Forum: Neue Themen">Forum: Neue Themen</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/specials/" title="Specials">Specials</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/betriebssysteme/" title="Betriebssysteme">Betriebssysteme</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/spiele/" title="Spiele">Spiele</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/test-kaufberatung/" title="Test &amp; Kaufberatung">Test &amp; Kaufberatung</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/pc-komponenten/" title="PC-Komponenten">PC-Komponenten</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/hardware-praxis/" title="Hardware (Praxis)">Hardware (Praxis)</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/internet/" title="Internet">Internet</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/multimedia/" title="Multimedia">Multimedia</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/software/" title="Software">Software</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/handy-tipps-beratung/" title="Handy-Tipps und Beratung">Handy-Tipps und Beratung</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/handy-smartphone/" title="Handy &amp; Smartphone">Handy &amp; Smartphone</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/mobilfunk-netze/" title="Mobilfunk &amp; Netze">Mobilfunk &amp; Netze</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/entwicklung/" title="Entwicklung">Entwicklung</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/offtopic/" title="Offtopic">Offtopic</a>
+              </li>
+            
+              <li>
+                <a href="http://forum.chip.de/feedback/" title="Feedback">Feedback</a>
+              </li>
+            
+              <li>
+                <a href="http://blog.chip.de/" title="CHIP Produkttest Blogs">CHIP Produkttest Blogs</a>
+              </li>
+            
+         </ul>
+        </li>
+      </ul>
+
+	      <a href="http://www.chip.de" id="chip-logo" title="CHIP Online"><img id="chip-logo-img" src="http://chip01.chipimages.de/i/headfoot/chip-online-logo.gif" width="139" height="59" alt="CHIP Online"/></a>
+	      <div id="quickNav">
+        <table cellpadding="0" cellspacing="0" summary="quickNav">
+          <tr>
+            <td class="noBorder">&nbsp;<br />&nbsp;</td>
+            <td><a href="http://www.chip.de/preisvergleich/Die-beliebtesten-Produkte.html?se=top10&amp;type=produkte&amp;chk=MmMwZDYwMWQyMGVkMmE1YTNjZjY5NzBmMjBmOGIyODA." title="Top 500">Top 500</a></td>
+            <td class="noBorder">&nbsp;<br />&nbsp;</td>
+            <td><a href="http://www.chip.de/preisvergleich/haendleruebersicht.html" title="Shops">Shops</a></td>
+            <td class="noBorder">&nbsp;<br />&nbsp;</td>
+            <td><a href="http://www.chip.de/feedback/c1_feedback_preisvergleich.html" title="Fehler melden">Fehler melden</a></td>
+          </tr>
+        </table>
+      </div>
+
+
+<div id="suchform-wrapper">
+	<form action="/preisvergleich//form.html" method="get" id="suchform">
+					<input type="hidden" value="produktliste" name="se" />
+
+					<input type="hidden" value="1" name="xx_form" />
+					<input type="hidden" value="1" name="xx_or" />
+					<input type="hidden" value="13" name="xx_ref_id" />
+					<input type="hidden" value="ZGZkNWE3OWNiM2I5OTFmMGNlZDllMTcyZWFjZjhiN2Y." name="chk" />
+				<input type="hidden" value="Produktsuche" name="filter"/>
+		<input type="hidden" value="" name="external"/>
+		<input type="text" name="suchstring" id="me-suche-header-suchstring" value="" class="mod_suche_header_suchstring" />
+		<input name="submit" src="http://www.chip.de/c1_i/he-v1-suche-btn-autumn.gif" class="me-suche-header-submit" align="top" type="image">
+		<div id="me-suche-header-suchvorschlag" class="me-suchvorschlag" style="display: none"></div>			
+	</form>
+
+</div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Suchvorschlag //-->
+<script type="text/javascript">
+
+try {
+	window.meQuickSearch['header'] = initSuchvorschlag('me-suche-header-suchvorschlag', 'me-suche-header-suchstring', 'http://www.chip.de/preisvergleich/form.html?se=suchvorschlag&amp;xx_form=1&amp;xx_or=0&amp;xx_ref_id=13&amp;chk=OWQ2N2JiY2U4ZDczOTU3N2Q2NzI0NWE1YTY5OTdiOGY.');
+} catch (e) {
+	window.meQuickSearchData['header'] = {
+		divId: 'me-suche-header-suchvorschlag',
+		inputId: 'me-suche-header-suchstring',
+		url: 'http://www.chip.de/preisvergleich/form.html?se=suchvorschlag&amp;xx_form=1&amp;xx_or=0&amp;xx_ref_id=13&amp;chk=OWQ2N2JiY2U4ZDczOTU3N2Q2NzI0NWE1YTY5OTdiOGY.'
+        
+	};
+}
+
+</script>
+<!-- /Suchvorschlag //-->
+<div id="chip-wrapper">
+
+<script type='text/javascript'>  
+</script>
+
+            <script type="text/javascript" src="/cxo_adtech/js/cxo_adtech-57959-min.js"></script>
+         
+
+<script type="text/javascript">
+var cxo_adtech_publisher = 'chip';
+var cxo_adtech_language = '';
+var cxo_adtech_page_layout = '';
+var cxo_adtech_page_layout_id = '';
+var cxo_adtech_page_title = 'die beliebtesten produkte';
+var cxo_adtech_bart_name = 'pv_top10_listen';
+var cxo_adtech_channel = '26784';
+var cxo_adtech_subchannel = '26784';
+var cxo_adtech_gallery = false;
+</script>
+
+<script type='text/javascript'>
+</script>
+<span id="google_iframe_container_v3" style="display:none; visibility:hidden;"></span>
+<script type="text/javascript">
+    Cxo_Adtech.google = new Cxo_Adtech_Google();
+    Cxo_Adtech.google.setVariables({"usage":"afc","ad_client":"ca-chip-de_js","ad_output":"js","ad_type":"text","safe":"high","feedback":"on","adtest":"off","analytics_uacct":"UA-11018706-3","analytics_domain_name":"none","language":"de","ad_channel":"chip_shopping"});
+    google_analytics_uacct = "UA-11018706-3"; 
+    google_analytics_domain_name = "none";
+</script>
+<div id="top-banner-me" name="top" style="margin:0pt;visibility:visible;z-index:50;text-align:center;width:828px;" ></div>
+<div id="chip"> 
+<div class="me-center">
+    <div class="me-pfad">
+        <!-- pfad -->
+<div id="me2_pfad">
+    <div class="icon">&nbsp;</div>
+    <p>Sie sind hier:</p>
+    <p><a href="/">Home</a></p>
+    <p class="pfad_arrow">&nbsp;</p>
+    <p><a href="/preisvergleich/">Preisvergleich</a></p>
+                <p class="pfad_arrow">&nbsp;</p>
+                                <p><a href="/preisvergleich/Die-beliebtesten-Produkte.html?se=top10&amp;type=produkte&amp;chk=MmMwZDYwMWQyMGVkMmE1YTNjZjY5NzBmMjBmOGIyODA.">Die beliebtesten Produkte</a></p>
+                            </div>
+<!-- /pfad -->
+    </div>
+    <div class="me-content">
+        <div>
+            <div id="top10_uebersicht">
+	<div class="content">
+		<a name="navigation">&nbsp;</a>
+		<h1>Die beliebtesten Produkte</h1>
+		<p class="description">Die Komplett-&Uuml;bersicht f&uuml;r potentielle Schn&auml;ppchen: Auf dieser Seite k&ouml;nnen Sie jeweils die zehn am h&auml;ufigsten angeklickten Produkte aus dem Preisvergleich abfragen. Ein Klick auf den Produktnamen bringt Sie direkt zum Angebots-Vergleich mit Eckdaten zum Produkt, Testdaten und aktuellen Preisen verschiedener H&auml;ndler. Diese Seite wird t&auml;glich aktualisiert.</p>
+		<br/>
+
+		<div id="top10_navigation">
+			<div id="top10_uebersicht-tabs">
+				<div class="tabs_more">
+					<ul>
+																		<li class="current_suche">
+													<a href="/preisvergleich/Die-beliebtesten-Produkte.html?all=0&amp;se=top10&amp;type=produkte&amp;chk=M2JiNTZlOTU0NTc3YzlkZWQ2ZTgzNmZiNTFkODRmYjk.">Die beliebtesten Produkte</a>
+						</li>
+																		<li>
+													<a href="/preisvergleich/Die-beliebtesten-Marken.html?all=0&amp;se=top10&amp;type=marken&amp;chk=OGRjNDFjNjA0MjE5MDVmNDBhZDNlZDBmMjllYjZjNTU.">Die beliebtesten Marken</a>
+						</li>
+																		<li>
+													<a href="/preisvergleich/Bestenliste.html?all=0&amp;se=top10&amp;type=schnaeppchen&amp;chk=ZTJiZTllMDc1NDA0MDIwZjllMzU1YzEzODI5YmQyOGQ.">Schn&auml;ppchen-Alarm</a>
+						</li>
+																		<li>
+													<a href="/preisvergleich/Die-neuesten-Produkte.html?all=0&amp;se=top10&amp;type=neueste&amp;chk=ZTQxODhhY2M3YWZhM2YzZjIyNGQ3MzYzNDNhYjFjMWI.">Neue H&auml;ndler-Angebote</a>
+						</li>
+										</ul>
+				</div>
+			</div>
+		</div>
+                		<div id="feeds">
+						<div class="feedbox" id="box1">
+								<a name="Notebooks">&nbsp;</a>
+				<h2>Notebooks</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/193157/Sony-VPC-CB4Z1E-W.html" title="Sony VPC-CB4Z1E/W">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/100000/193000/193157_66x50_2.jpg" width="66" height="50" alt="Sony VPC-CB4Z1E/W"/>
+							</span>
+							Sony VPC-CB4Z1E/W
+														<span class="c_red">ab 874,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/194324/Dell-XPS-15z.html" title="Dell XPS 15z">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/194000/194324_66x50_1.jpg" width="66" height="50" alt="Dell XPS 15z"/>
+							</span>
+							Dell XPS 15z
+														<span class="c_red">ab 849,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/189694/Acer-Aspire-5755G-2454G50Mtcs-LX.RV902.007.html" title="Acer Aspire 5755G-2454G50Mtcs (LX.RV902.007)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/189000/189694_66x50_1.jpg" width="66" height="50" alt="Acer Aspire 5755G-2454G50Mtcs (LX.RV902.007)"/>
+							</span>
+							Acer Aspire 5755G-2454G50Mtcs (LX.RV902.007)
+														<span class="c_red">ab 559,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/160241/Acer-Aspire-7750G-2638G87Bnkk-LX.RB102.061.html" title="Acer Aspire 7750G-2638G87Bnkk (LX.RB102.061)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/160000/160241_66x50_1.jpg" width="66" height="50" alt="Acer Aspire 7750G-2638G87Bnkk (LX.RB102.061)"/>
+							</span>
+							Acer Aspire 7750G-2638G87Bnkk (LX.RB102.061)
+														<span class="c_red">ab 1.049,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/188013/Toshiba-NB550D-11D.html" title="Toshiba NB550D-11D">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/188000/188013_66x50_1.jpg" width="66" height="50" alt="Toshiba NB550D-11D"/>
+							</span>
+							Toshiba NB550D-11D
+														<span class="c_red">ab 329,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/193512/Acer-Aspire-M3-581T-32364G34Mnkk-NX.RY8EG.002.html" title="Acer Aspire M3-581T-32364G34Mnkk (NX.RY8EG.002)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/193000/193512_66x50_1.jpg" width="66" height="50" alt="Acer Aspire M3-581T-32364G34Mnkk (NX.RY8EG.002)"/>
+							</span>
+							Acer Aspire M3-581T-32364G34Mnkk (NX.RY8EG.002)
+														<span class="c_red">ab 589,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/189032/Hewlett-Packard-Pavilion-dv6-6b19sg.html" title="Hewlett Packard Pavilion dv6-6b19sg ">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/100000/189000/189032_66x50_1.jpg" width="66" height="50" alt="Hewlett Packard Pavilion dv6-6b19sg "/>
+							</span>
+							Hewlett Packard Pavilion dv6-6b19sg 
+														<span class="c_red">ab 599,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/186294/Toshiba-Satellite-L750D-17Q.html" title="Toshiba Satellite L750D-17Q">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/186000/186294_66x50_1.jpg" width="66" height="50" alt="Toshiba Satellite L750D-17Q"/>
+							</span>
+							Toshiba Satellite L750D-17Q
+														<span class="c_red">ab 499,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/178100/Acer-TravelMate-8481T-2464G38nkk-LX.V4V03.079.html" title="Acer TravelMate 8481T-2464G38nkk (LX.V4V03.079)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/100000/178000/178100_66x50_2.jpg" width="66" height="50" alt="Acer TravelMate 8481T-2464G38nkk (LX.V4V03.079)"/>
+							</span>
+							Acer TravelMate 8481T-2464G38nkk (LX.V4V03.079)
+														<span class="c_red">ab 749,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/186313/Toshiba-Satellite-Z830-10J.html" title="Toshiba Satellite Z830-10J">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/186000/186313_66x50_1.jpg" width="66" height="50" alt="Toshiba Satellite Z830-10J"/>
+							</span>
+							Toshiba Satellite Z830-10J
+														<span class="c_red">ab 925,00 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/Notebook/5/Seite-1.html" alt="Notebooks Top Liste">weitere Top Notebooks</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+						<div class="feedbox" id="box1">
+								<a name="Digitalkameras">&nbsp;</a>
+				<h2>Digitalkameras</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/193223/Sony-Cyber-shot-DSC-WX100.html" title="Sony Cyber-shot DSC-WX100">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/100000/193000/193223_66x50_2.jpg" width="66" height="50" alt="Sony Cyber-shot DSC-WX100"/>
+							</span>
+							Sony Cyber-shot DSC-WX100
+														<span class="c_red">ab 238,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/193620/Sony-Alpha-57.html" title="Sony Alpha 57">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/193000/193620_66x50_3.jpg" width="66" height="50" alt="Sony Alpha 57"/>
+							</span>
+							Sony Alpha 57
+														<span class="c_red">ab 749,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/160991/Canon-EOS-1100D.html" title="Canon EOS 1100D ">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/160000/160991_66x50_4.jpg" width="66" height="50" alt="Canon EOS 1100D "/>
+							</span>
+							Canon EOS 1100D 
+														<span class="c_red">ab 319,99 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181026/Panasonic-Lumix-DMC-FZ150.html" title="Panasonic Lumix DMC-FZ150">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/181000/181026_66x50_1.jpg" width="66" height="50" alt="Panasonic Lumix DMC-FZ150"/>
+							</span>
+							Panasonic Lumix DMC-FZ150
+														<span class="c_red">ab 399,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/168450/Nikon-D5100.html" title="Nikon D5100">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/168000/168450_66x50_7.jpg" width="66" height="50" alt="Nikon D5100"/>
+							</span>
+							Nikon D5100
+														<span class="c_red">ab 488,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/161411/Canon-EOS-600D.html" title="Canon EOS 600D">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/161000/161411_66x50_4.jpg" width="66" height="50" alt="Canon EOS 600D"/>
+							</span>
+							Canon EOS 600D
+														<span class="c_red">ab 539,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/191447/Panasonic-Lumix-DMC-TZ25.html" title="Panasonic Lumix DMC-TZ25">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/100000/191000/191447_66x50_1.jpg" width="66" height="50" alt="Panasonic Lumix DMC-TZ25"/>
+							</span>
+							Panasonic Lumix DMC-TZ25
+														<span class="c_red">ab 239,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/161417/Canon-PowerShot-SX220-HS.html" title="Canon PowerShot SX220 HS">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/161000/161417_66x50_5.jpg" width="66" height="50" alt="Canon PowerShot SX220 HS"/>
+							</span>
+							Canon PowerShot SX220 HS
+														<span class="c_red">ab 186,99 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/193227/Sony-Cyber-shot-DSC-HX20V.html" title="Sony Cyber-shot DSC-HX20V">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/100000/193000/193227_66x50_1.jpg" width="66" height="50" alt="Sony Cyber-shot DSC-HX20V"/>
+							</span>
+							Sony Cyber-shot DSC-HX20V
+														<span class="c_red">ab 386,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/172570/Panasonic-Lumix-DMC-G3.html" title="Panasonic Lumix DMC-G3">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/172000/172570_66x50_2.jpg" width="66" height="50" alt="Panasonic Lumix DMC-G3"/>
+							</span>
+							Panasonic Lumix DMC-G3
+														<span class="c_red">ab 469,00 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/Digitalkamera/6/Seite-1.html" alt="Digitalkameras Top Liste">weitere Top Digitalkameras</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+						<div class="feedbox" id="box1">
+								<a name="Handys &amp; Smartphones">&nbsp;</a>
+				<h2>Handys &amp; Smartphones</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/195661/Samsung-Galaxy-S3.html" title="Samsung Galaxy S3">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/100000/195000/195661_66x50_4.jpg" width="66" height="50" alt="Samsung Galaxy S3"/>
+							</span>
+							Samsung Galaxy S3
+														<span class="c_red">ab 579,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/162058/Samsung-Galaxy-S2-i9100.html" title="Samsung Galaxy S2 i9100">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/162000/162058_66x50_11.jpg" width="66" height="50" alt="Samsung Galaxy S2 i9100"/>
+							</span>
+							Samsung Galaxy S2 i9100
+														<span class="c_red">ab 374,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/185169/Samsung-Galaxy-Nexus-I9250.html" title="Samsung Galaxy Nexus I9250">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/185000/185169_66x50_1.jpg" width="66" height="50" alt="Samsung Galaxy Nexus I9250"/>
+							</span>
+							Samsung Galaxy Nexus I9250
+														<span class="c_red">ab 338,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/140850/Samsung-I9000-Galaxy-S.html" title="Samsung I9000 Galaxy S">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/140000/140850_66x50_4.jpg" width="66" height="50" alt="Samsung I9000 Galaxy S"/>
+							</span>
+							Samsung I9000 Galaxy S
+														<span class="c_red">ab 279,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/177480/Samsung-Galaxy-S-Plus-I9001.html" title="Samsung Galaxy S Plus I9001">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/177000/177480_66x50_1.jpg" width="66" height="50" alt="Samsung Galaxy S Plus I9001"/>
+							</span>
+							Samsung Galaxy S Plus I9001
+														<span class="c_red">ab 246,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/160586/Samsung-Galaxy-Ace-S5830.html" title="Samsung Galaxy Ace S5830">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/160000/160586_66x50_2.jpg" width="66" height="50" alt="Samsung Galaxy Ace S5830"/>
+							</span>
+							Samsung Galaxy Ace S5830
+														<span class="c_red">ab 167,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/192866/HTC-One-S.html" title="HTC One S">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/100000/192000/192866_66x50_1.jpg" width="66" height="50" alt="HTC One S"/>
+							</span>
+							HTC One S
+														<span class="c_red">ab 429,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181973/Sony-Ericsson-Xperia-arc-S.html" title="Sony Ericsson Xperia arc S">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/181000/181973_66x50_2.jpg" width="66" height="50" alt="Sony Ericsson Xperia arc S"/>
+							</span>
+							Sony Ericsson Xperia arc S
+														<span class="c_red">ab 251,55 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/182223/Samsung-Galaxy-Note-N7000.html" title="Samsung Galaxy Note N7000">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/100000/182000/182223_66x50_1.jpg" width="66" height="50" alt="Samsung Galaxy Note N7000"/>
+							</span>
+							Samsung Galaxy Note N7000
+														<span class="c_red">ab 411,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/179682/Sony-Ericsson-Xperia-Mini-Pro.html" title="Sony Ericsson Xperia Mini Pro">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/179000/179682_66x50_7.jpg" width="66" height="50" alt="Sony Ericsson Xperia Mini Pro"/>
+							</span>
+							Sony Ericsson Xperia Mini Pro
+														<span class="c_red">ab 157,97 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/Handy-Smartphone/2/Seite-1.html" alt="Handys &amp; Smartphones Top Liste">weitere Top Handys &amp; Smartphones</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+						<div class="feedbox" id="box1">
+								<a name="TFT-Monitore">&nbsp;</a>
+				<h2>TFT-Monitore</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/166066/Samsung-SyncMaster-T24A550.html" title="Samsung SyncMaster T24A550">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/100000/166000/166066_66x50_2.jpg" width="66" height="50" alt="Samsung SyncMaster T24A550"/>
+							</span>
+							Samsung SyncMaster T24A550
+														<span class="c_red">ab 219,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/190445/LG-Electronics-Flatron-IPS235P.html" title="LG Electronics Flatron IPS235P">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/190000/190445_66x50_1.jpg" width="66" height="50" alt="LG Electronics Flatron IPS235P"/>
+							</span>
+							LG Electronics Flatron IPS235P
+														<span class="c_red">ab 162,49 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/162414/LG-Electronics-E2441V.html" title="LG Electronics E2441V">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/162000/162414_66x50_2.jpg" width="66" height="50" alt="LG Electronics E2441V"/>
+							</span>
+							LG Electronics E2441V
+														<span class="c_red">ab 149,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/190446/LG-Electronics-Flatron-E2711PY.html" title="LG Electronics Flatron E2711PY">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/190000/190446_66x50_2.jpg" width="66" height="50" alt="LG Electronics Flatron E2711PY"/>
+							</span>
+							LG Electronics Flatron E2711PY
+														<span class="c_red">ab 279,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/151489/Benq-BL2400PT.html" title="Benq BL2400PT">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/151000/151489_66x50_4.jpg" width="66" height="50" alt="Benq BL2400PT"/>
+							</span>
+							Benq BL2400PT
+														<span class="c_red">ab 204,98 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/163480/Samsung-SyncMaster-S24A350H.html" title="Samsung SyncMaster S24A350H">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/163000/163480_66x50_1.jpg" width="66" height="50" alt="Samsung SyncMaster S24A350H"/>
+							</span>
+							Samsung SyncMaster S24A350H
+														<span class="c_red">ab 172,95 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/125513/Dell-UltraSharp-U2410.html" title="Dell UltraSharp U2410">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/100000/125000/125513_66x50_6.jpg" width="66" height="50" alt="Dell UltraSharp U2410"/>
+							</span>
+							Dell UltraSharp U2410
+														<span class="c_red">ab 390,05 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/175285/Philips-273P3LPHES.html" title="Philips 273P3LPHES">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/175000/175285_66x50_2.jpg" width="66" height="50" alt="Philips 273P3LPHES"/>
+							</span>
+							Philips 273P3LPHES
+														<span class="c_red">ab 348,99 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/136681/Dell-UltraSharp-U2711.html" title="Dell UltraSharp U2711 ">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/100000/136000/136681_66x50_1.jpg" width="66" height="50" alt="Dell UltraSharp U2711 "/>
+							</span>
+							Dell UltraSharp U2711 
+														<span class="c_red">ab 607,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181068/Philips-248C3LH.html" title="Philips 248C3LH">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/181000/181068_66x50_1.jpg" width="66" height="50" alt="Philips 248C3LH"/>
+							</span>
+							Philips 248C3LH
+														<span class="c_red">ab 199,00 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/TFT-Monitor/8/Seite-1.html" alt="TFT-Monitore Top Liste">weitere Top TFT-Monitore</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+						<div class="feedbox" id="box1">
+								<a name="Festplatten">&nbsp;</a>
+				<h2>Festplatten</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/182369/Samsung-830-Series-SSD-256GB-MZ-7PC256D-EU.html" title="Samsung 830 Series SSD 256GB (MZ-7PC256D/EU)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/100000/182000/182369_66x50_1.jpg" width="66" height="50" alt="Samsung 830 Series SSD 256GB (MZ-7PC256D/EU)"/>
+							</span>
+							Samsung 830 Series SSD 256GB (MZ-7PC256D/EU)
+														<span class="c_red">ab 179,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/183097/Samsung-830-Series-SSD-128GB-MZ-7PC128D-EU.html" title="Samsung 830 Series SSD 128GB (MZ-7PC128D/EU)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/183000/183097_66x50_1.jpg" width="66" height="50" alt="Samsung 830 Series SSD 128GB (MZ-7PC128D/EU)"/>
+							</span>
+							Samsung 830 Series SSD 128GB (MZ-7PC128D/EU)
+														<span class="c_red">ab 129,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/194386/Toshiba-STOR.E-Canvio-3.0-500GB-HDTC605EW3A1.html" title="Toshiba STOR.E Canvio 3.0 500GB (HDTC605EW3A1)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/194000/194386_66x50_3.jpg" width="66" height="50" alt="Toshiba STOR.E Canvio 3.0 500GB (HDTC605EW3A1)"/>
+							</span>
+							Toshiba STOR.E Canvio 3.0 500GB (HDTC605EW3A1)
+														<span class="c_red">ab 69,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/184042/Seagate-Barracuda-7200.14-3TB-ST3000DM001.html" title="Seagate Barracuda 7200.14 3TB (ST3000DM001)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/184000/184042_66x50_2.jpg" width="66" height="50" alt="Seagate Barracuda 7200.14 3TB (ST3000DM001)"/>
+							</span>
+							Seagate Barracuda 7200.14 3TB (ST3000DM001)
+														<span class="c_red">ab 141,89 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/182874/Verbatim-Store-n-Save-2TB-47672.html" title="Verbatim Store 'n' Save 2TB (47672)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/182000/182874_66x50_2.jpg" width="66" height="50" alt="Verbatim Store 'n' Save 2TB (47672)"/>
+							</span>
+							Verbatim Store 'n' Save 2TB (47672)
+														<span class="c_red">ab 124,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/176488/Freecom-Mobile-Drive-XXS-Leather-500GB-56056.html" title="Freecom Mobile Drive XXS Leather 500GB (56056)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/176000/176488_66x50_1.jpg" width="66" height="50" alt="Freecom Mobile Drive XXS Leather 500GB (56056)"/>
+							</span>
+							Freecom Mobile Drive XXS Leather 500GB (56056)
+														<span class="c_red">ab 108,52 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/184162/Kingston-Wi-Drive-WLAN-SSD-16GB-WID-16GBZE.html" title="Kingston Wi-Drive WLAN SSD 16GB (WID/16GBZE)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/100000/184000/184162_66x50_1.jpg" width="66" height="50" alt="Kingston Wi-Drive WLAN SSD 16GB (WID/16GBZE)"/>
+							</span>
+							Kingston Wi-Drive WLAN SSD 16GB (WID/16GBZE)
+														<span class="c_red">ab 34,88 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/186927/Freecom-Mobile-Drive-XXS-3.0-1TB-56007.html" title="Freecom Mobile Drive XXS 3.0 1TB (56007)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/186000/186927_66x50_1.jpg" width="66" height="50" alt="Freecom Mobile Drive XXS 3.0 1TB (56007)"/>
+							</span>
+							Freecom Mobile Drive XXS 3.0 1TB (56007)
+														<span class="c_red">ab 114,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/183339/QNAP-TS-119P-II-ohne-HDD.html" title="QNAP TS-119P II ohne HDD">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/100000/183000/183339_66x50_2.jpg" width="66" height="50" alt="QNAP TS-119P II ohne HDD"/>
+							</span>
+							QNAP TS-119P II ohne HDD
+														<span class="c_red">ab 192,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/182217/Raidsonic-Icy-Box-IB-MP3011PLUS.html" title="Raidsonic Icy Box IB-MP3011PLUS">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/182000/182217_66x50_3.jpg" width="66" height="50" alt="Raidsonic Icy Box IB-MP3011PLUS"/>
+							</span>
+							Raidsonic Icy Box IB-MP3011PLUS
+														<span class="c_red">ab 123,66 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/Festplatte-Multimedia-Player/45/Seite-1.html" alt="Festplatten Top Liste">weitere Top Festplatten</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+						<div class="feedbox" id="box1">
+								<a name="LCD-TVs">&nbsp;</a>
+				<h2>LCD-TVs</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/166315/LG-Electronics-42LK450.html" title="LG Electronics 42LK450 ">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/100000/166000/166315_66x50_12.jpg" width="66" height="50" alt="LG Electronics 42LK450 "/>
+							</span>
+							LG Electronics 42LK450 
+														<span class="c_red">ab 369,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/197190/Samsung-UE46ES7090.html" title="Samsung UE46ES7090">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/197000/197190_66x50_1.jpg" width="66" height="50" alt="Samsung UE46ES7090"/>
+							</span>
+							Samsung UE46ES7090
+														<span class="c_red">ab 1.699,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/194281/Panasonic-TX-L47ETW5.html" title="Panasonic TX-L47ETW5">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/194000/194281_66x50_1.jpg" width="66" height="50" alt="Panasonic TX-L47ETW5"/>
+							</span>
+							Panasonic TX-L47ETW5
+														<span class="c_red">ab 1.111,98 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/195231/Samsung-UE40ES6300.html" title="Samsung UE40ES6300">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/195000/195231_66x50_2.jpg" width="66" height="50" alt="Samsung UE40ES6300"/>
+							</span>
+							Samsung UE40ES6300
+														<span class="c_red">ab 719,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/159981/Sony-KDL-32EX725.html" title="Sony KDL-32EX725">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/159000/159981_66x50_5.jpg" width="66" height="50" alt="Sony KDL-32EX725"/>
+							</span>
+							Sony KDL-32EX725
+														<span class="c_red">ab 449,99 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/169991/Philips-55PFL6606K.html" title="Philips 55PFL6606K ">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/169000/169991_66x50_4.jpg" width="66" height="50" alt="Philips 55PFL6606K "/>
+							</span>
+							Philips 55PFL6606K 
+														<span class="c_red">ab 1.249,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/194001/Sony-KDL-40HX755.html" title="Sony KDL-40HX755">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/100000/194000/194001_66x50_2.jpg" width="66" height="50" alt="Sony KDL-40HX755"/>
+							</span>
+							Sony KDL-40HX755
+														<span class="c_red">ab 929,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/195197/Panasonic-TX-L47WT50E.html" title="Panasonic TX-L47WT50E">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/195000/195197_66x50_1.jpg" width="66" height="50" alt="Panasonic TX-L47WT50E"/>
+							</span>
+							Panasonic TX-L47WT50E
+														<span class="c_red">ab 2.299,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/195240/Sony-KDL-46HX755.html" title="Sony KDL-46HX755">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/100000/195000/195240_66x50_1.jpg" width="66" height="50" alt="Sony KDL-46HX755"/>
+							</span>
+							Sony KDL-46HX755
+														<span class="c_red">ab 1.229,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/172435/Philips-42PFL7606K.html" title="Philips 42PFL7606K ">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/172000/172435_66x50_1.jpg" width="66" height="50" alt="Philips 42PFL7606K "/>
+							</span>
+							Philips 42PFL7606K 
+														<span class="c_red">ab 939,00 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/LCD-und-LED-TV/33/Seite-1.html" alt="LCD-TVs Top Liste">weitere Top LCD-TVs</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+						<div class="feedbox" id="box1">
+								<a name="Navigationssysteme / GPS">&nbsp;</a>
+				<h2>Navigationssysteme / GPS</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/181618/TomTom-Go-Live-1015-Europe.html" title="TomTom Go Live 1015 Europe">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/100000/181000/181618_66x50_1.jpg" width="66" height="50" alt="TomTom Go Live 1015 Europe"/>
+							</span>
+							TomTom Go Live 1015 Europe
+														<span class="c_red">ab 262,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181057/Garmin-n%C3%BCvi-2495LMT.html" title="Garmin n&uuml;vi 2495LMT">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/181000/181057_66x50_2.jpg" width="66" height="50" alt="Garmin n&uuml;vi 2495LMT"/>
+							</span>
+							Garmin n&uuml;vi 2495LMT
+														<span class="c_red">ab 158,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181061/Navigon-42-Plus.html" title="Navigon 42 Plus">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/181000/181061_66x50_1.jpg" width="66" height="50" alt="Navigon 42 Plus"/>
+							</span>
+							Navigon 42 Plus
+														<span class="c_red">ab 122,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181963/Navigon-72-Premium.html" title="Navigon 72 Premium">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/181000/181963_66x50_1.jpg" width="66" height="50" alt="Navigon 72 Premium"/>
+							</span>
+							Navigon 72 Premium
+														<span class="c_red">ab 174,50 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181058/Garmin-n%C3%BCvi-2595LMT.html" title="Garmin n&uuml;vi 2595LMT">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/181000/181058_66x50_2.jpg" width="66" height="50" alt="Garmin n&uuml;vi 2595LMT"/>
+							</span>
+							Garmin n&uuml;vi 2595LMT
+														<span class="c_red">ab 178,95 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/151297/TomTom-Go-Live-1005.html" title="TomTom Go Live 1005">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/151000/151297_66x50_9.jpg" width="66" height="50" alt="TomTom Go Live 1005"/>
+							</span>
+							TomTom Go Live 1005
+														<span class="c_red">ab 229,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/177950/Becker-Active-50.html" title="Becker Active 50">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/100000/177000/177950_66x50_3.jpg" width="66" height="50" alt="Becker Active 50"/>
+							</span>
+							Becker Active 50
+														<span class="c_red">ab 195,00 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/181059/Garmin-n%C3%BCvi-3490LMT.html" title="Garmin n&uuml;vi 3490LMT">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/181000/181059_66x50_5.jpg" width="66" height="50" alt="Garmin n&uuml;vi 3490LMT"/>
+							</span>
+							Garmin n&uuml;vi 3490LMT
+														<span class="c_red">ab 264,99 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/159061/Garmin-n%C3%BCvi-1340LT-CE.html" title="Garmin n&uuml;vi 1340LT CE">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/100000/159000/159061_66x50_6.jpg" width="66" height="50" alt="Garmin n&uuml;vi 1340LT CE"/>
+							</span>
+							Garmin n&uuml;vi 1340LT CE
+														<span class="c_red">ab 92,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/189943/Garmin-n%C3%BCvi-2445LMT.html" title="Garmin n&uuml;vi 2445LMT">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/189000/189943_66x50_1.jpg" width="66" height="50" alt="Garmin n&uuml;vi 2445LMT"/>
+							</span>
+							Garmin n&uuml;vi 2445LMT
+														<span class="c_red">ab 125,00 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/Navigationssystem-GPS/129/Seite-1.html" alt="Navigationssysteme / GPS Top Liste">weitere Top Navigationssysteme / GPS</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+						<div class="feedbox" id="box1">
+								<a name="Betriebssysteme">&nbsp;</a>
+				<h2>Betriebssysteme</h2>
+				<ul>
+					
+															<li>
+						<a href="/preisvergleich/36875/Microsoft-Windows-XP-Professional.html" title="Microsoft Windows XP Professional">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank1.gif" width="38" height="24" alt="Platz 1"/>
+								<img src="/preisvergleich/img/product/1/36000/36875_66x50_1.jpg" width="66" height="50" alt="Microsoft Windows XP Professional"/>
+							</span>
+							Microsoft Windows XP Professional
+														<span class="c_red">ab 16,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/123465/Microsoft-Windows-7-Home-Premium-32bit.html" title="Microsoft Windows 7 Home Premium (32bit)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank2.gif" width="38" height="24" alt="Platz 2"/>
+								<img src="/preisvergleich/img/product/100000/123000/123465_66x50_2.jpg" width="66" height="50" alt="Microsoft Windows 7 Home Premium (32bit)"/>
+							</span>
+							Microsoft Windows 7 Home Premium (32bit)
+														<span class="c_red">ab 54,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/158306/Microsoft-Windows-7-Professional-64bit.html" title="Microsoft Windows 7 Professional (64bit)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank3.gif" width="38" height="24" alt="Platz 3"/>
+								<img src="/preisvergleich/img/product/100000/158000/158306_66x50_3.jpg" width="66" height="50" alt="Microsoft Windows 7 Professional (64bit)"/>
+							</span>
+							Microsoft Windows 7 Professional (64bit)
+														<span class="c_red">ab 59,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/124526/Microsoft-Windows-7-Professional-32bit.html" title="Microsoft Windows 7 Professional (32bit)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank4.gif" width="38" height="24" alt="Platz 4"/>
+								<img src="/preisvergleich/img/product/100000/124000/124526_66x50_2.jpg" width="66" height="50" alt="Microsoft Windows 7 Professional (32bit)"/>
+							</span>
+							Microsoft Windows 7 Professional (32bit)
+														<span class="c_red">ab 55,50 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/158298/Microsoft-Windows-7-Home-Premium-64bit.html" title="Microsoft Windows 7 Home Premium (64bit)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank5.gif" width="38" height="24" alt="Platz 5"/>
+								<img src="/preisvergleich/img/product/100000/158000/158298_66x50_3.jpg" width="66" height="50" alt="Microsoft Windows 7 Home Premium (64bit)"/>
+							</span>
+							Microsoft Windows 7 Home Premium (64bit)
+														<span class="c_red">ab 54,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/158310/Microsoft-Windows-7-Ultimate-64bit.html" title="Microsoft Windows 7 Ultimate (64bit)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank6.gif" width="38" height="24" alt="Platz 6"/>
+								<img src="/preisvergleich/img/product/100000/158000/158310_66x50_1.jpg" width="66" height="50" alt="Microsoft Windows 7 Ultimate (64bit)"/>
+							</span>
+							Microsoft Windows 7 Ultimate (64bit)
+														<span class="c_red">ab 84,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/36876/Microsoft-Windows-XP-Home.html" title="Microsoft Windows XP Home">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank7.gif" width="38" height="24" alt="Platz 7"/>
+								<img src="/preisvergleich/img/product/1/36000/36876_66x50_3.jpg" width="66" height="50" alt="Microsoft Windows XP Home"/>
+							</span>
+							Microsoft Windows XP Home
+														<span class="c_red">ab 11,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/124527/Microsoft-Windows-7-Ultimate-32bit.html" title="Microsoft Windows 7 Ultimate (32bit)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank8.gif" width="38" height="24" alt="Platz 8"/>
+								<img src="/preisvergleich/img/product/100000/124000/124527_66x50_6.jpg" width="66" height="50" alt="Microsoft Windows 7 Ultimate (32bit)"/>
+							</span>
+							Microsoft Windows 7 Ultimate (32bit)
+														<span class="c_red">ab 78,90 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/98521/Microsoft-Windows-Server-2008-5-User-R18-02479.html" title="Microsoft Windows Server 2008 (5 User) (R18-02479)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank9.gif" width="38" height="24" alt="Platz 9"/>
+								<img src="/preisvergleich/img/product/1/98000/98521_66x50_5.jpg" width="66" height="50" alt="Microsoft Windows Server 2008 (5 User) (R18-02479)"/>
+							</span>
+							Microsoft Windows Server 2008 (5 User) (R18-02479)
+														<span class="c_red">ab 196,37 &euro;</span>
+													</a>
+					</li>
+					
+																				<li>
+						<a href="/preisvergleich/158307/Microsoft-Windows-7-Professional-32-64bit.html" title="Microsoft Windows 7 Professional (32/64bit)">
+							<span class="me-top10-box">
+								<img class="rank" src="/preisvergleich/img/top10/me-top10-rank10.gif" width="38" height="24" alt="Platz 10"/>
+								<img src="/preisvergleich/img/product/100000/158000/158307_66x50_2.jpg" width="66" height="50" alt="Microsoft Windows 7 Professional (32/64bit)"/>
+							</span>
+							Microsoft Windows 7 Professional (32/64bit)
+														<span class="c_red">ab 69,90 &euro;</span>
+													</a>
+					</li>
+					
+														</ul>
+				                				<div class="right"><a href="/preisvergleich/Top-Produkte/Betriebssystem/25/Seite-1.html" alt="Betriebssysteme Top Liste">weitere Top Betriebssysteme</a></div>
+                                <div class="right"><a href="#navigation">nach oben</a></div>
+			</div>
+					</div>
+	</div>
+</div>
+                        <div class="table1 kategorie_table1">
+	<h2 class="f_size12 bold bg_silver_light kategorie_uberblick_heading">Preisvergleich: Kategorie-&Uuml;berblick</h2>
+	<div id="kategorie_teaser_container">
+							    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/kommunikation.gif" alt="" align="left"/>
+            		            		Mobile Ger&auml;te
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Handy-Smartphone/2/Seite-1.html" class="">Handy &amp; Smartphone</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Navigationssystem-GPS/129/Seite-1.html" class="">Navigationssystem / GPS</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/MP3-Player-Video-Player/4/Seite-1.html" class="">MP3-Player &amp; Video-Player</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Tablets-E-Books/671/Seite-1.html" class="">Tablets &amp; E-Books</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/foto.gif" alt="" align="left"/>
+            		            		Foto &amp; Zubeh&ouml;r
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Digitalkamera/6/Seite-1.html" class="">Digitalkamera</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Camcorder/19/Seite-1.html" class="">Camcorder</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Speicherkarte/32/Seite-1.html" class="">Speicherkarte</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Objektiv/246/Seite-1.html" class="">Objektiv</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Digitaler-Bilderrahmen/674/Seite-1.html" class="">Digitaler Bilderrahmen</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/computer.gif" alt="" align="left"/>
+            		            		Computer &amp; Komponenten
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/PC-Geh%C3%A4use/244/Seite-1.html" class="">PC-Geh&auml;use</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Festplatte-Multimedia-Player/45/Seite-1.html" class="">Festplatte &amp; Multimedia-Player</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Motherboard/50/Seite-1.html" class="">Motherboard</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Prozessor-CPU/51/Seite-1.html" class="">Prozessor / CPU</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Grafikkarte/49/Seite-1.html" class="">Grafikkarte</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Arbeitsspeicher-RAM/52/Seite-1.html" class="">Arbeitsspeicher / RAM</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Netzteil/675/Seite-1.html" class="">Netzteil</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Prozessork%C3%BChler/676/Seite-1.html" class="">Prozessork&uuml;hler</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Soundkarte/53/Seite-1.html" class="">Soundkarte</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/DVD-Brenner/47/Seite-1.html" class="">DVD-Brenner</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Blu-Ray-Brenner/131/Seite-1.html" class="">Blu-Ray-Brenner</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Spielkonsole-Zubeh%C3%B6r/125/Seite-1.html" class="">Spielkonsole &amp; Zubeh&ouml;r</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Notebook/5/Seite-1.html" class="">Notebook</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/PC-System/7/Seite-1.html" class="">PC-System</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/eingabegeraete.gif" alt="" align="left"/>
+            		            		Peripherieger&auml;te
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/TFT-Monitor/8/Seite-1.html" class="">TFT-Monitor</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Desktop-Set-Maus-Tastatur/130/Seite-1.html" class="">Desktop-Set / Maus &amp; Tastatur</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Maus/15/Seite-1.html" class="">Maus</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Tastatur/16/Seite-1.html" class="">Tastatur</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/WLAN-Zubeh%C3%B6r/57/Seite-1.html" class="">WLAN &amp; Zubeh&ouml;r</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/All-In-One-Drucker/42/Seite-1.html" class="">All-In-One Drucker</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Tintenstrahldrucker-Fotodrucker/11/Seite-1.html" class="">Tintenstrahldrucker &amp; Fotodrucker</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Laserdrucker/10/Seite-1.html" class="">Laserdrucker</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Scanner/12/Seite-1.html" class="">Scanner</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/USB-Stick/41/Seite-1.html" class="">USB-Stick</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Webcam/13/Seite-1.html" class="">Webcam</a>
+            		</div>
+            	                </div>
+            </div>
+	   						<div class="me-dummy"><hr color="#c0c0c0" size=1 /></div>
+					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/bildschirme.gif" alt="" align="left"/>
+            		            		Audio, Video, TV &amp; Kino
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/LCD-und-LED-TV/33/Seite-1.html" class="">LCD- und LED-TV</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Plasma-TV/34/Seite-1.html" class="">Plasma-TV</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Digital-Receiver/667/Seite-1.html" class="">Digital Receiver</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/DVD-und-Blu-Ray-Player/17/Seite-1.html" class="">DVD- und Blu-Ray-Player</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/DVD-und-Blu-Ray-Rekorder/18/Seite-1.html" class="">DVD- und Blu-Ray-Rekorder</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Beamer-Projektor/20/Seite-1.html" class="">Beamer / Projektor</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Heimkino-System/35/Seite-1.html" class="">Heimkino System</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Surround-Sound-System/14/Seite-1.html" class="">Surround-Sound-System</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Internetradio/668/Seite-1.html" class="">Internetradio</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Universalfernbedienung/673/Seite-1.html" class="">Universalfernbedienung</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Kopfh%C3%B6rer-Headset/677/Seite-1.html" class="">Kopfh&ouml;rer &amp; Headset</a>
+            		</div>
+            	                </div>
+            </div>
+	   					    <div class="float_left">
+              <div class="kategorie_teaser float_none">
+            	<p class="bold top_pad2 f_size12">
+            		            			<img src="/preisvergleich/img/icon/software.gif" alt="" align="left"/>
+            		            		Software
+            	</p>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Betriebssystem/25/Seite-1.html" class="">Betriebssystem</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Sicherheit-Antivirus-Firewall/43/Seite-1.html" class="">Sicherheit / Antivirus &amp; Firewall</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/B%C3%BCro-Software/30/Seite-1.html" class="">B&uuml;ro-Software</a>
+            		</div>
+            	            		<div class="kategorie_navy">
+            			<a href="/preisvergleich/Top-Produkte/Anwendungs-Software/44/Seite-1.html" class="">Anwendungs-Software</a>
+            		</div>
+            	                </div>
+            </div>
+	   	</div>
+</div>        </div>
+        <div class="me-dummy"></div>
+    </div>
+</div>
+</div>
+<div id="skyscraper-me" name="skyscraper" style="position:absolute;left:832px;top:92px;z-index:990;" ></div>
+</div>
+
+<script type="text/javascript">
+var meGalleryInitScript = [
+    window.meUrlPath + '/js/galleryInit.js?58363'
+]
+EFWS.Script.loadScripts(meGalleryInitScript, '');
+</script><div id="footer-grey-global">
+  <div id="footer-grey-wrapper">
+    <div id="se-footer">
+      
+        <a href="http://www.chip.de/ueberblick.html" title="&Uuml;berblick">&Uuml;berblick</a>
+      &nbsp;|&nbsp;
+        <a href="http://www.chip.de/artikel/CHIP-Bestenlisten-Alle-Testsieger-im-ueberblick_12823667.html" title="Beliebteste Produkte">Beliebteste Produkte</a>
+      &nbsp;|&nbsp;
+        <a href="http://www.chip.de/artikel/m.CHIP.de-das-mobile-Portal-von-CHIP-Online_37656502.html" title="CHIP Online Mobil">Mobil</a>
+      &nbsp;|&nbsp;
+        <a href="http://archiv.chip.de/" title="Archiv">Archiv</a>
+      &nbsp;|&nbsp;
+        <a href="http://forum.chip.de/archiv/" title="Forum">Foren-Archiv</a>
+      &nbsp;|&nbsp;
+        <a href="http://thema.chip.de/" title="Beliebteste Themen">Beliebteste Themen</a>
+      &nbsp;|&nbsp;
+        <a href="http://thema.chip.de/neuestethemen.htm" title="Neueste Themen">Neueste Themen</a>
+      
+    </div>
+    <div id="footer">
+<div class="footer-links">
+<p><b><a href="http://www.chip.de/ueberblick.html" title="Beliebte Kategorien">Beliebte Kategorien</a></b></p>
+<div class="footer-kategorien">
+  <ul>
+      
+		<li class="c"><a href="http://www.chip.de/Testcenter-Home-Entertainment-Flachbild-TV_24343261.html" title="Fernseher">Fernseher</a></li>
+      
+		<li><a href="http://www.chip.de/Testcenter-Digitalkamera_13658113.html" title="Digitalkamera">Digitalkamera</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/Test-Notebook_13658055.html" title="Notebook">Notebook</a></li>
+      
+		<li><a href="http://www.chip.de/Test-Schnaeppchen-Tipps-der-Redaktion_37247855.html" title="Schn&auml;ppchen">Schn&auml;ppchen</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/handy/" title="Handy">Handy</a></li>
+      
+		<li><a href="http://www.chip.de/Test-Software_13659530.html" title="Software">Software</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/Tipps-Tools_13101526.html" title="Tipps &amp; Tools">Tipps &amp; Tools</a></li>
+      
+		<li><a href="http://www.chip.de/Tipps-Tools-Sicherheit-Viren_28532439.html" title="Sicherheit">Sicherheit</a></li>
+      
+		<li class="c"><a href="http://www.chip.de/Testcenter-PC-Hardware_24215565.html" title="PC-Systeme">PC-Systeme</a></li>
+      
+		<li><a href="http://www.chip.de/ueberblick.html" title="Alle Kategorien">Alle Kategorien</a></li>
+      
+  </ul>
+</div>
+
+<div class="footer-globalelinks">
+  <ul>
+      
+        <li class="c"><a href="http://www.chip.de/usercenter/" title="Login" rel="nofollow">Login</a></li>
+      
+        <li><a href="http://www.chip.de/s_specials/CHIP-Online-Newsletter-Service_46023661.html" title="Newsletter" rel="nofollow">Newsletter</a></li>
+      
+        <li class="c"><a href="http://www.chip.de/cxo/Kontakt_10901850.html" title="Feedback" rel="nofollow">Feedback</a></li>
+      
+        <li class="separator-line">&nbsp;</li>
+      
+        <li class="c"><a href="http://www.chip.de/preisvergleich/" title="Preisvergleich" rel="nofollow">Preisvergleich</a></li>
+      
+        <li><a href="http://www.chip.de/cxo/Werbung_10897957.html" title="Werbung-Online" rel="nofollow">Werbung-Online</a></li>
+      
+        <li class="c"><a href="http://www.chip.de/cxo/E-Commerce_10897987.html" title="Shop-Partner" rel="nofollow">Shop-Partner</a></li>
+      
+  </ul>
+</div>
+
+<div class="c footer-am">
+  <div>
+  <p>CHIP Online bei:</p>
+
+  <ul class="am-links">
+	<li><a href="http://www.chip.de/s_specials/CHIP-Online-auf-YouTube_43580311.html" class="yt">YouTube</a></li>
+	<li><a href="http://www.chip.de/s_specials/CHIP-Online-auf-Twitter_43580308.html" class="tw">Twitter</a></li>
+	<li><a href="http://www.facebook.com/CHIPde" class="fb" target="_blank">Facebook</a></li>
+	<li><a href="https://plus.google.com/104490219549111229774" class="gp" target="_blank">Google+</a></li>
+  </ul>
+
+  <ul class="facebook-people">
+    <li class="p1">&nbsp;</li>
+    <li class="p2">&nbsp;</li>
+    <li class="p3">&nbsp;</li>
+    <li class="p4">&nbsp;</li>
+  </ul>
+  </div>
+</div>
+
+</div>
+
+<div class="footer-feature-box">
+<div class="chip-abo-box100519" id="chip-abo-box100519">
+  <a style="background-image: url(HTTP://www.chip.de/unabh_dateien/8234216/magazin-2012-06.gif);" class="magazin aboBoxClick" id="aboBox-magazin-aTag" href="http://www.chip-kiosk.de/chip100-612?utm_source=CHIPde&utm_medium=Banner&utm_campaign=InhaltTitel0612" rel="nofollow" title="CHIP Heft 06/2012"><span>CHIP Heft 06/2012</span></a>
+  <div class="abo-box-wrapper">
+    <p>
+      <span>Heft 06/2012:</span>
+      Die 5-Sterne <br />
+	  Mafia
+    </p>
+    <div class="bullet">
+      <ul>
+        <li><a class="aboBoxClick" href="http://www.chip-kiosk.de/chip100-612?utm_source=CHIPde&utm_medium=Banner&utm_campaign=InhaltTitel0612" rel="nofollow">Themen&uuml;bersicht</a></li>
+        <li><a class="aboBoxClick" href="http://www.chip-kiosk.de/?utm_source=CHIPde&utm_medium=Banner&utm_campaign=KioskOkt11">CHIP-Kiosk</a></li>
+        <li><a class="aboBoxClick" href="http://itunes.apple.com/de/app/chip/id414468283?mt=8&ign-mpt=uo%3D4">CHIP iPad Edition</a></li>
+        <li><a class="aboBoxClick" href="http://www.chip-media.de/chip-print/chip/titelportraet.html" rel="nofollow">Werbung-Print</a></li>
+      </ul>
+    </div>
+  </div>
+  <a class="magazin-angebot aboBoxClick" id="aboBox-magazin-angebot-aTag" href="http://www.chip-kiosk.de/chip100-612?utm_source=CHIPde&utm_medium=Banner&utm_campaign=InhaltTitel0612" rel="nofollow" title="Exklusives Angebot"><span>Exklusives Angebot</span></a>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+
+<div id="footer-black-global">
+  <div id="footer-black-wrapper">
+    <div id="footer-black">
+      <ul>
+        <li><a href="http://www.chip.de/c1_impressum/c1_impressum_13396219.html" rel="nofollow">Impressum</a></li>
+        <li><a href="http://www.chip.de/cxo/" rel="nofollow">Kontakt</a></li>
+        <li><a href="http://www.chip.de/s_specials/Nutzungshinweis-CHIP-Online_45829065.html" rel="nofollow">Nutzungshinweis</a></li>
+        <li><a href="http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html" rel="nofollow">Datenschutz</a></li>
+        <li><a href="http://www.chip.de/cxo/Presse-Service_10898017.html" rel="nofollow">Presse</a></li>
+        <li class="lastchild">
+          <ul>
+            <li><a href="http://www.chip.de/cxo/Stellenangebote-bei-CHIP-Xonio-Online_18442020.html" class="special"><span>Jobs bei CHIP Online</span></a></li>
+            <li><a href="http://clk.tradedoubler.com/click?p=23761&a=411323&url=http%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewPodcast%3Fid%3D302552786%26uo%3D6%26partnerId%3D2003" class="podcast" rel="nofollow"><span>Podcast</span></a></li>
+            <li><a href="http://www.chip.de/rss/rss_ueberblick.html" class="rss"><span>RSS</span></a></li>
+          </ul>
+        </li>
+      </ul>
+      <p class="cxo"><a href="http://www.chip.de/cxo/">&copy; CHIP Xonio Online GmbH 2012</a></p>
+    </div>
+  </div>
+</div>
+
+
+<div id="footer-white-global">
+  <div id="footer-white-wrapper">
+    <div id="footer-white"><a href="#" class="generator">Content Management by <b>Inter<span>Red</span></b></a></div>
+  </div>
+</div>
+
+<script type="text/javascript">
+Cxo_Adtech.google.fillContainers();
+</script>
+<script type="text/javascript">
+var adsc_rubrik = "Preisvergleich";
+var adsc_sb = "100";
+var adsc_mr = "100";
+var adsc_sk = "100";
+var adsc_sc = "0";
+var adsc_agof = "";
+var adsc_keyword = "";
+var adsc_percentages = ["100","100","100"];
+var adsc_sadwidth = "728";
+var adsc_sadheight = "90";
+var adsc_cadwidth = "300";
+var adsc_cadheight = "250";
+var adsc_popupwidth = "1";
+var adsc_popupheight = "1";
+var adsc_skyscraperwidth = "160";
+var adsc_skyscraperheight = "600";
+var adsc_layout = null;
+var adsc_brand = "";
+var adsc_product = "";
+var adsc_ressort = "26784";
+var adsc_rubrik_int = "1";
+var adsc_document_uri = "\/preisvergleich";
+ 
+</script>
+
+<script type='text/javascript'>  
+ 
+</script>
+
+<script type="text/javascript" src="http://a.tfag.de/js_ng/js_ng_chip_0300.js"></script>
+
+<script type='text/javascript'>
+</script> 
+
+<script type="text/javascript">
+    function Cxo_Adtech_AdServer_TFS(config)
+    {
+               
+        if('undefined' != config.tfminstantiframe && config.tfminstantiframe == true){
+            return function() {  
+                createSrcLessIFrame = function(){ 
+                    var iframe = document.createElement('iframe');
+                    iframe.style.display = 'block';
+                    document.getElementsByTagName('head')[0]
+                    .appendChild(iframe);
+                    return iframe; 
+                }
+                var iframeToHead = createSrcLessIFrame();
+                iframeToHead.contentWindow.document.open();
+                iframeToHead.contentWindow.document
+                .write('<!doctype html><html><head>');
+                iframeToHead.contentWindow.document
+                .write('<script> function CxoAdtechAdServerTfsputOver(){(function(){var list, parent, cur;list = document.getElementsByTagName("script");while(typeof(list[0]) !== "undefined"){ cur = list[0];parent = cur.parentNode;parent.removeChild(cur);}}());var iframeContent = document.getElementsByTagName("body")[0].innerHTML;top.document.getElementById("top-banner").innerHTML+=iframeContent;}</scr'+'ipt>');
+                iframeToHead.contentWindow.document
+                .write('</head>');
+                iframeToHead.contentWindow.document
+                .write('<body onload="CxoAdtechAdServerTfsputOver(); ">');
+                iframeToHead.contentWindow.document 
+                .write('<script type="text/javascript">var adsc_rubrik = top.adsc_rubrik;var adsc_sb = top.adsc_sb;var adsc_mr = top.adsc_mr;var adsc_sk = top.adsc_sk;var adsc_sc = top.adsc_sc;var adsc_agof = top.adsc_agof;var adsc_keyword = top.adsc_keyword;var adsc_percentages = top.adsc_percentages;var adsc_sadwidth = top.adsc_sadwidth;var adsc_sadheight = top.adsc_sadheight;var adsc_cadwidth = top.adsc_cadwidth;var adsc_cadheight = top.adsc_cadheight;var adsc_popupwidth = top.adsc_popupwidth;var adsc_popupheight = top.adsc_popupheight;var adsc_skyscraperwidth = top.adsc_skyscraperwidth;var adsc_skyscraperheight = top.adsc_skyscraperheight;var adsc_layout = top.adsc_layout;var adsc_brand = top.adsc_brand;var adsc_product = top.adsc_product;var adsc_ressort = top.adsc_ressort;var adsc_rubrik_int = top.adsc_rubrik_int;var adsc_document_uri = top.adsc_document_uri;</scr'+'ipt>');
+                iframeToHead.contentWindow.document
+                .write('<script type="text/javascript" src="http://a.tfag.de/js_ng/js_ng_chip_0300.js"></scr'+'ipt>');
+                iframeToHead.contentWindow.document
+                .write('<script language="javascript"> document.write(ads_gettag("BANNER",728,90,100,"js")); </scr'+'ipt>');
+                iframeToHead.contentWindow.document 
+                .write('</bo'+'dy></html>');
+                iframeToHead.contentWindow.document.close();
+ 
+                                    if (typeof(console) == 'object') console.info("call TFMINSTANTIFRAME");
+                    return '';
+                  
+                
+            }
+        } else {
+
+            return function() {
+                var adsource = ads_gettag(config.zoneid, config.width, config.height, 100);
+                return adsource;
+            }
+ 
+        }
+    }
+    function CXO_WriteBanner(banner)
+    {
+    }
+</script>
+<div id="async-top-banner-me" name="top" style="visibility:hidden;margin:2px 0px;" ><script type='text/javascript'>
+var config = {
+    zoneid: 'BANNER',
+    language: 'de',
+    channel: '26784',
+    subchannel: '0',
+    layout: '',
+    width:'728',
+    height:'90'
+};
+</script>
+<script type='text/javascript'>
+ 
+</script>
+<script type='text/javascript'>    
+var cxo_tfs_adcall = new Cxo_Adtech_AdServer_TFS(config);
+Cxo_Adtech.callAdServer('top-banner-me', cxo_tfs_adcall, []);
+</script>
+<script type='text/javascript'>
+cxo_tfs_adcall = null;
+</script>
+</div><script type="text/javascript">
+Cxo_Adtech.registerRule(
+    'top-banner-me',
+    Cxo_Adtech_Rule_TfsPanoramaAd,
+    {"zoneId":"top-banner-me"});
+</script><script type="text/javascript">
+Cxo_Adtech.registerRule(
+    'top-banner-me',
+    Cxo_Adtech_Rule_TfsBannerHeight,
+    {"zoneId":"top-banner-me"});
+</script>    <script type="text/javascript">
+        Cxo_Adtech.placeAd('top-banner-me');
+    </script>
+<div id="async-skyscraper-me" name="skyscraper" style="display:none;" ><script type='text/javascript'>
+var config = {
+    zoneid: 'SKYSCRAPER',
+    language: 'de',
+    channel: '26784',
+    subchannel: '0',
+    layout: '',
+    width:'160',
+    height:'600'
+};
+</script>
+<script type='text/javascript'>
+ 
+</script>
+<script type='text/javascript'>    
+var cxo_tfs_adcall = new Cxo_Adtech_AdServer_TFS(config);
+Cxo_Adtech.callAdServer('skyscraper-me', cxo_tfs_adcall, []);
+</script>
+<script type='text/javascript'>
+cxo_tfs_adcall = null;
+</script>
+</div>    <script type="text/javascript">
+        Cxo_Adtech.placeAd('skyscraper-me');
+    </script>
+<div id="async-commercial_ad_rechts" style="display:none;" ><script type='text/javascript'>
+var config = {
+    zoneid: 'CONTENTAD',
+    language: 'de',
+    channel: '26784',
+    subchannel: '0',
+    layout: '',
+    width:'300',
+    height:'250'
+};
+</script>
+<script type='text/javascript'>
+ 
+</script>
+<script type='text/javascript'>    
+var cxo_tfs_adcall = new Cxo_Adtech_AdServer_TFS(config);
+Cxo_Adtech.callAdServer('commercial_ad_rechts', cxo_tfs_adcall, []);
+</script>
+<script type='text/javascript'>
+cxo_tfs_adcall = null;
+</script>
+</div>    <script type="text/javascript">
+        Cxo_Adtech.placeAd('commercial_ad_rechts');
+    </script>
+
+<script type="text/javascript" language="JavaScript" src="http://chip.ivwbox.de/2004/01/survey.js"></script> </body>
+</html>
