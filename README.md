@@ -14,28 +14,23 @@ Different implementations
 You can try and benchmark different implementations
 
 1. HTTP
-===
-This is totally simple HTTP implementation
+This is totally simple HTTP implementation<br />
 node http.js (Port 80)
 
 2. HTTPS
-===
-This is totally simple HTTPS implementation
+This is totally simple HTTPS implementation<br />
 node https.js (Port 443)
 
 3. SPDY
-===
-This is exactly like the HTTPS implementation, only it uses SPDY protocol instead of HTTPS
+This is exactly like the HTTPS implementation, only it uses SPDY protocol instead of HTTPS<br />
 node spdy.js (Port 443)
 
 4. SPDY + Hinting
-===
-This implementation uses SPDY protocol with hinting
-4.1 Make sure first line of gonzales js is __var spdyMethod = 'hint';__
+This implementation uses SPDY protocol with hinting<br />
+4.1 Make sure first line of gonzales js is __var spdyMethod = 'hint';__<br />
 4.2 node gonzales.js
 
 5. SPDY + Push
-===
-This implementation uses SPDY protocol with push
-5.1 Make sure first line of gonzales js is __var spdyMethod = 'push';__
+This implementation uses SPDY protocol with push<br />
+5.1 Make sure first line of gonzales js is __var spdyMethod = 'push';__<br />
 5.2 node gonzales.js
