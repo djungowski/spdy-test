@@ -1,10 +1,5 @@
-var spdyMethod = 'push';
-
-var spdy = require('spdy'),
+var spdy = require('https'),
     fs = require('fs'),
-	imagesJs = require('./images-' + spdyMethod + '.js'),
-	cssJs = require('./css-' + spdyMethod + '.js'),
-	jsJs = require('./js-' + spdyMethod + '.js'),
 	url = require('url');
 	keysDir = '/root/node_modules/spdy/keys';
 
@@ -28,9 +23,6 @@ var server = spdy.createServer(options, function(request, response) {
 	response.end(responseource);
   }	else {
 	  var content = fs.readFileSync(__dirname + '/www.chip.de/index.html', 'utf8');
-	  jsJs.get(request, response, content);
-	  cssJs.get(request, response, content);
-	  imagesJs.get(request, response, content);
 	  response.writeHead(200);
 	  response.end(content);
   }
